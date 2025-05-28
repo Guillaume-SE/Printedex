@@ -8,8 +8,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Bulbizarre.jpg",
-      "shiny": "Bulbizarre_shiny.jpg"
+      "default": "Bulbizarre.png",
+      "shiny": "Bulbizarre_shiny.png"
     }
   },
   {
@@ -21,8 +21,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Herbizarre.jpg",
-      "shiny": "Herbizarre_shiny.jpg"
+      "default": "Herbizarre.png",
+      "shiny": "Herbizarre_shiny.png"
     }
   },
   {
@@ -34,8 +34,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Florizarre.jpg",
-      "shiny": "Florizarre_shiny.jpg"
+      "default": "Florizarre.png",
+      "shiny": "Florizarre_shiny.png"
     }
   },
   {
@@ -47,8 +47,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Salamèche.jpg",
-      "shiny": "Salamèche_shiny.jpg"
+      "default": "Salamèche.png",
+      "shiny": "Salamèche_shiny.png"
     }
   },
   {
@@ -60,8 +60,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Reptincel.jpg",
-      "shiny": "Reptincel_shiny.jpg"
+      "default": "Reptincel.png",
+      "shiny": "Reptincel_shiny.png"
     }
   },
   {
@@ -73,8 +73,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Dracaufeu.jpg",
-      "shiny": "Dracaufeu_shiny.jpg"
+      "default": "Dracaufeu.png",
+      "shiny": "Dracaufeu_shiny.png"
     }
   },
   {
@@ -86,8 +86,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Carapuce.jpg",
-      "shiny": "Carapuce_shiny.jpg"
+      "default": "Carapuce.png",
+      "shiny": "Carapuce_shiny.png"
     }
   },
   {
@@ -99,8 +99,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Carabaffe.jpg",
-      "shiny": "Carabaffe_shiny.jpg"
+      "default": "Carabaffe.png",
+      "shiny": "Carabaffe_shiny.png"
     }
   },
   {
@@ -112,8 +112,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Tortank.jpg",
-      "shiny": "Tortank_shiny.jpg"
+      "default": "Tortank.png",
+      "shiny": "Tortank_shiny.png"
     }
   },
   {
@@ -125,8 +125,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Chenipan.jpg",
-      "shiny": "Chenipan_shiny.jpg"
+      "default": "Chenipan.png",
+      "shiny": "Chenipan_shiny.png"
     }
   },
   {
@@ -138,8 +138,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Chrysacier.jpg",
-      "shiny": "Chrysacier_shiny.jpg"
+      "default": "Chrysacier.png",
+      "shiny": "Chrysacier_shiny.png"
     }
   },
   {
@@ -151,8 +151,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Papilusion.jpg",
-      "shiny": "Papilusion_shiny.jpg"
+      "default": "Papilusion.png",
+      "shiny": "Papilusion_shiny.png"
     }
   },
   {
@@ -164,8 +164,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Aspicot.jpg",
-      "shiny": "Aspicot_shiny.jpg"
+      "default": "Aspicot.png",
+      "shiny": "Aspicot_shiny.png"
     }
   },
   {
@@ -177,8 +177,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Coconfort.jpg",
-      "shiny": "Coconfort_shiny.jpg"
+      "default": "Coconfort.png",
+      "shiny": "Coconfort_shiny.png"
     }
   },
   {
@@ -190,8 +190,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Dardargnan.jpg",
-      "shiny": "Dardargnan_shiny.jpg"
+      "default": "Dardargnan.png",
+      "shiny": "Dardargnan_shiny.png"
     }
   },
   {
@@ -203,8 +203,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Roucool.jpg",
-      "shiny": "Roucool_shiny.jpg"
+      "default": "Roucool.png",
+      "shiny": "Roucool_shiny.png"
     }
   },
   {
@@ -216,8 +216,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Roucoups.jpg",
-      "shiny": "Roucoups_shiny.jpg"
+      "default": "Roucoups.png",
+      "shiny": "Roucoups_shiny.png"
     }
   },
   {
@@ -229,8 +229,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Roucarnage.jpg",
-      "shiny": "Roucarnage_shiny.jpg"
+      "default": "Roucarnage.png",
+      "shiny": "Roucarnage_shiny.png"
     }
   },
   {
@@ -242,8 +242,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Rattata.jpg",
-      "shiny": "Rattata_shiny.jpg"
+      "default": "Rattata.png",
+      "shiny": "Rattata_shiny.png"
     }
   },
   {
@@ -255,8 +255,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Rattatac.jpg",
-      "shiny": "Rattatac_shiny.jpg"
+      "default": "Rattatac.png",
+      "shiny": "Rattatac_shiny.png"
     }
   },
   {
@@ -268,8 +268,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Piafabec.jpg",
-      "shiny": "Piafabec_shiny.jpg"
+      "default": "Piafabec.png",
+      "shiny": "Piafabec_shiny.png"
     }
   },
   {
@@ -281,8 +281,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Rapasdepic.jpg",
-      "shiny": "Rapasdepic_shiny.jpg"
+      "default": "Rapasdepic.png",
+      "shiny": "Rapasdepic_shiny.png"
     }
   },
   {
@@ -294,8 +294,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Abo.jpg",
-      "shiny": "Abo_shiny.jpg"
+      "default": "Abo.png",
+      "shiny": "Abo_shiny.png"
     }
   },
   {
@@ -307,8 +307,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Arbok.jpg",
-      "shiny": "Arbok_shiny.jpg"
+      "default": "Arbok.png",
+      "shiny": "Arbok_shiny.png"
     }
   },
   {
@@ -320,8 +320,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Pikachu.jpg",
-      "shiny": "Pikachu_shiny.jpg"
+      "default": "Pikachu.png",
+      "shiny": "Pikachu_shiny.png"
     }
   },
   {
@@ -333,8 +333,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Raichu.jpg",
-      "shiny": "Raichu_shiny.jpg"
+      "default": "Raichu.png",
+      "shiny": "Raichu_shiny.png"
     }
   },
   {
@@ -346,8 +346,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Sabelette.jpg",
-      "shiny": "Sabelette_shiny.jpg"
+      "default": "Sabelette.png",
+      "shiny": "Sabelette_shiny.png"
     }
   },
   {
@@ -359,8 +359,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Sablaireau.jpg",
-      "shiny": "Sablaireau_shiny.jpg"
+      "default": "Sablaireau.png",
+      "shiny": "Sablaireau_shiny.png"
     }
   },
   {
@@ -372,8 +372,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Nidoran♀.jpg",
-      "shiny": "Nidoran♀_shiny.jpg"
+      "default": "Nidoran♀.png",
+      "shiny": "Nidoran♀_shiny.png"
     }
   },
   {
@@ -385,8 +385,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Nidorina.jpg",
-      "shiny": "Nidorina_shiny.jpg"
+      "default": "Nidorina.png",
+      "shiny": "Nidorina_shiny.png"
     }
   },
   {
@@ -398,8 +398,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Nidoqueen.jpg",
-      "shiny": "Nidoqueen_shiny.jpg"
+      "default": "Nidoqueen.png",
+      "shiny": "Nidoqueen_shiny.png"
     }
   },
   {
@@ -411,8 +411,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Nidoran♂.jpg",
-      "shiny": "Nidoran♂_shiny.jpg"
+      "default": "Nidoran♂.png",
+      "shiny": "Nidoran♂_shiny.png"
     }
   },
   {
@@ -424,8 +424,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Nidorino.jpg",
-      "shiny": "Nidorino_shiny.jpg"
+      "default": "Nidorino.png",
+      "shiny": "Nidorino_shiny.png"
     }
   },
   {
@@ -437,8 +437,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Nidoking.jpg",
-      "shiny": "Nidoking_shiny.jpg"
+      "default": "Nidoking.png",
+      "shiny": "Nidoking_shiny.png"
     }
   },
   {
@@ -450,8 +450,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Mélofée.jpg",
-      "shiny": "Mélofée_shiny.jpg"
+      "default": "Mélofée.png",
+      "shiny": "Mélofée_shiny.png"
     }
   },
   {
@@ -463,8 +463,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Mélodelfe.jpg",
-      "shiny": "Mélodelfe_shiny.jpg"
+      "default": "Mélodelfe.png",
+      "shiny": "Mélodelfe_shiny.png"
     }
   },
   {
@@ -476,8 +476,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Goupix.jpg",
-      "shiny": "Goupix_shiny.jpg"
+      "default": "Goupix.png",
+      "shiny": "Goupix_shiny.png"
     }
   },
   {
@@ -489,8 +489,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Feunard.jpg",
-      "shiny": "Feunard_shiny.jpg"
+      "default": "Feunard.png",
+      "shiny": "Feunard_shiny.png"
     }
   },
   {
@@ -502,8 +502,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Rondoudou.jpg",
-      "shiny": "Rondoudou_shiny.jpg"
+      "default": "Rondoudou.png",
+      "shiny": "Rondoudou_shiny.png"
     }
   },
   {
@@ -515,8 +515,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Grodoudou.jpg",
-      "shiny": "Grodoudou_shiny.jpg"
+      "default": "Grodoudou.png",
+      "shiny": "Grodoudou_shiny.png"
     }
   },
   {
@@ -528,8 +528,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Nosferapti.jpg",
-      "shiny": "Nosferapti_shiny.jpg"
+      "default": "Nosferapti.png",
+      "shiny": "Nosferapti_shiny.png"
     }
   },
   {
@@ -541,8 +541,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Nosferalto.jpg",
-      "shiny": "Nosferalto_shiny.jpg"
+      "default": "Nosferalto.png",
+      "shiny": "Nosferalto_shiny.png"
     }
   },
   {
@@ -554,8 +554,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Mystherbe.jpg",
-      "shiny": "Mystherbe_shiny.jpg"
+      "default": "Mystherbe.png",
+      "shiny": "Mystherbe_shiny.png"
     }
   },
   {
@@ -567,8 +567,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Ortide.jpg",
-      "shiny": "Ortide_shiny.jpg"
+      "default": "Ortide.png",
+      "shiny": "Ortide_shiny.png"
     }
   },
   {
@@ -580,8 +580,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Rafflesia.jpg",
-      "shiny": "Rafflesia_shiny.jpg"
+      "default": "Rafflesia.png",
+      "shiny": "Rafflesia_shiny.png"
     }
   },
   {
@@ -593,8 +593,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Paras.jpg",
-      "shiny": "Paras_shiny.jpg"
+      "default": "Paras.png",
+      "shiny": "Paras_shiny.png"
     }
   },
   {
@@ -606,8 +606,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Parasect.jpg",
-      "shiny": "Parasect_shiny.jpg"
+      "default": "Parasect.png",
+      "shiny": "Parasect_shiny.png"
     }
   },
   {
@@ -619,8 +619,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Mimitoss.jpg",
-      "shiny": "Mimitoss_shiny.jpg"
+      "default": "Mimitoss.png",
+      "shiny": "Mimitoss_shiny.png"
     }
   },
   {
@@ -632,8 +632,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Aéromite.jpg",
-      "shiny": "Aéromite_shiny.jpg"
+      "default": "Aéromite.png",
+      "shiny": "Aéromite_shiny.png"
     }
   },
   {
@@ -645,8 +645,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Taupiqueur.jpg",
-      "shiny": "Taupiqueur_shiny.jpg"
+      "default": "Taupiqueur.png",
+      "shiny": "Taupiqueur_shiny.png"
     }
   },
   {
@@ -658,8 +658,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Triopikeur.jpg",
-      "shiny": "Triopikeur_shiny.jpg"
+      "default": "Triopikeur.png",
+      "shiny": "Triopikeur_shiny.png"
     }
   },
   {
@@ -671,8 +671,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Miaouss.jpg",
-      "shiny": "Miaouss_shiny.jpg"
+      "default": "Miaouss.png",
+      "shiny": "Miaouss_shiny.png"
     }
   },
   {
@@ -684,8 +684,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Persian.jpg",
-      "shiny": "Persian_shiny.jpg"
+      "default": "Persian.png",
+      "shiny": "Persian_shiny.png"
     }
   },
   {
@@ -697,8 +697,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Psykokwak.jpg",
-      "shiny": "Psykokwak_shiny.jpg"
+      "default": "Psykokwak.png",
+      "shiny": "Psykokwak_shiny.png"
     }
   },
   {
@@ -710,8 +710,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Akwakwak.jpg",
-      "shiny": "Akwakwak_shiny.jpg"
+      "default": "Akwakwak.png",
+      "shiny": "Akwakwak_shiny.png"
     }
   },
   {
@@ -723,8 +723,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Férosinge.jpg",
-      "shiny": "Férosinge_shiny.jpg"
+      "default": "Férosinge.png",
+      "shiny": "Férosinge_shiny.png"
     }
   },
   {
@@ -736,8 +736,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Colossinge.jpg",
-      "shiny": "Colossinge_shiny.jpg"
+      "default": "Colossinge.png",
+      "shiny": "Colossinge_shiny.png"
     }
   },
   {
@@ -749,8 +749,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Caninos.jpg",
-      "shiny": "Caninos_shiny.jpg"
+      "default": "Caninos.png",
+      "shiny": "Caninos_shiny.png"
     }
   },
   {
@@ -762,8 +762,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Arcanin.jpg",
-      "shiny": "Arcanin_shiny.jpg"
+      "default": "Arcanin.png",
+      "shiny": "Arcanin_shiny.png"
     }
   },
   {
@@ -775,8 +775,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Ptitard.jpg",
-      "shiny": "Ptitard_shiny.jpg"
+      "default": "Ptitard.png",
+      "shiny": "Ptitard_shiny.png"
     }
   },
   {
@@ -788,8 +788,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Têtarte.jpg",
-      "shiny": "Têtarte_shiny.jpg"
+      "default": "Têtarte.png",
+      "shiny": "Têtarte_shiny.png"
     }
   },
   {
@@ -801,8 +801,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Tartard.jpg",
-      "shiny": "Tartard_shiny.jpg"
+      "default": "Tartard.png",
+      "shiny": "Tartard_shiny.png"
     }
   },
   {
@@ -814,8 +814,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Abra.jpg",
-      "shiny": "Abra_shiny.jpg"
+      "default": "Abra.png",
+      "shiny": "Abra_shiny.png"
     }
   },
   {
@@ -827,8 +827,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Kadabra.jpg",
-      "shiny": "Kadabra_shiny.jpg"
+      "default": "Kadabra.png",
+      "shiny": "Kadabra_shiny.png"
     }
   },
   {
@@ -840,8 +840,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Alakazam.jpg",
-      "shiny": "Alakazam_shiny.jpg"
+      "default": "Alakazam.png",
+      "shiny": "Alakazam_shiny.png"
     }
   },
   {
@@ -853,8 +853,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Machoc.jpg",
-      "shiny": "Machoc_shiny.jpg"
+      "default": "Machoc.png",
+      "shiny": "Machoc_shiny.png"
     }
   },
   {
@@ -866,8 +866,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Machopeur.jpg",
-      "shiny": "Machopeur_shiny.jpg"
+      "default": "Machopeur.png",
+      "shiny": "Machopeur_shiny.png"
     }
   },
   {
@@ -879,8 +879,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Mackogneur.jpg",
-      "shiny": "Mackogneur_shiny.jpg"
+      "default": "Mackogneur.png",
+      "shiny": "Mackogneur_shiny.png"
     }
   },
   {
@@ -892,8 +892,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Chétiflor.jpg",
-      "shiny": "Chétiflor_shiny.jpg"
+      "default": "Chétiflor.png",
+      "shiny": "Chétiflor_shiny.png"
     }
   },
   {
@@ -905,8 +905,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Boustiflor.jpg",
-      "shiny": "Boustiflor_shiny.jpg"
+      "default": "Boustiflor.png",
+      "shiny": "Boustiflor_shiny.png"
     }
   },
   {
@@ -918,8 +918,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Empiflor.jpg",
-      "shiny": "Empiflor_shiny.jpg"
+      "default": "Empiflor.png",
+      "shiny": "Empiflor_shiny.png"
     }
   },
   {
@@ -931,8 +931,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Tentacool.jpg",
-      "shiny": "Tentacool_shiny.jpg"
+      "default": "Tentacool.png",
+      "shiny": "Tentacool_shiny.png"
     }
   },
   {
@@ -944,8 +944,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Tentacruel.jpg",
-      "shiny": "Tentacruel_shiny.jpg"
+      "default": "Tentacruel.png",
+      "shiny": "Tentacruel_shiny.png"
     }
   },
   {
@@ -957,8 +957,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Racaillou.jpg",
-      "shiny": "Racaillou_shiny.jpg"
+      "default": "Racaillou.png",
+      "shiny": "Racaillou_shiny.png"
     }
   },
   {
@@ -970,8 +970,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Gravalanch.jpg",
-      "shiny": "Gravalanch_shiny.jpg"
+      "default": "Gravalanch.png",
+      "shiny": "Gravalanch_shiny.png"
     }
   },
   {
@@ -983,8 +983,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Grolem.jpg",
-      "shiny": "Grolem_shiny.jpg"
+      "default": "Grolem.png",
+      "shiny": "Grolem_shiny.png"
     }
   },
   {
@@ -996,8 +996,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Ponyta.jpg",
-      "shiny": "Ponyta_shiny.jpg"
+      "default": "Ponyta.png",
+      "shiny": "Ponyta_shiny.png"
     }
   },
   {
@@ -1009,8 +1009,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Galopa.jpg",
-      "shiny": "Galopa_shiny.jpg"
+      "default": "Galopa.png",
+      "shiny": "Galopa_shiny.png"
     }
   },
   {
@@ -1022,8 +1022,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Ramoloss.jpg",
-      "shiny": "Ramoloss_shiny.jpg"
+      "default": "Ramoloss.png",
+      "shiny": "Ramoloss_shiny.png"
     }
   },
   {
@@ -1035,8 +1035,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Flagadoss.jpg",
-      "shiny": "Flagadoss_shiny.jpg"
+      "default": "Flagadoss.png",
+      "shiny": "Flagadoss_shiny.png"
     }
   },
   {
@@ -1048,8 +1048,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Magnéti.jpg",
-      "shiny": "Magnéti_shiny.jpg"
+      "default": "Magnéti.png",
+      "shiny": "Magnéti_shiny.png"
     }
   },
   {
@@ -1061,8 +1061,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Magnéton.jpg",
-      "shiny": "Magnéton_shiny.jpg"
+      "default": "Magnéton.png",
+      "shiny": "Magnéton_shiny.png"
     }
   },
   {
@@ -1074,8 +1074,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Canarticho.jpg",
-      "shiny": "Canarticho_shiny.jpg"
+      "default": "Canarticho.png",
+      "shiny": "Canarticho_shiny.png"
     }
   },
   {
@@ -1087,8 +1087,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Doduo.jpg",
-      "shiny": "Doduo_shiny.jpg"
+      "default": "Doduo.png",
+      "shiny": "Doduo_shiny.png"
     }
   },
   {
@@ -1100,8 +1100,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Dodrio.jpg",
-      "shiny": "Dodrio_shiny.jpg"
+      "default": "Dodrio.png",
+      "shiny": "Dodrio_shiny.png"
     }
   },
   {
@@ -1113,8 +1113,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Otaria.jpg",
-      "shiny": "Otaria_shiny.jpg"
+      "default": "Otaria.png",
+      "shiny": "Otaria_shiny.png"
     }
   },
   {
@@ -1126,8 +1126,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Lamantine.jpg",
-      "shiny": "Lamantine_shiny.jpg"
+      "default": "Lamantine.png",
+      "shiny": "Lamantine_shiny.png"
     }
   },
   {
@@ -1139,8 +1139,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Tadmorv.jpg",
-      "shiny": "Tadmorv_shiny.jpg"
+      "default": "Tadmorv.png",
+      "shiny": "Tadmorv_shiny.png"
     }
   },
   {
@@ -1152,8 +1152,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Grotadmorv.jpg",
-      "shiny": "Grotadmorv_shiny.jpg"
+      "default": "Grotadmorv.png",
+      "shiny": "Grotadmorv_shiny.png"
     }
   },
   {
@@ -1165,8 +1165,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Kokiyas.jpg",
-      "shiny": "Kokiyas_shiny.jpg"
+      "default": "Kokiyas.png",
+      "shiny": "Kokiyas_shiny.png"
     }
   },
   {
@@ -1178,8 +1178,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Crustabri.jpg",
-      "shiny": "Crustabri_shiny.jpg"
+      "default": "Crustabri.png",
+      "shiny": "Crustabri_shiny.png"
     }
   },
   {
@@ -1191,8 +1191,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Fantominus.jpg",
-      "shiny": "Fantominus_shiny.jpg"
+      "default": "Fantominus.png",
+      "shiny": "Fantominus_shiny.png"
     }
   },
   {
@@ -1204,8 +1204,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Spectrum.jpg",
-      "shiny": "Spectrum_shiny.jpg"
+      "default": "Spectrum.png",
+      "shiny": "Spectrum_shiny.png"
     }
   },
   {
@@ -1217,8 +1217,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Ectoplasma.jpg",
-      "shiny": "Ectoplasma_shiny.jpg"
+      "default": "Ectoplasma.png",
+      "shiny": "Ectoplasma_shiny.png"
     }
   },
   {
@@ -1230,8 +1230,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Onix.jpg",
-      "shiny": "Onix_shiny.jpg"
+      "default": "Onix.png",
+      "shiny": "Onix_shiny.png"
     }
   },
   {
@@ -1243,8 +1243,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Soporifik.jpg",
-      "shiny": "Soporifik_shiny.jpg"
+      "default": "Soporifik.png",
+      "shiny": "Soporifik_shiny.png"
     }
   },
   {
@@ -1256,8 +1256,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Hypnomade.jpg",
-      "shiny": "Hypnomade_shiny.jpg"
+      "default": "Hypnomade.png",
+      "shiny": "Hypnomade_shiny.png"
     }
   },
   {
@@ -1269,8 +1269,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Krabby.jpg",
-      "shiny": "Krabby_shiny.jpg"
+      "default": "Krabby.png",
+      "shiny": "Krabby_shiny.png"
     }
   },
   {
@@ -1282,8 +1282,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Krabboss.jpg",
-      "shiny": "Krabboss_shiny.jpg"
+      "default": "Krabboss.png",
+      "shiny": "Krabboss_shiny.png"
     }
   },
   {
@@ -1295,8 +1295,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Voltorbe.jpg",
-      "shiny": "Voltorbe_shiny.jpg"
+      "default": "Voltorbe.png",
+      "shiny": "Voltorbe_shiny.png"
     }
   },
   {
@@ -1308,8 +1308,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Électrode.jpg",
-      "shiny": "Électrode_shiny.jpg"
+      "default": "Électrode.png",
+      "shiny": "Électrode_shiny.png"
     }
   },
   {
@@ -1321,8 +1321,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Noeunoeuf.jpg",
-      "shiny": "Noeunoeuf_shiny.jpg"
+      "default": "Noeunoeuf.png",
+      "shiny": "Noeunoeuf_shiny.png"
     }
   },
   {
@@ -1334,8 +1334,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Noadkoko.jpg",
-      "shiny": "Noadkoko_shiny.jpg"
+      "default": "Noadkoko.png",
+      "shiny": "Noadkoko_shiny.png"
     }
   },
   {
@@ -1347,8 +1347,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Osselait.jpg",
-      "shiny": "Osselait_shiny.jpg"
+      "default": "Osselait.png",
+      "shiny": "Osselait_shiny.png"
     }
   },
   {
@@ -1360,8 +1360,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Ossatueur.jpg",
-      "shiny": "Ossatueur_shiny.jpg"
+      "default": "Ossatueur.png",
+      "shiny": "Ossatueur_shiny.png"
     }
   },
   {
@@ -1373,8 +1373,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Kicklee.jpg",
-      "shiny": "Kicklee_shiny.jpg"
+      "default": "Kicklee.png",
+      "shiny": "Kicklee_shiny.png"
     }
   },
   {
@@ -1386,8 +1386,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Tygnon.jpg",
-      "shiny": "Tygnon_shiny.jpg"
+      "default": "Tygnon.png",
+      "shiny": "Tygnon_shiny.png"
     }
   },
   {
@@ -1399,8 +1399,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Excelangue.jpg",
-      "shiny": "Excelangue_shiny.jpg"
+      "default": "Excelangue.png",
+      "shiny": "Excelangue_shiny.png"
     }
   },
   {
@@ -1412,8 +1412,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Smogo.jpg",
-      "shiny": "Smogo_shiny.jpg"
+      "default": "Smogo.png",
+      "shiny": "Smogo_shiny.png"
     }
   },
   {
@@ -1425,8 +1425,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Smogogo.jpg",
-      "shiny": "Smogogo_shiny.jpg"
+      "default": "Smogogo.png",
+      "shiny": "Smogogo_shiny.png"
     }
   },
   {
@@ -1438,8 +1438,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Rhinocorne.jpg",
-      "shiny": "Rhinocorne_shiny.jpg"
+      "default": "Rhinocorne.png",
+      "shiny": "Rhinocorne_shiny.png"
     }
   },
   {
@@ -1451,8 +1451,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Rhinoféros.jpg",
-      "shiny": "Rhinoféros_shiny.jpg"
+      "default": "Rhinoféros.png",
+      "shiny": "Rhinoféros_shiny.png"
     }
   },
   {
@@ -1464,8 +1464,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Leveinard.jpg",
-      "shiny": "Leveinard_shiny.jpg"
+      "default": "Leveinard.png",
+      "shiny": "Leveinard_shiny.png"
     }
   },
   {
@@ -1477,8 +1477,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Saquedeneu.jpg",
-      "shiny": "Saquedeneu_shiny.jpg"
+      "default": "Saquedeneu.png",
+      "shiny": "Saquedeneu_shiny.png"
     }
   },
   {
@@ -1490,8 +1490,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Kangourex.jpg",
-      "shiny": "Kangourex_shiny.jpg"
+      "default": "Kangourex.png",
+      "shiny": "Kangourex_shiny.png"
     }
   },
   {
@@ -1503,8 +1503,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Hypotrempe.jpg",
-      "shiny": "Hypotrempe_shiny.jpg"
+      "default": "Hypotrempe.png",
+      "shiny": "Hypotrempe_shiny.png"
     }
   },
   {
@@ -1516,8 +1516,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Hypocéan.jpg",
-      "shiny": "Hypocéan_shiny.jpg"
+      "default": "Hypocéan.png",
+      "shiny": "Hypocéan_shiny.png"
     }
   },
   {
@@ -1529,8 +1529,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Poissirène.jpg",
-      "shiny": "Poissirène_shiny.jpg"
+      "default": "Poissirène.png",
+      "shiny": "Poissirène_shiny.png"
     }
   },
   {
@@ -1542,8 +1542,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Poissoroy.jpg",
-      "shiny": "Poissoroy_shiny.jpg"
+      "default": "Poissoroy.png",
+      "shiny": "Poissoroy_shiny.png"
     }
   },
   {
@@ -1555,8 +1555,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Stari.jpg",
-      "shiny": "Stari_shiny.jpg"
+      "default": "Stari.png",
+      "shiny": "Stari_shiny.png"
     }
   },
   {
@@ -1568,8 +1568,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Staross.jpg",
-      "shiny": "Staross_shiny.jpg"
+      "default": "Staross.png",
+      "shiny": "Staross_shiny.png"
     }
   },
   {
@@ -1581,8 +1581,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "M. Mime.jpg",
-      "shiny": "M. Mime_shiny.jpg"
+      "default": "M. Mime.png",
+      "shiny": "M. Mime_shiny.png"
     }
   },
   {
@@ -1594,8 +1594,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Insécateur.jpg",
-      "shiny": "Insécateur_shiny.jpg"
+      "default": "Insécateur.png",
+      "shiny": "Insécateur_shiny.png"
     }
   },
   {
@@ -1607,8 +1607,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Lippoutou.jpg",
-      "shiny": "Lippoutou_shiny.jpg"
+      "default": "Lippoutou.png",
+      "shiny": "Lippoutou_shiny.png"
     }
   },
   {
@@ -1620,8 +1620,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Élektek.jpg",
-      "shiny": "Élektek_shiny.jpg"
+      "default": "Élektek.png",
+      "shiny": "Élektek_shiny.png"
     }
   },
   {
@@ -1633,8 +1633,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Magmar.jpg",
-      "shiny": "Magmar_shiny.jpg"
+      "default": "Magmar.png",
+      "shiny": "Magmar_shiny.png"
     }
   },
   {
@@ -1646,8 +1646,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Scarabrute.jpg",
-      "shiny": "Scarabrute_shiny.jpg"
+      "default": "Scarabrute.png",
+      "shiny": "Scarabrute_shiny.png"
     }
   },
   {
@@ -1659,8 +1659,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Tauros.jpg",
-      "shiny": "Tauros_shiny.jpg"
+      "default": "Tauros.png",
+      "shiny": "Tauros_shiny.png"
     }
   },
   {
@@ -1672,8 +1672,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Magicarpe.jpg",
-      "shiny": "Magicarpe_shiny.jpg"
+      "default": "Magicarpe.png",
+      "shiny": "Magicarpe_shiny.png"
     }
   },
   {
@@ -1685,8 +1685,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Léviator.jpg",
-      "shiny": "Léviator_shiny.jpg"
+      "default": "Léviator.png",
+      "shiny": "Léviator_shiny.png"
     }
   },
   {
@@ -1698,8 +1698,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Lokhlass.jpg",
-      "shiny": "Lokhlass_shiny.jpg"
+      "default": "Lokhlass.png",
+      "shiny": "Lokhlass_shiny.png"
     }
   },
   {
@@ -1711,8 +1711,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Métamorph.jpg",
-      "shiny": "Métamorph_shiny.jpg"
+      "default": "Métamorph.png",
+      "shiny": "Métamorph_shiny.png"
     }
   },
   {
@@ -1724,8 +1724,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Évoli.jpg",
-      "shiny": "Évoli_shiny.jpg"
+      "default": "Évoli.png",
+      "shiny": "Évoli_shiny.png"
     }
   },
   {
@@ -1737,8 +1737,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Aquali.jpg",
-      "shiny": "Aquali_shiny.jpg"
+      "default": "Aquali.png",
+      "shiny": "Aquali_shiny.png"
     }
   },
   {
@@ -1750,8 +1750,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Voltali.jpg",
-      "shiny": "Voltali_shiny.jpg"
+      "default": "Voltali.png",
+      "shiny": "Voltali_shiny.png"
     }
   },
   {
@@ -1763,8 +1763,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Pyroli.jpg",
-      "shiny": "Pyroli_shiny.jpg"
+      "default": "Pyroli.png",
+      "shiny": "Pyroli_shiny.png"
     }
   },
   {
@@ -1776,8 +1776,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Porygon.jpg",
-      "shiny": "Porygon_shiny.jpg"
+      "default": "Porygon.png",
+      "shiny": "Porygon_shiny.png"
     }
   },
   {
@@ -1789,8 +1789,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Amonita.jpg",
-      "shiny": "Amonita_shiny.jpg"
+      "default": "Amonita.png",
+      "shiny": "Amonita_shiny.png"
     }
   },
   {
@@ -1802,8 +1802,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Amonistar.jpg",
-      "shiny": "Amonistar_shiny.jpg"
+      "default": "Amonistar.png",
+      "shiny": "Amonistar_shiny.png"
     }
   },
   {
@@ -1815,8 +1815,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Kabuto.jpg",
-      "shiny": "Kabuto_shiny.jpg"
+      "default": "Kabuto.png",
+      "shiny": "Kabuto_shiny.png"
     }
   },
   {
@@ -1828,8 +1828,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Kabutops.jpg",
-      "shiny": "Kabutops_shiny.jpg"
+      "default": "Kabutops.png",
+      "shiny": "Kabutops_shiny.png"
     }
   },
   {
@@ -1841,8 +1841,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Ptéra.jpg",
-      "shiny": "Ptéra_shiny.jpg"
+      "default": "Ptéra.png",
+      "shiny": "Ptéra_shiny.png"
     }
   },
   {
@@ -1854,8 +1854,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Ronflex.jpg",
-      "shiny": "Ronflex_shiny.jpg"
+      "default": "Ronflex.png",
+      "shiny": "Ronflex_shiny.png"
     }
   },
   {
@@ -1867,8 +1867,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Artikodin.jpg",
-      "shiny": "Artikodin_shiny.jpg"
+      "default": "Artikodin.png",
+      "shiny": "Artikodin_shiny.png"
     }
   },
   {
@@ -1880,8 +1880,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Électhor.jpg",
-      "shiny": "Électhor_shiny.jpg"
+      "default": "Électhor.png",
+      "shiny": "Électhor_shiny.png"
     }
   },
   {
@@ -1893,8 +1893,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Sulfura.jpg",
-      "shiny": "Sulfura_shiny.jpg"
+      "default": "Sulfura.png",
+      "shiny": "Sulfura_shiny.png"
     }
   },
   {
@@ -1906,8 +1906,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Minidraco.jpg",
-      "shiny": "Minidraco_shiny.jpg"
+      "default": "Minidraco.png",
+      "shiny": "Minidraco_shiny.png"
     }
   },
   {
@@ -1919,8 +1919,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Draco.jpg",
-      "shiny": "Draco_shiny.jpg"
+      "default": "Draco.png",
+      "shiny": "Draco_shiny.png"
     }
   },
   {
@@ -1932,8 +1932,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Dracolosse.jpg",
-      "shiny": "Dracolosse_shiny.jpg"
+      "default": "Dracolosse.png",
+      "shiny": "Dracolosse_shiny.png"
     }
   },
   {
@@ -1945,8 +1945,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Mewtwo.jpg",
-      "shiny": "Mewtwo_shiny.jpg"
+      "default": "Mewtwo.png",
+      "shiny": "Mewtwo_shiny.png"
     }
   },
   {
@@ -1958,8 +1958,8 @@ export const pokedex = [
     },
     "generation": "1",
     "spriteFilenames": {
-      "default": "Mew.jpg",
-      "shiny": "Mew_shiny.jpg"
+      "default": "Mew.png",
+      "shiny": "Mew_shiny.png"
     }
   },
   {
@@ -1971,8 +1971,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Germignon.jpg",
-      "shiny": "Germignon_shiny.jpg"
+      "default": "Germignon.png",
+      "shiny": "Germignon_shiny.png"
     }
   },
   {
@@ -1984,8 +1984,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Macronium.jpg",
-      "shiny": "Macronium_shiny.jpg"
+      "default": "Macronium.png",
+      "shiny": "Macronium_shiny.png"
     }
   },
   {
@@ -1997,8 +1997,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Méganium.jpg",
-      "shiny": "Méganium_shiny.jpg"
+      "default": "Méganium.png",
+      "shiny": "Méganium_shiny.png"
     }
   },
   {
@@ -2010,8 +2010,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Héricendre.jpg",
-      "shiny": "Héricendre_shiny.jpg"
+      "default": "Héricendre.png",
+      "shiny": "Héricendre_shiny.png"
     }
   },
   {
@@ -2023,8 +2023,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Feurisson.jpg",
-      "shiny": "Feurisson_shiny.jpg"
+      "default": "Feurisson.png",
+      "shiny": "Feurisson_shiny.png"
     }
   },
   {
@@ -2036,8 +2036,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Typhlosion.jpg",
-      "shiny": "Typhlosion_shiny.jpg"
+      "default": "Typhlosion.png",
+      "shiny": "Typhlosion_shiny.png"
     }
   },
   {
@@ -2049,8 +2049,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Kaiminus.jpg",
-      "shiny": "Kaiminus_shiny.jpg"
+      "default": "Kaiminus.png",
+      "shiny": "Kaiminus_shiny.png"
     }
   },
   {
@@ -2062,8 +2062,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Crocrodil.jpg",
-      "shiny": "Crocrodil_shiny.jpg"
+      "default": "Crocrodil.png",
+      "shiny": "Crocrodil_shiny.png"
     }
   },
   {
@@ -2075,8 +2075,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Aligatueur.jpg",
-      "shiny": "Aligatueur_shiny.jpg"
+      "default": "Aligatueur.png",
+      "shiny": "Aligatueur_shiny.png"
     }
   },
   {
@@ -2088,8 +2088,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Fouinette.jpg",
-      "shiny": "Fouinette_shiny.jpg"
+      "default": "Fouinette.png",
+      "shiny": "Fouinette_shiny.png"
     }
   },
   {
@@ -2101,8 +2101,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Fouinar.jpg",
-      "shiny": "Fouinar_shiny.jpg"
+      "default": "Fouinar.png",
+      "shiny": "Fouinar_shiny.png"
     }
   },
   {
@@ -2114,8 +2114,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Hoothoot.jpg",
-      "shiny": "Hoothoot_shiny.jpg"
+      "default": "Hoothoot.png",
+      "shiny": "Hoothoot_shiny.png"
     }
   },
   {
@@ -2127,8 +2127,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Noarfang.jpg",
-      "shiny": "Noarfang_shiny.jpg"
+      "default": "Noarfang.png",
+      "shiny": "Noarfang_shiny.png"
     }
   },
   {
@@ -2140,8 +2140,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Coxy.jpg",
-      "shiny": "Coxy_shiny.jpg"
+      "default": "Coxy.png",
+      "shiny": "Coxy_shiny.png"
     }
   },
   {
@@ -2153,8 +2153,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Coxyclaque.jpg",
-      "shiny": "Coxyclaque_shiny.jpg"
+      "default": "Coxyclaque.png",
+      "shiny": "Coxyclaque_shiny.png"
     }
   },
   {
@@ -2166,8 +2166,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Mimigal.jpg",
-      "shiny": "Mimigal_shiny.jpg"
+      "default": "Mimigal.png",
+      "shiny": "Mimigal_shiny.png"
     }
   },
   {
@@ -2179,8 +2179,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Migalos.jpg",
-      "shiny": "Migalos_shiny.jpg"
+      "default": "Migalos.png",
+      "shiny": "Migalos_shiny.png"
     }
   },
   {
@@ -2192,8 +2192,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Nostenfer.jpg",
-      "shiny": "Nostenfer_shiny.jpg"
+      "default": "Nostenfer.png",
+      "shiny": "Nostenfer_shiny.png"
     }
   },
   {
@@ -2205,8 +2205,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Loupio.jpg",
-      "shiny": "Loupio_shiny.jpg"
+      "default": "Loupio.png",
+      "shiny": "Loupio_shiny.png"
     }
   },
   {
@@ -2218,8 +2218,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Lanturn.jpg",
-      "shiny": "Lanturn_shiny.jpg"
+      "default": "Lanturn.png",
+      "shiny": "Lanturn_shiny.png"
     }
   },
   {
@@ -2231,8 +2231,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Pichu.jpg",
-      "shiny": "Pichu_shiny.jpg"
+      "default": "Pichu.png",
+      "shiny": "Pichu_shiny.png"
     }
   },
   {
@@ -2244,8 +2244,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Mélo.jpg",
-      "shiny": "Mélo_shiny.jpg"
+      "default": "Mélo.png",
+      "shiny": "Mélo_shiny.png"
     }
   },
   {
@@ -2257,8 +2257,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Toudoudou.jpg",
-      "shiny": "Toudoudou_shiny.jpg"
+      "default": "Toudoudou.png",
+      "shiny": "Toudoudou_shiny.png"
     }
   },
   {
@@ -2270,8 +2270,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Togepi.jpg",
-      "shiny": "Togepi_shiny.jpg"
+      "default": "Togepi.png",
+      "shiny": "Togepi_shiny.png"
     }
   },
   {
@@ -2283,8 +2283,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Togetic.jpg",
-      "shiny": "Togetic_shiny.jpg"
+      "default": "Togetic.png",
+      "shiny": "Togetic_shiny.png"
     }
   },
   {
@@ -2296,8 +2296,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Natu.jpg",
-      "shiny": "Natu_shiny.jpg"
+      "default": "Natu.png",
+      "shiny": "Natu_shiny.png"
     }
   },
   {
@@ -2309,8 +2309,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Xatu.jpg",
-      "shiny": "Xatu_shiny.jpg"
+      "default": "Xatu.png",
+      "shiny": "Xatu_shiny.png"
     }
   },
   {
@@ -2322,8 +2322,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Wattouat.jpg",
-      "shiny": "Wattouat_shiny.jpg"
+      "default": "Wattouat.png",
+      "shiny": "Wattouat_shiny.png"
     }
   },
   {
@@ -2335,8 +2335,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Lainergie.jpg",
-      "shiny": "Lainergie_shiny.jpg"
+      "default": "Lainergie.png",
+      "shiny": "Lainergie_shiny.png"
     }
   },
   {
@@ -2348,8 +2348,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Pharamp.jpg",
-      "shiny": "Pharamp_shiny.jpg"
+      "default": "Pharamp.png",
+      "shiny": "Pharamp_shiny.png"
     }
   },
   {
@@ -2361,8 +2361,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Joliflor.jpg",
-      "shiny": "Joliflor_shiny.jpg"
+      "default": "Joliflor.png",
+      "shiny": "Joliflor_shiny.png"
     }
   },
   {
@@ -2374,8 +2374,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Marill.jpg",
-      "shiny": "Marill_shiny.jpg"
+      "default": "Marill.png",
+      "shiny": "Marill_shiny.png"
     }
   },
   {
@@ -2387,8 +2387,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Azumarill.jpg",
-      "shiny": "Azumarill_shiny.jpg"
+      "default": "Azumarill.png",
+      "shiny": "Azumarill_shiny.png"
     }
   },
   {
@@ -2400,8 +2400,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Simularbre.jpg",
-      "shiny": "Simularbre_shiny.jpg"
+      "default": "Simularbre.png",
+      "shiny": "Simularbre_shiny.png"
     }
   },
   {
@@ -2413,8 +2413,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Tarpaud.jpg",
-      "shiny": "Tarpaud_shiny.jpg"
+      "default": "Tarpaud.png",
+      "shiny": "Tarpaud_shiny.png"
     }
   },
   {
@@ -2426,8 +2426,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Granivol.jpg",
-      "shiny": "Granivol_shiny.jpg"
+      "default": "Granivol.png",
+      "shiny": "Granivol_shiny.png"
     }
   },
   {
@@ -2439,8 +2439,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Floravol.jpg",
-      "shiny": "Floravol_shiny.jpg"
+      "default": "Floravol.png",
+      "shiny": "Floravol_shiny.png"
     }
   },
   {
@@ -2452,8 +2452,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Cotovol.jpg",
-      "shiny": "Cotovol_shiny.jpg"
+      "default": "Cotovol.png",
+      "shiny": "Cotovol_shiny.png"
     }
   },
   {
@@ -2465,8 +2465,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Capumain.jpg",
-      "shiny": "Capumain_shiny.jpg"
+      "default": "Capumain.png",
+      "shiny": "Capumain_shiny.png"
     }
   },
   {
@@ -2478,8 +2478,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Tournegrin.jpg",
-      "shiny": "Tournegrin_shiny.jpg"
+      "default": "Tournegrin.png",
+      "shiny": "Tournegrin_shiny.png"
     }
   },
   {
@@ -2491,8 +2491,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Héliatronc.jpg",
-      "shiny": "Héliatronc_shiny.jpg"
+      "default": "Héliatronc.png",
+      "shiny": "Héliatronc_shiny.png"
     }
   },
   {
@@ -2504,8 +2504,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Yanma.jpg",
-      "shiny": "Yanma_shiny.jpg"
+      "default": "Yanma.png",
+      "shiny": "Yanma_shiny.png"
     }
   },
   {
@@ -2517,8 +2517,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Axoloto.jpg",
-      "shiny": "Axoloto_shiny.jpg"
+      "default": "Axoloto.png",
+      "shiny": "Axoloto_shiny.png"
     }
   },
   {
@@ -2530,8 +2530,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Maraiste.jpg",
-      "shiny": "Maraiste_shiny.jpg"
+      "default": "Maraiste.png",
+      "shiny": "Maraiste_shiny.png"
     }
   },
   {
@@ -2543,8 +2543,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Mentali.jpg",
-      "shiny": "Mentali_shiny.jpg"
+      "default": "Mentali.png",
+      "shiny": "Mentali_shiny.png"
     }
   },
   {
@@ -2556,8 +2556,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Noctali.jpg",
-      "shiny": "Noctali_shiny.jpg"
+      "default": "Noctali.png",
+      "shiny": "Noctali_shiny.png"
     }
   },
   {
@@ -2569,8 +2569,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Cornèbre.jpg",
-      "shiny": "Cornèbre_shiny.jpg"
+      "default": "Cornèbre.png",
+      "shiny": "Cornèbre_shiny.png"
     }
   },
   {
@@ -2582,8 +2582,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Roigada.jpg",
-      "shiny": "Roigada_shiny.jpg"
+      "default": "Roigada.png",
+      "shiny": "Roigada_shiny.png"
     }
   },
   {
@@ -2595,8 +2595,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Feuforêve.jpg",
-      "shiny": "Feuforêve_shiny.jpg"
+      "default": "Feuforêve.png",
+      "shiny": "Feuforêve_shiny.png"
     }
   },
   {
@@ -2608,8 +2608,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Zarbi.jpg",
-      "shiny": "Zarbi_shiny.jpg"
+      "default": "Zarbi.png",
+      "shiny": "Zarbi_shiny.png"
     }
   },
   {
@@ -2621,8 +2621,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Qulbutoké.jpg",
-      "shiny": "Qulbutoké_shiny.jpg"
+      "default": "Qulbutoké.png",
+      "shiny": "Qulbutoké_shiny.png"
     }
   },
   {
@@ -2634,8 +2634,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Girafarig.jpg",
-      "shiny": "Girafarig_shiny.jpg"
+      "default": "Girafarig.png",
+      "shiny": "Girafarig_shiny.png"
     }
   },
   {
@@ -2647,8 +2647,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Pomdepik.jpg",
-      "shiny": "Pomdepik_shiny.jpg"
+      "default": "Pomdepik.png",
+      "shiny": "Pomdepik_shiny.png"
     }
   },
   {
@@ -2660,8 +2660,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Foretress.jpg",
-      "shiny": "Foretress_shiny.jpg"
+      "default": "Foretress.png",
+      "shiny": "Foretress_shiny.png"
     }
   },
   {
@@ -2673,8 +2673,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Insolourdo.jpg",
-      "shiny": "Insolourdo_shiny.jpg"
+      "default": "Insolourdo.png",
+      "shiny": "Insolourdo_shiny.png"
     }
   },
   {
@@ -2686,8 +2686,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Scorplane.jpg",
-      "shiny": "Scorplane_shiny.jpg"
+      "default": "Scorplane.png",
+      "shiny": "Scorplane_shiny.png"
     }
   },
   {
@@ -2699,8 +2699,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Steelix.jpg",
-      "shiny": "Steelix_shiny.jpg"
+      "default": "Steelix.png",
+      "shiny": "Steelix_shiny.png"
     }
   },
   {
@@ -2712,8 +2712,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Snubbull.jpg",
-      "shiny": "Snubbull_shiny.jpg"
+      "default": "Snubbull.png",
+      "shiny": "Snubbull_shiny.png"
     }
   },
   {
@@ -2725,8 +2725,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Granbull.jpg",
-      "shiny": "Granbull_shiny.jpg"
+      "default": "Granbull.png",
+      "shiny": "Granbull_shiny.png"
     }
   },
   {
@@ -2738,8 +2738,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Qwilfish.jpg",
-      "shiny": "Qwilfish_shiny.jpg"
+      "default": "Qwilfish.png",
+      "shiny": "Qwilfish_shiny.png"
     }
   },
   {
@@ -2751,8 +2751,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Cizayox.jpg",
-      "shiny": "Cizayox_shiny.jpg"
+      "default": "Cizayox.png",
+      "shiny": "Cizayox_shiny.png"
     }
   },
   {
@@ -2764,8 +2764,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Caratroc.jpg",
-      "shiny": "Caratroc_shiny.jpg"
+      "default": "Caratroc.png",
+      "shiny": "Caratroc_shiny.png"
     }
   },
   {
@@ -2777,8 +2777,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Scarhino.jpg",
-      "shiny": "Scarhino_shiny.jpg"
+      "default": "Scarhino.png",
+      "shiny": "Scarhino_shiny.png"
     }
   },
   {
@@ -2790,8 +2790,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Farfuret.jpg",
-      "shiny": "Farfuret_shiny.jpg"
+      "default": "Farfuret.png",
+      "shiny": "Farfuret_shiny.png"
     }
   },
   {
@@ -2803,8 +2803,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Teddiursa.jpg",
-      "shiny": "Teddiursa_shiny.jpg"
+      "default": "Teddiursa.png",
+      "shiny": "Teddiursa_shiny.png"
     }
   },
   {
@@ -2816,8 +2816,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Ursaring.jpg",
-      "shiny": "Ursaring_shiny.jpg"
+      "default": "Ursaring.png",
+      "shiny": "Ursaring_shiny.png"
     }
   },
   {
@@ -2829,8 +2829,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Limagma.jpg",
-      "shiny": "Limagma_shiny.jpg"
+      "default": "Limagma.png",
+      "shiny": "Limagma_shiny.png"
     }
   },
   {
@@ -2842,8 +2842,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Volcaropod.jpg",
-      "shiny": "Volcaropod_shiny.jpg"
+      "default": "Volcaropod.png",
+      "shiny": "Volcaropod_shiny.png"
     }
   },
   {
@@ -2855,8 +2855,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Marcacrin.jpg",
-      "shiny": "Marcacrin_shiny.jpg"
+      "default": "Marcacrin.png",
+      "shiny": "Marcacrin_shiny.png"
     }
   },
   {
@@ -2868,8 +2868,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Cochignon.jpg",
-      "shiny": "Cochignon_shiny.jpg"
+      "default": "Cochignon.png",
+      "shiny": "Cochignon_shiny.png"
     }
   },
   {
@@ -2881,8 +2881,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Corayon.jpg",
-      "shiny": "Corayon_shiny.jpg"
+      "default": "Corayon.png",
+      "shiny": "Corayon_shiny.png"
     }
   },
   {
@@ -2894,8 +2894,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Rémoraid.jpg",
-      "shiny": "Rémoraid_shiny.jpg"
+      "default": "Rémoraid.png",
+      "shiny": "Rémoraid_shiny.png"
     }
   },
   {
@@ -2907,8 +2907,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Octillery.jpg",
-      "shiny": "Octillery_shiny.jpg"
+      "default": "Octillery.png",
+      "shiny": "Octillery_shiny.png"
     }
   },
   {
@@ -2920,8 +2920,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Cadoizo.jpg",
-      "shiny": "Cadoizo_shiny.jpg"
+      "default": "Cadoizo.png",
+      "shiny": "Cadoizo_shiny.png"
     }
   },
   {
@@ -2933,8 +2933,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Démanta.jpg",
-      "shiny": "Démanta_shiny.jpg"
+      "default": "Démanta.png",
+      "shiny": "Démanta_shiny.png"
     }
   },
   {
@@ -2946,8 +2946,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Airmure.jpg",
-      "shiny": "Airmure_shiny.jpg"
+      "default": "Airmure.png",
+      "shiny": "Airmure_shiny.png"
     }
   },
   {
@@ -2959,8 +2959,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Malosse.jpg",
-      "shiny": "Malosse_shiny.jpg"
+      "default": "Malosse.png",
+      "shiny": "Malosse_shiny.png"
     }
   },
   {
@@ -2972,8 +2972,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Démolosse.jpg",
-      "shiny": "Démolosse_shiny.jpg"
+      "default": "Démolosse.png",
+      "shiny": "Démolosse_shiny.png"
     }
   },
   {
@@ -2985,8 +2985,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Hyporoi.jpg",
-      "shiny": "Hyporoi_shiny.jpg"
+      "default": "Hyporoi.png",
+      "shiny": "Hyporoi_shiny.png"
     }
   },
   {
@@ -2998,8 +2998,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Phanpy.jpg",
-      "shiny": "Phanpy_shiny.jpg"
+      "default": "Phanpy.png",
+      "shiny": "Phanpy_shiny.png"
     }
   },
   {
@@ -3011,8 +3011,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Donphan.jpg",
-      "shiny": "Donphan_shiny.jpg"
+      "default": "Donphan.png",
+      "shiny": "Donphan_shiny.png"
     }
   },
   {
@@ -3024,8 +3024,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Porygon2.jpg",
-      "shiny": "Porygon2_shiny.jpg"
+      "default": "Porygon2.png",
+      "shiny": "Porygon2_shiny.png"
     }
   },
   {
@@ -3037,8 +3037,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Cerfrousse.jpg",
-      "shiny": "Cerfrousse_shiny.jpg"
+      "default": "Cerfrousse.png",
+      "shiny": "Cerfrousse_shiny.png"
     }
   },
   {
@@ -3050,8 +3050,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Queulorior.jpg",
-      "shiny": "Queulorior_shiny.jpg"
+      "default": "Queulorior.png",
+      "shiny": "Queulorior_shiny.png"
     }
   },
   {
@@ -3063,8 +3063,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Debugant.jpg",
-      "shiny": "Debugant_shiny.jpg"
+      "default": "Debugant.png",
+      "shiny": "Debugant_shiny.png"
     }
   },
   {
@@ -3076,8 +3076,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Kapoera.jpg",
-      "shiny": "Kapoera_shiny.jpg"
+      "default": "Kapoera.png",
+      "shiny": "Kapoera_shiny.png"
     }
   },
   {
@@ -3089,8 +3089,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Lippouti.jpg",
-      "shiny": "Lippouti_shiny.jpg"
+      "default": "Lippouti.png",
+      "shiny": "Lippouti_shiny.png"
     }
   },
   {
@@ -3102,8 +3102,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Élekid.jpg",
-      "shiny": "Élekid_shiny.jpg"
+      "default": "Élekid.png",
+      "shiny": "Élekid_shiny.png"
     }
   },
   {
@@ -3115,8 +3115,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Magby.jpg",
-      "shiny": "Magby_shiny.jpg"
+      "default": "Magby.png",
+      "shiny": "Magby_shiny.png"
     }
   },
   {
@@ -3128,8 +3128,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Écrémeuh.jpg",
-      "shiny": "Écrémeuh_shiny.jpg"
+      "default": "Écrémeuh.png",
+      "shiny": "Écrémeuh_shiny.png"
     }
   },
   {
@@ -3141,8 +3141,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Leuphorie.jpg",
-      "shiny": "Leuphorie_shiny.jpg"
+      "default": "Leuphorie.png",
+      "shiny": "Leuphorie_shiny.png"
     }
   },
   {
@@ -3154,8 +3154,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Raikou.jpg",
-      "shiny": "Raikou_shiny.jpg"
+      "default": "Raikou.png",
+      "shiny": "Raikou_shiny.png"
     }
   },
   {
@@ -3167,8 +3167,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Entei.jpg",
-      "shiny": "Entei_shiny.jpg"
+      "default": "Entei.png",
+      "shiny": "Entei_shiny.png"
     }
   },
   {
@@ -3180,8 +3180,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Suicune.jpg",
-      "shiny": "Suicune_shiny.jpg"
+      "default": "Suicune.png",
+      "shiny": "Suicune_shiny.png"
     }
   },
   {
@@ -3193,8 +3193,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Embrylex.jpg",
-      "shiny": "Embrylex_shiny.jpg"
+      "default": "Embrylex.png",
+      "shiny": "Embrylex_shiny.png"
     }
   },
   {
@@ -3206,8 +3206,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Ymphect.jpg",
-      "shiny": "Ymphect_shiny.jpg"
+      "default": "Ymphect.png",
+      "shiny": "Ymphect_shiny.png"
     }
   },
   {
@@ -3219,8 +3219,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Tyranocif.jpg",
-      "shiny": "Tyranocif_shiny.jpg"
+      "default": "Tyranocif.png",
+      "shiny": "Tyranocif_shiny.png"
     }
   },
   {
@@ -3232,8 +3232,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Lugia.jpg",
-      "shiny": "Lugia_shiny.jpg"
+      "default": "Lugia.png",
+      "shiny": "Lugia_shiny.png"
     }
   },
   {
@@ -3245,8 +3245,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Ho-Oh.jpg",
-      "shiny": "Ho-Oh_shiny.jpg"
+      "default": "Ho-Oh.png",
+      "shiny": "Ho-Oh_shiny.png"
     }
   },
   {
@@ -3258,8 +3258,8 @@ export const pokedex = [
     },
     "generation": "2",
     "spriteFilenames": {
-      "default": "Celebi.jpg",
-      "shiny": "Celebi_shiny.jpg"
+      "default": "Celebi.png",
+      "shiny": "Celebi_shiny.png"
     }
   },
   {
@@ -3271,8 +3271,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Arcko.jpg",
-      "shiny": "Arcko_shiny.jpg"
+      "default": "Arcko.png",
+      "shiny": "Arcko_shiny.png"
     }
   },
   {
@@ -3284,8 +3284,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Massko.jpg",
-      "shiny": "Massko_shiny.jpg"
+      "default": "Massko.png",
+      "shiny": "Massko_shiny.png"
     }
   },
   {
@@ -3297,8 +3297,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Jungko.jpg",
-      "shiny": "Jungko_shiny.jpg"
+      "default": "Jungko.png",
+      "shiny": "Jungko_shiny.png"
     }
   },
   {
@@ -3310,8 +3310,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Poussifeu.jpg",
-      "shiny": "Poussifeu_shiny.jpg"
+      "default": "Poussifeu.png",
+      "shiny": "Poussifeu_shiny.png"
     }
   },
   {
@@ -3323,8 +3323,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Galifeu.jpg",
-      "shiny": "Galifeu_shiny.jpg"
+      "default": "Galifeu.png",
+      "shiny": "Galifeu_shiny.png"
     }
   },
   {
@@ -3336,8 +3336,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Braségali.jpg",
-      "shiny": "Braségali_shiny.jpg"
+      "default": "Braségali.png",
+      "shiny": "Braségali_shiny.png"
     }
   },
   {
@@ -3349,8 +3349,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Gobou.jpg",
-      "shiny": "Gobou_shiny.jpg"
+      "default": "Gobou.png",
+      "shiny": "Gobou_shiny.png"
     }
   },
   {
@@ -3362,8 +3362,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Flobio.jpg",
-      "shiny": "Flobio_shiny.jpg"
+      "default": "Flobio.png",
+      "shiny": "Flobio_shiny.png"
     }
   },
   {
@@ -3375,8 +3375,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Laggron.jpg",
-      "shiny": "Laggron_shiny.jpg"
+      "default": "Laggron.png",
+      "shiny": "Laggron_shiny.png"
     }
   },
   {
@@ -3388,8 +3388,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Medhyèna.jpg",
-      "shiny": "Medhyèna_shiny.jpg"
+      "default": "Medhyèna.png",
+      "shiny": "Medhyèna_shiny.png"
     }
   },
   {
@@ -3401,8 +3401,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Grahyèna.jpg",
-      "shiny": "Grahyèna_shiny.jpg"
+      "default": "Grahyèna.png",
+      "shiny": "Grahyèna_shiny.png"
     }
   },
   {
@@ -3414,8 +3414,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Zigzaton.jpg",
-      "shiny": "Zigzaton_shiny.jpg"
+      "default": "Zigzaton.png",
+      "shiny": "Zigzaton_shiny.png"
     }
   },
   {
@@ -3427,8 +3427,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Linéon.jpg",
-      "shiny": "Linéon_shiny.jpg"
+      "default": "Linéon.png",
+      "shiny": "Linéon_shiny.png"
     }
   },
   {
@@ -3440,8 +3440,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Chenipotte.jpg",
-      "shiny": "Chenipotte_shiny.jpg"
+      "default": "Chenipotte.png",
+      "shiny": "Chenipotte_shiny.png"
     }
   },
   {
@@ -3453,8 +3453,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Armulys.jpg",
-      "shiny": "Armulys_shiny.jpg"
+      "default": "Armulys.png",
+      "shiny": "Armulys_shiny.png"
     }
   },
   {
@@ -3466,8 +3466,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Charmillon.jpg",
-      "shiny": "Charmillon_shiny.jpg"
+      "default": "Charmillon.png",
+      "shiny": "Charmillon_shiny.png"
     }
   },
   {
@@ -3479,8 +3479,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Blindalys.jpg",
-      "shiny": "Blindalys_shiny.jpg"
+      "default": "Blindalys.png",
+      "shiny": "Blindalys_shiny.png"
     }
   },
   {
@@ -3492,8 +3492,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Papinox.jpg",
-      "shiny": "Papinox_shiny.jpg"
+      "default": "Papinox.png",
+      "shiny": "Papinox_shiny.png"
     }
   },
   {
@@ -3505,8 +3505,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Nénupiot.jpg",
-      "shiny": "Nénupiot_shiny.jpg"
+      "default": "Nénupiot.png",
+      "shiny": "Nénupiot_shiny.png"
     }
   },
   {
@@ -3518,8 +3518,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Lombre.jpg",
-      "shiny": "Lombre_shiny.jpg"
+      "default": "Lombre.png",
+      "shiny": "Lombre_shiny.png"
     }
   },
   {
@@ -3531,8 +3531,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Ludicolo.jpg",
-      "shiny": "Ludicolo_shiny.jpg"
+      "default": "Ludicolo.png",
+      "shiny": "Ludicolo_shiny.png"
     }
   },
   {
@@ -3544,8 +3544,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Grainipiot.jpg",
-      "shiny": "Grainipiot_shiny.jpg"
+      "default": "Grainipiot.png",
+      "shiny": "Grainipiot_shiny.png"
     }
   },
   {
@@ -3557,8 +3557,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Pifeuil.jpg",
-      "shiny": "Pifeuil_shiny.jpg"
+      "default": "Pifeuil.png",
+      "shiny": "Pifeuil_shiny.png"
     }
   },
   {
@@ -3570,8 +3570,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Tengalice.jpg",
-      "shiny": "Tengalice_shiny.jpg"
+      "default": "Tengalice.png",
+      "shiny": "Tengalice_shiny.png"
     }
   },
   {
@@ -3583,8 +3583,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Nirondelle.jpg",
-      "shiny": "Nirondelle_shiny.jpg"
+      "default": "Nirondelle.png",
+      "shiny": "Nirondelle_shiny.png"
     }
   },
   {
@@ -3596,8 +3596,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Hélédelle.jpg",
-      "shiny": "Hélédelle_shiny.jpg"
+      "default": "Hélédelle.png",
+      "shiny": "Hélédelle_shiny.png"
     }
   },
   {
@@ -3609,8 +3609,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Goélise.jpg",
-      "shiny": "Goélise_shiny.jpg"
+      "default": "Goélise.png",
+      "shiny": "Goélise_shiny.png"
     }
   },
   {
@@ -3622,8 +3622,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Bekipan.jpg",
-      "shiny": "Bekipan_shiny.jpg"
+      "default": "Bekipan.png",
+      "shiny": "Bekipan_shiny.png"
     }
   },
   {
@@ -3635,8 +3635,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Tarsal.jpg",
-      "shiny": "Tarsal_shiny.jpg"
+      "default": "Tarsal.png",
+      "shiny": "Tarsal_shiny.png"
     }
   },
   {
@@ -3648,8 +3648,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Kirlia.jpg",
-      "shiny": "Kirlia_shiny.jpg"
+      "default": "Kirlia.png",
+      "shiny": "Kirlia_shiny.png"
     }
   },
   {
@@ -3661,8 +3661,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Gardevoir.jpg",
-      "shiny": "Gardevoir_shiny.jpg"
+      "default": "Gardevoir.png",
+      "shiny": "Gardevoir_shiny.png"
     }
   },
   {
@@ -3674,8 +3674,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Arakdo.jpg",
-      "shiny": "Arakdo_shiny.jpg"
+      "default": "Arakdo.png",
+      "shiny": "Arakdo_shiny.png"
     }
   },
   {
@@ -3687,8 +3687,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Maskadra.jpg",
-      "shiny": "Maskadra_shiny.jpg"
+      "default": "Maskadra.png",
+      "shiny": "Maskadra_shiny.png"
     }
   },
   {
@@ -3700,8 +3700,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Balignon.jpg",
-      "shiny": "Balignon_shiny.jpg"
+      "default": "Balignon.png",
+      "shiny": "Balignon_shiny.png"
     }
   },
   {
@@ -3713,8 +3713,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Chapignon.jpg",
-      "shiny": "Chapignon_shiny.jpg"
+      "default": "Chapignon.png",
+      "shiny": "Chapignon_shiny.png"
     }
   },
   {
@@ -3726,8 +3726,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Parecool.jpg",
-      "shiny": "Parecool_shiny.jpg"
+      "default": "Parecool.png",
+      "shiny": "Parecool_shiny.png"
     }
   },
   {
@@ -3739,8 +3739,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Vigoroth.jpg",
-      "shiny": "Vigoroth_shiny.jpg"
+      "default": "Vigoroth.png",
+      "shiny": "Vigoroth_shiny.png"
     }
   },
   {
@@ -3752,8 +3752,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Monaflèmit.jpg",
-      "shiny": "Monaflèmit_shiny.jpg"
+      "default": "Monaflèmit.png",
+      "shiny": "Monaflèmit_shiny.png"
     }
   },
   {
@@ -3765,8 +3765,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Ningale.jpg",
-      "shiny": "Ningale_shiny.jpg"
+      "default": "Ningale.png",
+      "shiny": "Ningale_shiny.png"
     }
   },
   {
@@ -3778,8 +3778,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Ninjask.jpg",
-      "shiny": "Ninjask_shiny.jpg"
+      "default": "Ninjask.png",
+      "shiny": "Ninjask_shiny.png"
     }
   },
   {
@@ -3791,8 +3791,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Munja.jpg",
-      "shiny": "Munja_shiny.jpg"
+      "default": "Munja.png",
+      "shiny": "Munja_shiny.png"
     }
   },
   {
@@ -3804,8 +3804,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Chuchmur.jpg",
-      "shiny": "Chuchmur_shiny.jpg"
+      "default": "Chuchmur.png",
+      "shiny": "Chuchmur_shiny.png"
     }
   },
   {
@@ -3817,8 +3817,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Ramboum.jpg",
-      "shiny": "Ramboum_shiny.jpg"
+      "default": "Ramboum.png",
+      "shiny": "Ramboum_shiny.png"
     }
   },
   {
@@ -3830,8 +3830,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Brouhabam.jpg",
-      "shiny": "Brouhabam_shiny.jpg"
+      "default": "Brouhabam.png",
+      "shiny": "Brouhabam_shiny.png"
     }
   },
   {
@@ -3843,8 +3843,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Makuhita.jpg",
-      "shiny": "Makuhita_shiny.jpg"
+      "default": "Makuhita.png",
+      "shiny": "Makuhita_shiny.png"
     }
   },
   {
@@ -3856,8 +3856,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Hariyama.jpg",
-      "shiny": "Hariyama_shiny.jpg"
+      "default": "Hariyama.png",
+      "shiny": "Hariyama_shiny.png"
     }
   },
   {
@@ -3869,8 +3869,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Azurill.jpg",
-      "shiny": "Azurill_shiny.jpg"
+      "default": "Azurill.png",
+      "shiny": "Azurill_shiny.png"
     }
   },
   {
@@ -3882,8 +3882,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Tarinor.jpg",
-      "shiny": "Tarinor_shiny.jpg"
+      "default": "Tarinor.png",
+      "shiny": "Tarinor_shiny.png"
     }
   },
   {
@@ -3895,8 +3895,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Skitty.jpg",
-      "shiny": "Skitty_shiny.jpg"
+      "default": "Skitty.png",
+      "shiny": "Skitty_shiny.png"
     }
   },
   {
@@ -3908,8 +3908,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Delcatty.jpg",
-      "shiny": "Delcatty_shiny.jpg"
+      "default": "Delcatty.png",
+      "shiny": "Delcatty_shiny.png"
     }
   },
   {
@@ -3921,8 +3921,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Ténéfix.jpg",
-      "shiny": "Ténéfix_shiny.jpg"
+      "default": "Ténéfix.png",
+      "shiny": "Ténéfix_shiny.png"
     }
   },
   {
@@ -3934,8 +3934,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Mysdibule.jpg",
-      "shiny": "Mysdibule_shiny.jpg"
+      "default": "Mysdibule.png",
+      "shiny": "Mysdibule_shiny.png"
     }
   },
   {
@@ -3947,8 +3947,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Galekid.jpg",
-      "shiny": "Galekid_shiny.jpg"
+      "default": "Galekid.png",
+      "shiny": "Galekid_shiny.png"
     }
   },
   {
@@ -3960,8 +3960,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Galegon.jpg",
-      "shiny": "Galegon_shiny.jpg"
+      "default": "Galegon.png",
+      "shiny": "Galegon_shiny.png"
     }
   },
   {
@@ -3973,8 +3973,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Galeking.jpg",
-      "shiny": "Galeking_shiny.jpg"
+      "default": "Galeking.png",
+      "shiny": "Galeking_shiny.png"
     }
   },
   {
@@ -3986,8 +3986,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Méditikka.jpg",
-      "shiny": "Méditikka_shiny.jpg"
+      "default": "Méditikka.png",
+      "shiny": "Méditikka_shiny.png"
     }
   },
   {
@@ -3999,8 +3999,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Charmina.jpg",
-      "shiny": "Charmina_shiny.jpg"
+      "default": "Charmina.png",
+      "shiny": "Charmina_shiny.png"
     }
   },
   {
@@ -4012,8 +4012,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Dynavolt.jpg",
-      "shiny": "Dynavolt_shiny.jpg"
+      "default": "Dynavolt.png",
+      "shiny": "Dynavolt_shiny.png"
     }
   },
   {
@@ -4025,8 +4025,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Élecsprint.jpg",
-      "shiny": "Élecsprint_shiny.jpg"
+      "default": "Élecsprint.png",
+      "shiny": "Élecsprint_shiny.png"
     }
   },
   {
@@ -4038,8 +4038,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Posipi.jpg",
-      "shiny": "Posipi_shiny.jpg"
+      "default": "Posipi.png",
+      "shiny": "Posipi_shiny.png"
     }
   },
   {
@@ -4051,8 +4051,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Négapi.jpg",
-      "shiny": "Négapi_shiny.jpg"
+      "default": "Négapi.png",
+      "shiny": "Négapi_shiny.png"
     }
   },
   {
@@ -4064,8 +4064,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Muciole.jpg",
-      "shiny": "Muciole_shiny.jpg"
+      "default": "Muciole.png",
+      "shiny": "Muciole_shiny.png"
     }
   },
   {
@@ -4077,8 +4077,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Lumivole.jpg",
-      "shiny": "Lumivole_shiny.jpg"
+      "default": "Lumivole.png",
+      "shiny": "Lumivole_shiny.png"
     }
   },
   {
@@ -4090,8 +4090,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Rosélia.jpg",
-      "shiny": "Rosélia_shiny.jpg"
+      "default": "Rosélia.png",
+      "shiny": "Rosélia_shiny.png"
     }
   },
   {
@@ -4103,8 +4103,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Gloupti.jpg",
-      "shiny": "Gloupti_shiny.jpg"
+      "default": "Gloupti.png",
+      "shiny": "Gloupti_shiny.png"
     }
   },
   {
@@ -4116,8 +4116,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Avaltout.jpg",
-      "shiny": "Avaltout_shiny.jpg"
+      "default": "Avaltout.png",
+      "shiny": "Avaltout_shiny.png"
     }
   },
   {
@@ -4129,8 +4129,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Carvanha.jpg",
-      "shiny": "Carvanha_shiny.jpg"
+      "default": "Carvanha.png",
+      "shiny": "Carvanha_shiny.png"
     }
   },
   {
@@ -4142,8 +4142,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Sharpedo.jpg",
-      "shiny": "Sharpedo_shiny.jpg"
+      "default": "Sharpedo.png",
+      "shiny": "Sharpedo_shiny.png"
     }
   },
   {
@@ -4155,8 +4155,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Wailmer.jpg",
-      "shiny": "Wailmer_shiny.jpg"
+      "default": "Wailmer.png",
+      "shiny": "Wailmer_shiny.png"
     }
   },
   {
@@ -4168,8 +4168,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Wailord.jpg",
-      "shiny": "Wailord_shiny.jpg"
+      "default": "Wailord.png",
+      "shiny": "Wailord_shiny.png"
     }
   },
   {
@@ -4181,8 +4181,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Chamallot.jpg",
-      "shiny": "Chamallot_shiny.jpg"
+      "default": "Chamallot.png",
+      "shiny": "Chamallot_shiny.png"
     }
   },
   {
@@ -4194,8 +4194,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Camérupt.jpg",
-      "shiny": "Camérupt_shiny.jpg"
+      "default": "Camérupt.png",
+      "shiny": "Camérupt_shiny.png"
     }
   },
   {
@@ -4207,8 +4207,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Chartor.jpg",
-      "shiny": "Chartor_shiny.jpg"
+      "default": "Chartor.png",
+      "shiny": "Chartor_shiny.png"
     }
   },
   {
@@ -4220,8 +4220,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Spoink.jpg",
-      "shiny": "Spoink_shiny.jpg"
+      "default": "Spoink.png",
+      "shiny": "Spoink_shiny.png"
     }
   },
   {
@@ -4233,8 +4233,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Groret.jpg",
-      "shiny": "Groret_shiny.jpg"
+      "default": "Groret.png",
+      "shiny": "Groret_shiny.png"
     }
   },
   {
@@ -4246,8 +4246,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Spinda.jpg",
-      "shiny": "Spinda_shiny.jpg"
+      "default": "Spinda.png",
+      "shiny": "Spinda_shiny.png"
     }
   },
   {
@@ -4259,8 +4259,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Kraknoix.jpg",
-      "shiny": "Kraknoix_shiny.jpg"
+      "default": "Kraknoix.png",
+      "shiny": "Kraknoix_shiny.png"
     }
   },
   {
@@ -4272,8 +4272,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Vibraninf.jpg",
-      "shiny": "Vibraninf_shiny.jpg"
+      "default": "Vibraninf.png",
+      "shiny": "Vibraninf_shiny.png"
     }
   },
   {
@@ -4285,8 +4285,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Libégon.jpg",
-      "shiny": "Libégon_shiny.jpg"
+      "default": "Libégon.png",
+      "shiny": "Libégon_shiny.png"
     }
   },
   {
@@ -4298,8 +4298,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Cacnea.jpg",
-      "shiny": "Cacnea_shiny.jpg"
+      "default": "Cacnea.png",
+      "shiny": "Cacnea_shiny.png"
     }
   },
   {
@@ -4311,8 +4311,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Cacturne.jpg",
-      "shiny": "Cacturne_shiny.jpg"
+      "default": "Cacturne.png",
+      "shiny": "Cacturne_shiny.png"
     }
   },
   {
@@ -4324,8 +4324,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Tylton.jpg",
-      "shiny": "Tylton_shiny.jpg"
+      "default": "Tylton.png",
+      "shiny": "Tylton_shiny.png"
     }
   },
   {
@@ -4337,8 +4337,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Altaria.jpg",
-      "shiny": "Altaria_shiny.jpg"
+      "default": "Altaria.png",
+      "shiny": "Altaria_shiny.png"
     }
   },
   {
@@ -4350,8 +4350,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Mangriff.jpg",
-      "shiny": "Mangriff_shiny.jpg"
+      "default": "Mangriff.png",
+      "shiny": "Mangriff_shiny.png"
     }
   },
   {
@@ -4363,8 +4363,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Séviper.jpg",
-      "shiny": "Séviper_shiny.jpg"
+      "default": "Séviper.png",
+      "shiny": "Séviper_shiny.png"
     }
   },
   {
@@ -4376,8 +4376,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Séléroc.jpg",
-      "shiny": "Séléroc_shiny.jpg"
+      "default": "Séléroc.png",
+      "shiny": "Séléroc_shiny.png"
     }
   },
   {
@@ -4389,8 +4389,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Solaroc.jpg",
-      "shiny": "Solaroc_shiny.jpg"
+      "default": "Solaroc.png",
+      "shiny": "Solaroc_shiny.png"
     }
   },
   {
@@ -4402,8 +4402,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Barloche.jpg",
-      "shiny": "Barloche_shiny.jpg"
+      "default": "Barloche.png",
+      "shiny": "Barloche_shiny.png"
     }
   },
   {
@@ -4415,8 +4415,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Barbicha.jpg",
-      "shiny": "Barbicha_shiny.jpg"
+      "default": "Barbicha.png",
+      "shiny": "Barbicha_shiny.png"
     }
   },
   {
@@ -4428,8 +4428,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Écrapince.jpg",
-      "shiny": "Écrapince_shiny.jpg"
+      "default": "Écrapince.png",
+      "shiny": "Écrapince_shiny.png"
     }
   },
   {
@@ -4441,8 +4441,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Colhomard.jpg",
-      "shiny": "Colhomard_shiny.jpg"
+      "default": "Colhomard.png",
+      "shiny": "Colhomard_shiny.png"
     }
   },
   {
@@ -4454,8 +4454,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Balbuto.jpg",
-      "shiny": "Balbuto_shiny.jpg"
+      "default": "Balbuto.png",
+      "shiny": "Balbuto_shiny.png"
     }
   },
   {
@@ -4467,8 +4467,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Kaorine.jpg",
-      "shiny": "Kaorine_shiny.jpg"
+      "default": "Kaorine.png",
+      "shiny": "Kaorine_shiny.png"
     }
   },
   {
@@ -4480,8 +4480,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Lilia.jpg",
-      "shiny": "Lilia_shiny.jpg"
+      "default": "Lilia.png",
+      "shiny": "Lilia_shiny.png"
     }
   },
   {
@@ -4493,8 +4493,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Vacilys.jpg",
-      "shiny": "Vacilys_shiny.jpg"
+      "default": "Vacilys.png",
+      "shiny": "Vacilys_shiny.png"
     }
   },
   {
@@ -4506,8 +4506,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Anorith.jpg",
-      "shiny": "Anorith_shiny.jpg"
+      "default": "Anorith.png",
+      "shiny": "Anorith_shiny.png"
     }
   },
   {
@@ -4519,8 +4519,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Armaldo.jpg",
-      "shiny": "Armaldo_shiny.jpg"
+      "default": "Armaldo.png",
+      "shiny": "Armaldo_shiny.png"
     }
   },
   {
@@ -4532,8 +4532,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Barpau.jpg",
-      "shiny": "Barpau_shiny.jpg"
+      "default": "Barpau.png",
+      "shiny": "Barpau_shiny.png"
     }
   },
   {
@@ -4545,8 +4545,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Milobellus.jpg",
-      "shiny": "Milobellus_shiny.jpg"
+      "default": "Milobellus.png",
+      "shiny": "Milobellus_shiny.png"
     }
   },
   {
@@ -4558,8 +4558,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Morphéo.jpg",
-      "shiny": "Morphéo_shiny.jpg"
+      "default": "Morphéo.png",
+      "shiny": "Morphéo_shiny.png"
     }
   },
   {
@@ -4571,8 +4571,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Kecleon.jpg",
-      "shiny": "Kecleon_shiny.jpg"
+      "default": "Kecleon.png",
+      "shiny": "Kecleon_shiny.png"
     }
   },
   {
@@ -4584,8 +4584,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Polichombr.jpg",
-      "shiny": "Polichombr_shiny.jpg"
+      "default": "Polichombr.png",
+      "shiny": "Polichombr_shiny.png"
     }
   },
   {
@@ -4597,8 +4597,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Branette.jpg",
-      "shiny": "Branette_shiny.jpg"
+      "default": "Branette.png",
+      "shiny": "Branette_shiny.png"
     }
   },
   {
@@ -4610,8 +4610,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Skelénox.jpg",
-      "shiny": "Skelénox_shiny.jpg"
+      "default": "Skelénox.png",
+      "shiny": "Skelénox_shiny.png"
     }
   },
   {
@@ -4623,8 +4623,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Téraclope.jpg",
-      "shiny": "Téraclope_shiny.jpg"
+      "default": "Téraclope.png",
+      "shiny": "Téraclope_shiny.png"
     }
   },
   {
@@ -4636,8 +4636,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Tropius.jpg",
-      "shiny": "Tropius_shiny.jpg"
+      "default": "Tropius.png",
+      "shiny": "Tropius_shiny.png"
     }
   },
   {
@@ -4649,8 +4649,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Éoko.jpg",
-      "shiny": "Éoko_shiny.jpg"
+      "default": "Éoko.png",
+      "shiny": "Éoko_shiny.png"
     }
   },
   {
@@ -4662,8 +4662,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Absol.jpg",
-      "shiny": "Absol_shiny.jpg"
+      "default": "Absol.png",
+      "shiny": "Absol_shiny.png"
     }
   },
   {
@@ -4675,8 +4675,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Okéoké.jpg",
-      "shiny": "Okéoké_shiny.jpg"
+      "default": "Okéoké.png",
+      "shiny": "Okéoké_shiny.png"
     }
   },
   {
@@ -4688,8 +4688,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Stalgamin.jpg",
-      "shiny": "Stalgamin_shiny.jpg"
+      "default": "Stalgamin.png",
+      "shiny": "Stalgamin_shiny.png"
     }
   },
   {
@@ -4701,8 +4701,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Oniglali.jpg",
-      "shiny": "Oniglali_shiny.jpg"
+      "default": "Oniglali.png",
+      "shiny": "Oniglali_shiny.png"
     }
   },
   {
@@ -4714,8 +4714,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Obalie.jpg",
-      "shiny": "Obalie_shiny.jpg"
+      "default": "Obalie.png",
+      "shiny": "Obalie_shiny.png"
     }
   },
   {
@@ -4727,8 +4727,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Phogleur.jpg",
-      "shiny": "Phogleur_shiny.jpg"
+      "default": "Phogleur.png",
+      "shiny": "Phogleur_shiny.png"
     }
   },
   {
@@ -4740,8 +4740,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Kaimorse.jpg",
-      "shiny": "Kaimorse_shiny.jpg"
+      "default": "Kaimorse.png",
+      "shiny": "Kaimorse_shiny.png"
     }
   },
   {
@@ -4753,8 +4753,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Coquiperl.jpg",
-      "shiny": "Coquiperl_shiny.jpg"
+      "default": "Coquiperl.png",
+      "shiny": "Coquiperl_shiny.png"
     }
   },
   {
@@ -4766,8 +4766,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Serpang.jpg",
-      "shiny": "Serpang_shiny.jpg"
+      "default": "Serpang.png",
+      "shiny": "Serpang_shiny.png"
     }
   },
   {
@@ -4779,8 +4779,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Rosabyss.jpg",
-      "shiny": "Rosabyss_shiny.jpg"
+      "default": "Rosabyss.png",
+      "shiny": "Rosabyss_shiny.png"
     }
   },
   {
@@ -4792,8 +4792,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Relicanth.jpg",
-      "shiny": "Relicanth_shiny.jpg"
+      "default": "Relicanth.png",
+      "shiny": "Relicanth_shiny.png"
     }
   },
   {
@@ -4805,8 +4805,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Lovdisc.jpg",
-      "shiny": "Lovdisc_shiny.jpg"
+      "default": "Lovdisc.png",
+      "shiny": "Lovdisc_shiny.png"
     }
   },
   {
@@ -4818,8 +4818,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Draby.jpg",
-      "shiny": "Draby_shiny.jpg"
+      "default": "Draby.png",
+      "shiny": "Draby_shiny.png"
     }
   },
   {
@@ -4831,8 +4831,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Drackhaus.jpg",
-      "shiny": "Drackhaus_shiny.jpg"
+      "default": "Drackhaus.png",
+      "shiny": "Drackhaus_shiny.png"
     }
   },
   {
@@ -4844,8 +4844,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Drattak.jpg",
-      "shiny": "Drattak_shiny.jpg"
+      "default": "Drattak.png",
+      "shiny": "Drattak_shiny.png"
     }
   },
   {
@@ -4857,8 +4857,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Terhal.jpg",
-      "shiny": "Terhal_shiny.jpg"
+      "default": "Terhal.png",
+      "shiny": "Terhal_shiny.png"
     }
   },
   {
@@ -4870,8 +4870,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Métang.jpg",
-      "shiny": "Métang_shiny.jpg"
+      "default": "Métang.png",
+      "shiny": "Métang_shiny.png"
     }
   },
   {
@@ -4883,8 +4883,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Métalosse.jpg",
-      "shiny": "Métalosse_shiny.jpg"
+      "default": "Métalosse.png",
+      "shiny": "Métalosse_shiny.png"
     }
   },
   {
@@ -4896,8 +4896,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Regirock.jpg",
-      "shiny": "Regirock_shiny.jpg"
+      "default": "Regirock.png",
+      "shiny": "Regirock_shiny.png"
     }
   },
   {
@@ -4909,8 +4909,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Regice.jpg",
-      "shiny": "Regice_shiny.jpg"
+      "default": "Regice.png",
+      "shiny": "Regice_shiny.png"
     }
   },
   {
@@ -4922,8 +4922,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Registeel.jpg",
-      "shiny": "Registeel_shiny.jpg"
+      "default": "Registeel.png",
+      "shiny": "Registeel_shiny.png"
     }
   },
   {
@@ -4935,8 +4935,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Latias.jpg",
-      "shiny": "Latias_shiny.jpg"
+      "default": "Latias.png",
+      "shiny": "Latias_shiny.png"
     }
   },
   {
@@ -4948,8 +4948,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Latios.jpg",
-      "shiny": "Latios_shiny.jpg"
+      "default": "Latios.png",
+      "shiny": "Latios_shiny.png"
     }
   },
   {
@@ -4961,8 +4961,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Kyogre.jpg",
-      "shiny": "Kyogre_shiny.jpg"
+      "default": "Kyogre.png",
+      "shiny": "Kyogre_shiny.png"
     }
   },
   {
@@ -4974,8 +4974,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Groudon.jpg",
-      "shiny": "Groudon_shiny.jpg"
+      "default": "Groudon.png",
+      "shiny": "Groudon_shiny.png"
     }
   },
   {
@@ -4987,8 +4987,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Rayquaza.jpg",
-      "shiny": "Rayquaza_shiny.jpg"
+      "default": "Rayquaza.png",
+      "shiny": "Rayquaza_shiny.png"
     }
   },
   {
@@ -5000,8 +5000,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Jirachi.jpg",
-      "shiny": "Jirachi_shiny.jpg"
+      "default": "Jirachi.png",
+      "shiny": "Jirachi_shiny.png"
     }
   },
   {
@@ -5013,8 +5013,8 @@ export const pokedex = [
     },
     "generation": "3",
     "spriteFilenames": {
-      "default": "Deoxys.jpg",
-      "shiny": "Deoxys_shiny.jpg"
+      "default": "Deoxys.png",
+      "shiny": "Deoxys_shiny.png"
     }
   },
   {
@@ -5026,8 +5026,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Tortipouss.jpg",
-      "shiny": "Tortipouss_shiny.jpg"
+      "default": "Tortipouss.png",
+      "shiny": "Tortipouss_shiny.png"
     }
   },
   {
@@ -5039,8 +5039,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Boskara.jpg",
-      "shiny": "Boskara_shiny.jpg"
+      "default": "Boskara.png",
+      "shiny": "Boskara_shiny.png"
     }
   },
   {
@@ -5052,8 +5052,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Torterra.jpg",
-      "shiny": "Torterra_shiny.jpg"
+      "default": "Torterra.png",
+      "shiny": "Torterra_shiny.png"
     }
   },
   {
@@ -5065,8 +5065,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Ouisticram.jpg",
-      "shiny": "Ouisticram_shiny.jpg"
+      "default": "Ouisticram.png",
+      "shiny": "Ouisticram_shiny.png"
     }
   },
   {
@@ -5078,8 +5078,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Chimpenfeu.jpg",
-      "shiny": "Chimpenfeu_shiny.jpg"
+      "default": "Chimpenfeu.png",
+      "shiny": "Chimpenfeu_shiny.png"
     }
   },
   {
@@ -5091,8 +5091,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Simiabraz.jpg",
-      "shiny": "Simiabraz_shiny.jpg"
+      "default": "Simiabraz.png",
+      "shiny": "Simiabraz_shiny.png"
     }
   },
   {
@@ -5104,8 +5104,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Tiplouf.jpg",
-      "shiny": "Tiplouf_shiny.jpg"
+      "default": "Tiplouf.png",
+      "shiny": "Tiplouf_shiny.png"
     }
   },
   {
@@ -5117,8 +5117,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Prinplouf.jpg",
-      "shiny": "Prinplouf_shiny.jpg"
+      "default": "Prinplouf.png",
+      "shiny": "Prinplouf_shiny.png"
     }
   },
   {
@@ -5130,8 +5130,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Pingoléon.jpg",
-      "shiny": "Pingoléon_shiny.jpg"
+      "default": "Pingoléon.png",
+      "shiny": "Pingoléon_shiny.png"
     }
   },
   {
@@ -5143,8 +5143,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Étourmi.jpg",
-      "shiny": "Étourmi_shiny.jpg"
+      "default": "Étourmi.png",
+      "shiny": "Étourmi_shiny.png"
     }
   },
   {
@@ -5156,8 +5156,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Étourvol.jpg",
-      "shiny": "Étourvol_shiny.jpg"
+      "default": "Étourvol.png",
+      "shiny": "Étourvol_shiny.png"
     }
   },
   {
@@ -5169,8 +5169,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Étouraptor.jpg",
-      "shiny": "Étouraptor_shiny.jpg"
+      "default": "Étouraptor.png",
+      "shiny": "Étouraptor_shiny.png"
     }
   },
   {
@@ -5182,8 +5182,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Keunotor.jpg",
-      "shiny": "Keunotor_shiny.jpg"
+      "default": "Keunotor.png",
+      "shiny": "Keunotor_shiny.png"
     }
   },
   {
@@ -5195,8 +5195,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Castorno.jpg",
-      "shiny": "Castorno_shiny.jpg"
+      "default": "Castorno.png",
+      "shiny": "Castorno_shiny.png"
     }
   },
   {
@@ -5208,8 +5208,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Crikzik.jpg",
-      "shiny": "Crikzik_shiny.jpg"
+      "default": "Crikzik.png",
+      "shiny": "Crikzik_shiny.png"
     }
   },
   {
@@ -5221,8 +5221,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Mélokrik.jpg",
-      "shiny": "Mélokrik_shiny.jpg"
+      "default": "Mélokrik.png",
+      "shiny": "Mélokrik_shiny.png"
     }
   },
   {
@@ -5234,8 +5234,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Lixy.jpg",
-      "shiny": "Lixy_shiny.jpg"
+      "default": "Lixy.png",
+      "shiny": "Lixy_shiny.png"
     }
   },
   {
@@ -5247,8 +5247,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Luxio.jpg",
-      "shiny": "Luxio_shiny.jpg"
+      "default": "Luxio.png",
+      "shiny": "Luxio_shiny.png"
     }
   },
   {
@@ -5260,8 +5260,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Luxray.jpg",
-      "shiny": "Luxray_shiny.jpg"
+      "default": "Luxray.png",
+      "shiny": "Luxray_shiny.png"
     }
   },
   {
@@ -5273,8 +5273,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Rozbouton.jpg",
-      "shiny": "Rozbouton_shiny.jpg"
+      "default": "Rozbouton.png",
+      "shiny": "Rozbouton_shiny.png"
     }
   },
   {
@@ -5286,8 +5286,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Roserade.jpg",
-      "shiny": "Roserade_shiny.jpg"
+      "default": "Roserade.png",
+      "shiny": "Roserade_shiny.png"
     }
   },
   {
@@ -5299,8 +5299,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Kranidos.jpg",
-      "shiny": "Kranidos_shiny.jpg"
+      "default": "Kranidos.png",
+      "shiny": "Kranidos_shiny.png"
     }
   },
   {
@@ -5312,8 +5312,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Charkos.jpg",
-      "shiny": "Charkos_shiny.jpg"
+      "default": "Charkos.png",
+      "shiny": "Charkos_shiny.png"
     }
   },
   {
@@ -5325,8 +5325,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Dinoclier.jpg",
-      "shiny": "Dinoclier_shiny.jpg"
+      "default": "Dinoclier.png",
+      "shiny": "Dinoclier_shiny.png"
     }
   },
   {
@@ -5338,8 +5338,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Bastiodon.jpg",
-      "shiny": "Bastiodon_shiny.jpg"
+      "default": "Bastiodon.png",
+      "shiny": "Bastiodon_shiny.png"
     }
   },
   {
@@ -5351,8 +5351,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Cheniti.jpg",
-      "shiny": "Cheniti_shiny.jpg"
+      "default": "Cheniti.png",
+      "shiny": "Cheniti_shiny.png"
     }
   },
   {
@@ -5364,8 +5364,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Cheniselle.jpg",
-      "shiny": "Cheniselle_shiny.jpg"
+      "default": "Cheniselle.png",
+      "shiny": "Cheniselle_shiny.png"
     }
   },
   {
@@ -5377,8 +5377,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Papilord.jpg",
-      "shiny": "Papilord_shiny.jpg"
+      "default": "Papilord.png",
+      "shiny": "Papilord_shiny.png"
     }
   },
   {
@@ -5390,8 +5390,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Apitrini.jpg",
-      "shiny": "Apitrini_shiny.jpg"
+      "default": "Apitrini.png",
+      "shiny": "Apitrini_shiny.png"
     }
   },
   {
@@ -5403,8 +5403,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Apireine.jpg",
-      "shiny": "Apireine_shiny.jpg"
+      "default": "Apireine.png",
+      "shiny": "Apireine_shiny.png"
     }
   },
   {
@@ -5416,8 +5416,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Pachirisu.jpg",
-      "shiny": "Pachirisu_shiny.jpg"
+      "default": "Pachirisu.png",
+      "shiny": "Pachirisu_shiny.png"
     }
   },
   {
@@ -5429,8 +5429,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Mustébouée.jpg",
-      "shiny": "Mustébouée_shiny.jpg"
+      "default": "Mustébouée.png",
+      "shiny": "Mustébouée_shiny.png"
     }
   },
   {
@@ -5442,8 +5442,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Mustéflott.jpg",
-      "shiny": "Mustéflott_shiny.jpg"
+      "default": "Mustéflott.png",
+      "shiny": "Mustéflott_shiny.png"
     }
   },
   {
@@ -5455,8 +5455,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Ceribou.jpg",
-      "shiny": "Ceribou_shiny.jpg"
+      "default": "Ceribou.png",
+      "shiny": "Ceribou_shiny.png"
     }
   },
   {
@@ -5468,8 +5468,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Ceriflor.jpg",
-      "shiny": "Ceriflor_shiny.jpg"
+      "default": "Ceriflor.png",
+      "shiny": "Ceriflor_shiny.png"
     }
   },
   {
@@ -5481,8 +5481,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Sancoki.jpg",
-      "shiny": "Sancoki_shiny.jpg"
+      "default": "Sancoki.png",
+      "shiny": "Sancoki_shiny.png"
     }
   },
   {
@@ -5494,8 +5494,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Tritosor.jpg",
-      "shiny": "Tritosor_shiny.jpg"
+      "default": "Tritosor.png",
+      "shiny": "Tritosor_shiny.png"
     }
   },
   {
@@ -5507,8 +5507,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Capidextre.jpg",
-      "shiny": "Capidextre_shiny.jpg"
+      "default": "Capidextre.png",
+      "shiny": "Capidextre_shiny.png"
     }
   },
   {
@@ -5520,8 +5520,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Baudrive.jpg",
-      "shiny": "Baudrive_shiny.jpg"
+      "default": "Baudrive.png",
+      "shiny": "Baudrive_shiny.png"
     }
   },
   {
@@ -5533,8 +5533,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Grodrive.jpg",
-      "shiny": "Grodrive_shiny.jpg"
+      "default": "Grodrive.png",
+      "shiny": "Grodrive_shiny.png"
     }
   },
   {
@@ -5546,8 +5546,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Laporeille.jpg",
-      "shiny": "Laporeille_shiny.jpg"
+      "default": "Laporeille.png",
+      "shiny": "Laporeille_shiny.png"
     }
   },
   {
@@ -5559,8 +5559,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Lockpin.jpg",
-      "shiny": "Lockpin_shiny.jpg"
+      "default": "Lockpin.png",
+      "shiny": "Lockpin_shiny.png"
     }
   },
   {
@@ -5572,8 +5572,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Magirêve.jpg",
-      "shiny": "Magirêve_shiny.jpg"
+      "default": "Magirêve.png",
+      "shiny": "Magirêve_shiny.png"
     }
   },
   {
@@ -5585,8 +5585,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Corboss.jpg",
-      "shiny": "Corboss_shiny.jpg"
+      "default": "Corboss.png",
+      "shiny": "Corboss_shiny.png"
     }
   },
   {
@@ -5598,8 +5598,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Chaglam.jpg",
-      "shiny": "Chaglam_shiny.jpg"
+      "default": "Chaglam.png",
+      "shiny": "Chaglam_shiny.png"
     }
   },
   {
@@ -5611,8 +5611,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Chaffreux.jpg",
-      "shiny": "Chaffreux_shiny.jpg"
+      "default": "Chaffreux.png",
+      "shiny": "Chaffreux_shiny.png"
     }
   },
   {
@@ -5624,8 +5624,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Korillon.jpg",
-      "shiny": "Korillon_shiny.jpg"
+      "default": "Korillon.png",
+      "shiny": "Korillon_shiny.png"
     }
   },
   {
@@ -5637,8 +5637,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Moufouette.jpg",
-      "shiny": "Moufouette_shiny.jpg"
+      "default": "Moufouette.png",
+      "shiny": "Moufouette_shiny.png"
     }
   },
   {
@@ -5650,8 +5650,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Moufflair.jpg",
-      "shiny": "Moufflair_shiny.jpg"
+      "default": "Moufflair.png",
+      "shiny": "Moufflair_shiny.png"
     }
   },
   {
@@ -5663,8 +5663,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Archéomire.jpg",
-      "shiny": "Archéomire_shiny.jpg"
+      "default": "Archéomire.png",
+      "shiny": "Archéomire_shiny.png"
     }
   },
   {
@@ -5676,8 +5676,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Archéodong.jpg",
-      "shiny": "Archéodong_shiny.jpg"
+      "default": "Archéodong.png",
+      "shiny": "Archéodong_shiny.png"
     }
   },
   {
@@ -5689,8 +5689,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Manzaï.jpg",
-      "shiny": "Manzaï_shiny.jpg"
+      "default": "Manzaï.png",
+      "shiny": "Manzaï_shiny.png"
     }
   },
   {
@@ -5702,8 +5702,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Mime Jr..jpg",
-      "shiny": "Mime Jr._shiny.jpg"
+      "default": "Mime Jr..png",
+      "shiny": "Mime Jr._shiny.png"
     }
   },
   {
@@ -5715,8 +5715,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Ptiravi.jpg",
-      "shiny": "Ptiravi_shiny.jpg"
+      "default": "Ptiravi.png",
+      "shiny": "Ptiravi_shiny.png"
     }
   },
   {
@@ -5728,8 +5728,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Pijako.jpg",
-      "shiny": "Pijako_shiny.jpg"
+      "default": "Pijako.png",
+      "shiny": "Pijako_shiny.png"
     }
   },
   {
@@ -5741,8 +5741,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Spiritomb.jpg",
-      "shiny": "Spiritomb_shiny.jpg"
+      "default": "Spiritomb.png",
+      "shiny": "Spiritomb_shiny.png"
     }
   },
   {
@@ -5754,8 +5754,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Griknot.jpg",
-      "shiny": "Griknot_shiny.jpg"
+      "default": "Griknot.png",
+      "shiny": "Griknot_shiny.png"
     }
   },
   {
@@ -5767,8 +5767,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Carmache.jpg",
-      "shiny": "Carmache_shiny.jpg"
+      "default": "Carmache.png",
+      "shiny": "Carmache_shiny.png"
     }
   },
   {
@@ -5780,8 +5780,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Carchacrok.jpg",
-      "shiny": "Carchacrok_shiny.jpg"
+      "default": "Carchacrok.png",
+      "shiny": "Carchacrok_shiny.png"
     }
   },
   {
@@ -5793,8 +5793,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Goinfrex.jpg",
-      "shiny": "Goinfrex_shiny.jpg"
+      "default": "Goinfrex.png",
+      "shiny": "Goinfrex_shiny.png"
     }
   },
   {
@@ -5806,8 +5806,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Riolu.jpg",
-      "shiny": "Riolu_shiny.jpg"
+      "default": "Riolu.png",
+      "shiny": "Riolu_shiny.png"
     }
   },
   {
@@ -5819,8 +5819,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Lucario.jpg",
-      "shiny": "Lucario_shiny.jpg"
+      "default": "Lucario.png",
+      "shiny": "Lucario_shiny.png"
     }
   },
   {
@@ -5832,8 +5832,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Hippopotas.jpg",
-      "shiny": "Hippopotas_shiny.jpg"
+      "default": "Hippopotas.png",
+      "shiny": "Hippopotas_shiny.png"
     }
   },
   {
@@ -5845,8 +5845,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Hippodocus.jpg",
-      "shiny": "Hippodocus_shiny.jpg"
+      "default": "Hippodocus.png",
+      "shiny": "Hippodocus_shiny.png"
     }
   },
   {
@@ -5858,8 +5858,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Rapion.jpg",
-      "shiny": "Rapion_shiny.jpg"
+      "default": "Rapion.png",
+      "shiny": "Rapion_shiny.png"
     }
   },
   {
@@ -5871,8 +5871,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Drascore.jpg",
-      "shiny": "Drascore_shiny.jpg"
+      "default": "Drascore.png",
+      "shiny": "Drascore_shiny.png"
     }
   },
   {
@@ -5884,8 +5884,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Cradopaud.jpg",
-      "shiny": "Cradopaud_shiny.jpg"
+      "default": "Cradopaud.png",
+      "shiny": "Cradopaud_shiny.png"
     }
   },
   {
@@ -5897,8 +5897,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Coatox.jpg",
-      "shiny": "Coatox_shiny.jpg"
+      "default": "Coatox.png",
+      "shiny": "Coatox_shiny.png"
     }
   },
   {
@@ -5910,8 +5910,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Vortente.jpg",
-      "shiny": "Vortente_shiny.jpg"
+      "default": "Vortente.png",
+      "shiny": "Vortente_shiny.png"
     }
   },
   {
@@ -5923,8 +5923,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Écayon.jpg",
-      "shiny": "Écayon_shiny.jpg"
+      "default": "Écayon.png",
+      "shiny": "Écayon_shiny.png"
     }
   },
   {
@@ -5936,8 +5936,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Luminéon.jpg",
-      "shiny": "Luminéon_shiny.jpg"
+      "default": "Luminéon.png",
+      "shiny": "Luminéon_shiny.png"
     }
   },
   {
@@ -5949,8 +5949,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Babimanta.jpg",
-      "shiny": "Babimanta_shiny.jpg"
+      "default": "Babimanta.png",
+      "shiny": "Babimanta_shiny.png"
     }
   },
   {
@@ -5962,8 +5962,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Blizzi.jpg",
-      "shiny": "Blizzi_shiny.jpg"
+      "default": "Blizzi.png",
+      "shiny": "Blizzi_shiny.png"
     }
   },
   {
@@ -5975,8 +5975,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Blizzaroi.jpg",
-      "shiny": "Blizzaroi_shiny.jpg"
+      "default": "Blizzaroi.png",
+      "shiny": "Blizzaroi_shiny.png"
     }
   },
   {
@@ -5988,8 +5988,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Dimoret.jpg",
-      "shiny": "Dimoret_shiny.jpg"
+      "default": "Dimoret.png",
+      "shiny": "Dimoret_shiny.png"
     }
   },
   {
@@ -6001,8 +6001,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Magnézone.jpg",
-      "shiny": "Magnézone_shiny.jpg"
+      "default": "Magnézone.png",
+      "shiny": "Magnézone_shiny.png"
     }
   },
   {
@@ -6014,8 +6014,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Coudlangue.jpg",
-      "shiny": "Coudlangue_shiny.jpg"
+      "default": "Coudlangue.png",
+      "shiny": "Coudlangue_shiny.png"
     }
   },
   {
@@ -6027,8 +6027,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Rhinastoc.jpg",
-      "shiny": "Rhinastoc_shiny.jpg"
+      "default": "Rhinastoc.png",
+      "shiny": "Rhinastoc_shiny.png"
     }
   },
   {
@@ -6040,8 +6040,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Bouldeneu.jpg",
-      "shiny": "Bouldeneu_shiny.jpg"
+      "default": "Bouldeneu.png",
+      "shiny": "Bouldeneu_shiny.png"
     }
   },
   {
@@ -6053,8 +6053,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Élekable.jpg",
-      "shiny": "Élekable_shiny.jpg"
+      "default": "Élekable.png",
+      "shiny": "Élekable_shiny.png"
     }
   },
   {
@@ -6066,8 +6066,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Maganon.jpg",
-      "shiny": "Maganon_shiny.jpg"
+      "default": "Maganon.png",
+      "shiny": "Maganon_shiny.png"
     }
   },
   {
@@ -6079,8 +6079,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Togekiss.jpg",
-      "shiny": "Togekiss_shiny.jpg"
+      "default": "Togekiss.png",
+      "shiny": "Togekiss_shiny.png"
     }
   },
   {
@@ -6092,8 +6092,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Yanmega.jpg",
-      "shiny": "Yanmega_shiny.jpg"
+      "default": "Yanmega.png",
+      "shiny": "Yanmega_shiny.png"
     }
   },
   {
@@ -6105,8 +6105,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Phyllali.jpg",
-      "shiny": "Phyllali_shiny.jpg"
+      "default": "Phyllali.png",
+      "shiny": "Phyllali_shiny.png"
     }
   },
   {
@@ -6118,8 +6118,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Givrali.jpg",
-      "shiny": "Givrali_shiny.jpg"
+      "default": "Givrali.png",
+      "shiny": "Givrali_shiny.png"
     }
   },
   {
@@ -6131,8 +6131,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Scorvol.jpg",
-      "shiny": "Scorvol_shiny.jpg"
+      "default": "Scorvol.png",
+      "shiny": "Scorvol_shiny.png"
     }
   },
   {
@@ -6144,8 +6144,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Mammochon.jpg",
-      "shiny": "Mammochon_shiny.jpg"
+      "default": "Mammochon.png",
+      "shiny": "Mammochon_shiny.png"
     }
   },
   {
@@ -6157,8 +6157,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Porygon-Z.jpg",
-      "shiny": "Porygon-Z_shiny.jpg"
+      "default": "Porygon-Z.png",
+      "shiny": "Porygon-Z_shiny.png"
     }
   },
   {
@@ -6170,8 +6170,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Gallame.jpg",
-      "shiny": "Gallame_shiny.jpg"
+      "default": "Gallame.png",
+      "shiny": "Gallame_shiny.png"
     }
   },
   {
@@ -6183,8 +6183,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Tarinorme.jpg",
-      "shiny": "Tarinorme_shiny.jpg"
+      "default": "Tarinorme.png",
+      "shiny": "Tarinorme_shiny.png"
     }
   },
   {
@@ -6196,8 +6196,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Noctunoir.jpg",
-      "shiny": "Noctunoir_shiny.jpg"
+      "default": "Noctunoir.png",
+      "shiny": "Noctunoir_shiny.png"
     }
   },
   {
@@ -6209,8 +6209,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Momartik.jpg",
-      "shiny": "Momartik_shiny.jpg"
+      "default": "Momartik.png",
+      "shiny": "Momartik_shiny.png"
     }
   },
   {
@@ -6222,8 +6222,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Motisma.jpg",
-      "shiny": "Motisma_shiny.jpg"
+      "default": "Motisma.png",
+      "shiny": "Motisma_shiny.png"
     }
   },
   {
@@ -6235,8 +6235,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Créhelf.jpg",
-      "shiny": "Créhelf_shiny.jpg"
+      "default": "Créhelf.png",
+      "shiny": "Créhelf_shiny.png"
     }
   },
   {
@@ -6248,8 +6248,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Créfollet.jpg",
-      "shiny": "Créfollet_shiny.jpg"
+      "default": "Créfollet.png",
+      "shiny": "Créfollet_shiny.png"
     }
   },
   {
@@ -6261,8 +6261,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Créfadet.jpg",
-      "shiny": "Créfadet_shiny.jpg"
+      "default": "Créfadet.png",
+      "shiny": "Créfadet_shiny.png"
     }
   },
   {
@@ -6274,8 +6274,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Dialga.jpg",
-      "shiny": "Dialga_shiny.jpg"
+      "default": "Dialga.png",
+      "shiny": "Dialga_shiny.png"
     }
   },
   {
@@ -6287,8 +6287,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Palkia.jpg",
-      "shiny": "Palkia_shiny.jpg"
+      "default": "Palkia.png",
+      "shiny": "Palkia_shiny.png"
     }
   },
   {
@@ -6300,8 +6300,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Heatran.jpg",
-      "shiny": "Heatran_shiny.jpg"
+      "default": "Heatran.png",
+      "shiny": "Heatran_shiny.png"
     }
   },
   {
@@ -6313,8 +6313,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Regigigas.jpg",
-      "shiny": "Regigigas_shiny.jpg"
+      "default": "Regigigas.png",
+      "shiny": "Regigigas_shiny.png"
     }
   },
   {
@@ -6326,8 +6326,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Giratina.jpg",
-      "shiny": "Giratina_shiny.jpg"
+      "default": "Giratina.png",
+      "shiny": "Giratina_shiny.png"
     }
   },
   {
@@ -6339,8 +6339,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Cresselia.jpg",
-      "shiny": "Cresselia_shiny.jpg"
+      "default": "Cresselia.png",
+      "shiny": "Cresselia_shiny.png"
     }
   },
   {
@@ -6352,8 +6352,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Phione.jpg",
-      "shiny": "Phione_shiny.jpg"
+      "default": "Phione.png",
+      "shiny": "Phione_shiny.png"
     }
   },
   {
@@ -6365,8 +6365,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Manaphy.jpg",
-      "shiny": "Manaphy_shiny.jpg"
+      "default": "Manaphy.png",
+      "shiny": "Manaphy_shiny.png"
     }
   },
   {
@@ -6378,8 +6378,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Darkrai.jpg",
-      "shiny": "Darkrai_shiny.jpg"
+      "default": "Darkrai.png",
+      "shiny": "Darkrai_shiny.png"
     }
   },
   {
@@ -6391,8 +6391,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Shaymin.jpg",
-      "shiny": "Shaymin_shiny.jpg"
+      "default": "Shaymin.png",
+      "shiny": "Shaymin_shiny.png"
     }
   },
   {
@@ -6404,8 +6404,8 @@ export const pokedex = [
     },
     "generation": "4",
     "spriteFilenames": {
-      "default": "Arceus.jpg",
-      "shiny": "Arceus_shiny.jpg"
+      "default": "Arceus.png",
+      "shiny": "Arceus_shiny.png"
     }
   },
   {
@@ -6417,8 +6417,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Victini.jpg",
-      "shiny": "Victini_shiny.jpg"
+      "default": "Victini.png",
+      "shiny": "Victini_shiny.png"
     }
   },
   {
@@ -6430,8 +6430,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Vipélierre.jpg",
-      "shiny": "Vipélierre_shiny.jpg"
+      "default": "Vipélierre.png",
+      "shiny": "Vipélierre_shiny.png"
     }
   },
   {
@@ -6443,8 +6443,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Lianaja.jpg",
-      "shiny": "Lianaja_shiny.jpg"
+      "default": "Lianaja.png",
+      "shiny": "Lianaja_shiny.png"
     }
   },
   {
@@ -6456,8 +6456,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Majaspic.jpg",
-      "shiny": "Majaspic_shiny.jpg"
+      "default": "Majaspic.png",
+      "shiny": "Majaspic_shiny.png"
     }
   },
   {
@@ -6469,8 +6469,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Gruikui.jpg",
-      "shiny": "Gruikui_shiny.jpg"
+      "default": "Gruikui.png",
+      "shiny": "Gruikui_shiny.png"
     }
   },
   {
@@ -6482,8 +6482,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Grotichon.jpg",
-      "shiny": "Grotichon_shiny.jpg"
+      "default": "Grotichon.png",
+      "shiny": "Grotichon_shiny.png"
     }
   },
   {
@@ -6495,8 +6495,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Roitiflam.jpg",
-      "shiny": "Roitiflam_shiny.jpg"
+      "default": "Roitiflam.png",
+      "shiny": "Roitiflam_shiny.png"
     }
   },
   {
@@ -6508,8 +6508,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Moustillon.jpg",
-      "shiny": "Moustillon_shiny.jpg"
+      "default": "Moustillon.png",
+      "shiny": "Moustillon_shiny.png"
     }
   },
   {
@@ -6521,8 +6521,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Mateloutre.jpg",
-      "shiny": "Mateloutre_shiny.jpg"
+      "default": "Mateloutre.png",
+      "shiny": "Mateloutre_shiny.png"
     }
   },
   {
@@ -6534,8 +6534,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Clamiral.jpg",
-      "shiny": "Clamiral_shiny.jpg"
+      "default": "Clamiral.png",
+      "shiny": "Clamiral_shiny.png"
     }
   },
   {
@@ -6547,8 +6547,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Ratentif.jpg",
-      "shiny": "Ratentif_shiny.jpg"
+      "default": "Ratentif.png",
+      "shiny": "Ratentif_shiny.png"
     }
   },
   {
@@ -6560,8 +6560,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Miradar.jpg",
-      "shiny": "Miradar_shiny.jpg"
+      "default": "Miradar.png",
+      "shiny": "Miradar_shiny.png"
     }
   },
   {
@@ -6573,8 +6573,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Ponchiot.jpg",
-      "shiny": "Ponchiot_shiny.jpg"
+      "default": "Ponchiot.png",
+      "shiny": "Ponchiot_shiny.png"
     }
   },
   {
@@ -6586,8 +6586,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Ponchien.jpg",
-      "shiny": "Ponchien_shiny.jpg"
+      "default": "Ponchien.png",
+      "shiny": "Ponchien_shiny.png"
     }
   },
   {
@@ -6599,8 +6599,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Mastouffe.jpg",
-      "shiny": "Mastouffe_shiny.jpg"
+      "default": "Mastouffe.png",
+      "shiny": "Mastouffe_shiny.png"
     }
   },
   {
@@ -6612,8 +6612,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Chacripan.jpg",
-      "shiny": "Chacripan_shiny.jpg"
+      "default": "Chacripan.png",
+      "shiny": "Chacripan_shiny.png"
     }
   },
   {
@@ -6625,8 +6625,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Léopardus.jpg",
-      "shiny": "Léopardus_shiny.jpg"
+      "default": "Léopardus.png",
+      "shiny": "Léopardus_shiny.png"
     }
   },
   {
@@ -6638,8 +6638,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Feuillajou.jpg",
-      "shiny": "Feuillajou_shiny.jpg"
+      "default": "Feuillajou.png",
+      "shiny": "Feuillajou_shiny.png"
     }
   },
   {
@@ -6651,8 +6651,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Feuiloutan.jpg",
-      "shiny": "Feuiloutan_shiny.jpg"
+      "default": "Feuiloutan.png",
+      "shiny": "Feuiloutan_shiny.png"
     }
   },
   {
@@ -6664,8 +6664,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Flamajou.jpg",
-      "shiny": "Flamajou_shiny.jpg"
+      "default": "Flamajou.png",
+      "shiny": "Flamajou_shiny.png"
     }
   },
   {
@@ -6677,8 +6677,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Flamoutan.jpg",
-      "shiny": "Flamoutan_shiny.jpg"
+      "default": "Flamoutan.png",
+      "shiny": "Flamoutan_shiny.png"
     }
   },
   {
@@ -6690,8 +6690,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Flotajou.jpg",
-      "shiny": "Flotajou_shiny.jpg"
+      "default": "Flotajou.png",
+      "shiny": "Flotajou_shiny.png"
     }
   },
   {
@@ -6703,8 +6703,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Flotoutan.jpg",
-      "shiny": "Flotoutan_shiny.jpg"
+      "default": "Flotoutan.png",
+      "shiny": "Flotoutan_shiny.png"
     }
   },
   {
@@ -6716,8 +6716,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Munna.jpg",
-      "shiny": "Munna_shiny.jpg"
+      "default": "Munna.png",
+      "shiny": "Munna_shiny.png"
     }
   },
   {
@@ -6729,8 +6729,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Mushana.jpg",
-      "shiny": "Mushana_shiny.jpg"
+      "default": "Mushana.png",
+      "shiny": "Mushana_shiny.png"
     }
   },
   {
@@ -6742,8 +6742,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Poichigeon.jpg",
-      "shiny": "Poichigeon_shiny.jpg"
+      "default": "Poichigeon.png",
+      "shiny": "Poichigeon_shiny.png"
     }
   },
   {
@@ -6755,8 +6755,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Colombeau.jpg",
-      "shiny": "Colombeau_shiny.jpg"
+      "default": "Colombeau.png",
+      "shiny": "Colombeau_shiny.png"
     }
   },
   {
@@ -6768,8 +6768,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Déflaisan.jpg",
-      "shiny": "Déflaisan_shiny.jpg"
+      "default": "Déflaisan.png",
+      "shiny": "Déflaisan_shiny.png"
     }
   },
   {
@@ -6781,8 +6781,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Zébibron.jpg",
-      "shiny": "Zébibron_shiny.jpg"
+      "default": "Zébibron.png",
+      "shiny": "Zébibron_shiny.png"
     }
   },
   {
@@ -6794,8 +6794,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Zéblitz.jpg",
-      "shiny": "Zéblitz_shiny.jpg"
+      "default": "Zéblitz.png",
+      "shiny": "Zéblitz_shiny.png"
     }
   },
   {
@@ -6807,8 +6807,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Nodulithe.jpg",
-      "shiny": "Nodulithe_shiny.jpg"
+      "default": "Nodulithe.png",
+      "shiny": "Nodulithe_shiny.png"
     }
   },
   {
@@ -6820,8 +6820,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Géolithe.jpg",
-      "shiny": "Géolithe_shiny.jpg"
+      "default": "Géolithe.png",
+      "shiny": "Géolithe_shiny.png"
     }
   },
   {
@@ -6833,8 +6833,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Gigalithe.jpg",
-      "shiny": "Gigalithe_shiny.jpg"
+      "default": "Gigalithe.png",
+      "shiny": "Gigalithe_shiny.png"
     }
   },
   {
@@ -6846,8 +6846,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Chovsourir.jpg",
-      "shiny": "Chovsourir_shiny.jpg"
+      "default": "Chovsourir.png",
+      "shiny": "Chovsourir_shiny.png"
     }
   },
   {
@@ -6859,8 +6859,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Rhinolove.jpg",
-      "shiny": "Rhinolove_shiny.jpg"
+      "default": "Rhinolove.png",
+      "shiny": "Rhinolove_shiny.png"
     }
   },
   {
@@ -6872,8 +6872,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Rototaupe.jpg",
-      "shiny": "Rototaupe_shiny.jpg"
+      "default": "Rototaupe.png",
+      "shiny": "Rototaupe_shiny.png"
     }
   },
   {
@@ -6885,8 +6885,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Minotaupe.jpg",
-      "shiny": "Minotaupe_shiny.jpg"
+      "default": "Minotaupe.png",
+      "shiny": "Minotaupe_shiny.png"
     }
   },
   {
@@ -6898,8 +6898,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Nanméouïe.jpg",
-      "shiny": "Nanméouïe_shiny.jpg"
+      "default": "Nanméouïe.png",
+      "shiny": "Nanméouïe_shiny.png"
     }
   },
   {
@@ -6911,8 +6911,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Charpenti.jpg",
-      "shiny": "Charpenti_shiny.jpg"
+      "default": "Charpenti.png",
+      "shiny": "Charpenti_shiny.png"
     }
   },
   {
@@ -6924,8 +6924,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Ouvrifier.jpg",
-      "shiny": "Ouvrifier_shiny.jpg"
+      "default": "Ouvrifier.png",
+      "shiny": "Ouvrifier_shiny.png"
     }
   },
   {
@@ -6937,8 +6937,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Bétochef.jpg",
-      "shiny": "Bétochef_shiny.jpg"
+      "default": "Bétochef.png",
+      "shiny": "Bétochef_shiny.png"
     }
   },
   {
@@ -6950,8 +6950,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Tritonde.jpg",
-      "shiny": "Tritonde_shiny.jpg"
+      "default": "Tritonde.png",
+      "shiny": "Tritonde_shiny.png"
     }
   },
   {
@@ -6963,8 +6963,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Batracné.jpg",
-      "shiny": "Batracné_shiny.jpg"
+      "default": "Batracné.png",
+      "shiny": "Batracné_shiny.png"
     }
   },
   {
@@ -6976,8 +6976,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Crapustule.jpg",
-      "shiny": "Crapustule_shiny.jpg"
+      "default": "Crapustule.png",
+      "shiny": "Crapustule_shiny.png"
     }
   },
   {
@@ -6989,8 +6989,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Judokrak.jpg",
-      "shiny": "Judokrak_shiny.jpg"
+      "default": "Judokrak.png",
+      "shiny": "Judokrak_shiny.png"
     }
   },
   {
@@ -7002,8 +7002,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Karaclée.jpg",
-      "shiny": "Karaclée_shiny.jpg"
+      "default": "Karaclée.png",
+      "shiny": "Karaclée_shiny.png"
     }
   },
   {
@@ -7015,8 +7015,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Larveyette.jpg",
-      "shiny": "Larveyette_shiny.jpg"
+      "default": "Larveyette.png",
+      "shiny": "Larveyette_shiny.png"
     }
   },
   {
@@ -7028,8 +7028,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Couverdure.jpg",
-      "shiny": "Couverdure_shiny.jpg"
+      "default": "Couverdure.png",
+      "shiny": "Couverdure_shiny.png"
     }
   },
   {
@@ -7041,8 +7041,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Manternel.jpg",
-      "shiny": "Manternel_shiny.jpg"
+      "default": "Manternel.png",
+      "shiny": "Manternel_shiny.png"
     }
   },
   {
@@ -7054,8 +7054,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Venipatte.jpg",
-      "shiny": "Venipatte_shiny.jpg"
+      "default": "Venipatte.png",
+      "shiny": "Venipatte_shiny.png"
     }
   },
   {
@@ -7067,8 +7067,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Scobolide.jpg",
-      "shiny": "Scobolide_shiny.jpg"
+      "default": "Scobolide.png",
+      "shiny": "Scobolide_shiny.png"
     }
   },
   {
@@ -7080,8 +7080,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Brutapode.jpg",
-      "shiny": "Brutapode_shiny.jpg"
+      "default": "Brutapode.png",
+      "shiny": "Brutapode_shiny.png"
     }
   },
   {
@@ -7093,8 +7093,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Doudouvet.jpg",
-      "shiny": "Doudouvet_shiny.jpg"
+      "default": "Doudouvet.png",
+      "shiny": "Doudouvet_shiny.png"
     }
   },
   {
@@ -7106,8 +7106,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Farfaduvet.jpg",
-      "shiny": "Farfaduvet_shiny.jpg"
+      "default": "Farfaduvet.png",
+      "shiny": "Farfaduvet_shiny.png"
     }
   },
   {
@@ -7119,8 +7119,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Chlorobule.jpg",
-      "shiny": "Chlorobule_shiny.jpg"
+      "default": "Chlorobule.png",
+      "shiny": "Chlorobule_shiny.png"
     }
   },
   {
@@ -7132,8 +7132,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Fragilady.jpg",
-      "shiny": "Fragilady_shiny.jpg"
+      "default": "Fragilady.png",
+      "shiny": "Fragilady_shiny.png"
     }
   },
   {
@@ -7145,8 +7145,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Bargantua.jpg",
-      "shiny": "Bargantua_shiny.jpg"
+      "default": "Bargantua.png",
+      "shiny": "Bargantua_shiny.png"
     }
   },
   {
@@ -7158,8 +7158,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Mascaïman.jpg",
-      "shiny": "Mascaïman_shiny.jpg"
+      "default": "Mascaïman.png",
+      "shiny": "Mascaïman_shiny.png"
     }
   },
   {
@@ -7171,8 +7171,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Escroco.jpg",
-      "shiny": "Escroco_shiny.jpg"
+      "default": "Escroco.png",
+      "shiny": "Escroco_shiny.png"
     }
   },
   {
@@ -7184,8 +7184,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Crocorible.jpg",
-      "shiny": "Crocorible_shiny.jpg"
+      "default": "Crocorible.png",
+      "shiny": "Crocorible_shiny.png"
     }
   },
   {
@@ -7197,8 +7197,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Darumarond.jpg",
-      "shiny": "Darumarond_shiny.jpg"
+      "default": "Darumarond.png",
+      "shiny": "Darumarond_shiny.png"
     }
   },
   {
@@ -7210,8 +7210,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Darumacho.jpg",
-      "shiny": "Darumacho_shiny.jpg"
+      "default": "Darumacho.png",
+      "shiny": "Darumacho_shiny.png"
     }
   },
   {
@@ -7223,8 +7223,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Maracachi.jpg",
-      "shiny": "Maracachi_shiny.jpg"
+      "default": "Maracachi.png",
+      "shiny": "Maracachi_shiny.png"
     }
   },
   {
@@ -7236,8 +7236,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Crabicoque.jpg",
-      "shiny": "Crabicoque_shiny.jpg"
+      "default": "Crabicoque.png",
+      "shiny": "Crabicoque_shiny.png"
     }
   },
   {
@@ -7249,8 +7249,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Crabaraque.jpg",
-      "shiny": "Crabaraque_shiny.jpg"
+      "default": "Crabaraque.png",
+      "shiny": "Crabaraque_shiny.png"
     }
   },
   {
@@ -7262,8 +7262,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Baggiguane.jpg",
-      "shiny": "Baggiguane_shiny.jpg"
+      "default": "Baggiguane.png",
+      "shiny": "Baggiguane_shiny.png"
     }
   },
   {
@@ -7275,8 +7275,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Baggaïd.jpg",
-      "shiny": "Baggaïd_shiny.jpg"
+      "default": "Baggaïd.png",
+      "shiny": "Baggaïd_shiny.png"
     }
   },
   {
@@ -7288,8 +7288,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Cryptéro.jpg",
-      "shiny": "Cryptéro_shiny.jpg"
+      "default": "Cryptéro.png",
+      "shiny": "Cryptéro_shiny.png"
     }
   },
   {
@@ -7301,8 +7301,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Tutafeh.jpg",
-      "shiny": "Tutafeh_shiny.jpg"
+      "default": "Tutafeh.png",
+      "shiny": "Tutafeh_shiny.png"
     }
   },
   {
@@ -7314,8 +7314,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Tutankafer.jpg",
-      "shiny": "Tutankafer_shiny.jpg"
+      "default": "Tutankafer.png",
+      "shiny": "Tutankafer_shiny.png"
     }
   },
   {
@@ -7327,8 +7327,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Carapagos.jpg",
-      "shiny": "Carapagos_shiny.jpg"
+      "default": "Carapagos.png",
+      "shiny": "Carapagos_shiny.png"
     }
   },
   {
@@ -7340,8 +7340,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Mégapagos.jpg",
-      "shiny": "Mégapagos_shiny.jpg"
+      "default": "Mégapagos.png",
+      "shiny": "Mégapagos_shiny.png"
     }
   },
   {
@@ -7353,8 +7353,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Arkéapti.jpg",
-      "shiny": "Arkéapti_shiny.jpg"
+      "default": "Arkéapti.png",
+      "shiny": "Arkéapti_shiny.png"
     }
   },
   {
@@ -7366,8 +7366,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Aéroptéryx.jpg",
-      "shiny": "Aéroptéryx_shiny.jpg"
+      "default": "Aéroptéryx.png",
+      "shiny": "Aéroptéryx_shiny.png"
     }
   },
   {
@@ -7379,8 +7379,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Miamiasme.jpg",
-      "shiny": "Miamiasme_shiny.jpg"
+      "default": "Miamiasme.png",
+      "shiny": "Miamiasme_shiny.png"
     }
   },
   {
@@ -7392,8 +7392,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Miasmax.jpg",
-      "shiny": "Miasmax_shiny.jpg"
+      "default": "Miasmax.png",
+      "shiny": "Miasmax_shiny.png"
     }
   },
   {
@@ -7405,8 +7405,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Zorua.jpg",
-      "shiny": "Zorua_shiny.jpg"
+      "default": "Zorua.png",
+      "shiny": "Zorua_shiny.png"
     }
   },
   {
@@ -7418,8 +7418,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Zoroark.jpg",
-      "shiny": "Zoroark_shiny.jpg"
+      "default": "Zoroark.png",
+      "shiny": "Zoroark_shiny.png"
     }
   },
   {
@@ -7431,8 +7431,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Chinchidou.jpg",
-      "shiny": "Chinchidou_shiny.jpg"
+      "default": "Chinchidou.png",
+      "shiny": "Chinchidou_shiny.png"
     }
   },
   {
@@ -7444,8 +7444,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Pashmilla.jpg",
-      "shiny": "Pashmilla_shiny.jpg"
+      "default": "Pashmilla.png",
+      "shiny": "Pashmilla_shiny.png"
     }
   },
   {
@@ -7457,8 +7457,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Scrutella.jpg",
-      "shiny": "Scrutella_shiny.jpg"
+      "default": "Scrutella.png",
+      "shiny": "Scrutella_shiny.png"
     }
   },
   {
@@ -7470,8 +7470,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Mesmérella.jpg",
-      "shiny": "Mesmérella_shiny.jpg"
+      "default": "Mesmérella.png",
+      "shiny": "Mesmérella_shiny.png"
     }
   },
   {
@@ -7483,8 +7483,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Sidérella.jpg",
-      "shiny": "Sidérella_shiny.jpg"
+      "default": "Sidérella.png",
+      "shiny": "Sidérella_shiny.png"
     }
   },
   {
@@ -7496,8 +7496,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Nucléos.jpg",
-      "shiny": "Nucléos_shiny.jpg"
+      "default": "Nucléos.png",
+      "shiny": "Nucléos_shiny.png"
     }
   },
   {
@@ -7509,8 +7509,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Méios.jpg",
-      "shiny": "Méios_shiny.jpg"
+      "default": "Méios.png",
+      "shiny": "Méios_shiny.png"
     }
   },
   {
@@ -7522,8 +7522,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Symbios.jpg",
-      "shiny": "Symbios_shiny.jpg"
+      "default": "Symbios.png",
+      "shiny": "Symbios_shiny.png"
     }
   },
   {
@@ -7535,8 +7535,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Couaneton.jpg",
-      "shiny": "Couaneton_shiny.jpg"
+      "default": "Couaneton.png",
+      "shiny": "Couaneton_shiny.png"
     }
   },
   {
@@ -7548,8 +7548,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Lakmécygne.jpg",
-      "shiny": "Lakmécygne_shiny.jpg"
+      "default": "Lakmécygne.png",
+      "shiny": "Lakmécygne_shiny.png"
     }
   },
   {
@@ -7561,8 +7561,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Sorbébé.jpg",
-      "shiny": "Sorbébé_shiny.jpg"
+      "default": "Sorbébé.png",
+      "shiny": "Sorbébé_shiny.png"
     }
   },
   {
@@ -7574,8 +7574,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Sorboul.jpg",
-      "shiny": "Sorboul_shiny.jpg"
+      "default": "Sorboul.png",
+      "shiny": "Sorboul_shiny.png"
     }
   },
   {
@@ -7587,8 +7587,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Sorbouboul.jpg",
-      "shiny": "Sorbouboul_shiny.jpg"
+      "default": "Sorbouboul.png",
+      "shiny": "Sorbouboul_shiny.png"
     }
   },
   {
@@ -7600,8 +7600,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Vivaldaim.jpg",
-      "shiny": "Vivaldaim_shiny.jpg"
+      "default": "Vivaldaim.png",
+      "shiny": "Vivaldaim_shiny.png"
     }
   },
   {
@@ -7613,8 +7613,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Haydaim.jpg",
-      "shiny": "Haydaim_shiny.jpg"
+      "default": "Haydaim.png",
+      "shiny": "Haydaim_shiny.png"
     }
   },
   {
@@ -7626,8 +7626,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Emolga.jpg",
-      "shiny": "Emolga_shiny.jpg"
+      "default": "Emolga.png",
+      "shiny": "Emolga_shiny.png"
     }
   },
   {
@@ -7639,8 +7639,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Carabing.jpg",
-      "shiny": "Carabing_shiny.jpg"
+      "default": "Carabing.png",
+      "shiny": "Carabing_shiny.png"
     }
   },
   {
@@ -7652,8 +7652,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Lançargot.jpg",
-      "shiny": "Lançargot_shiny.jpg"
+      "default": "Lançargot.png",
+      "shiny": "Lançargot_shiny.png"
     }
   },
   {
@@ -7665,8 +7665,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Trompignon.jpg",
-      "shiny": "Trompignon_shiny.jpg"
+      "default": "Trompignon.png",
+      "shiny": "Trompignon_shiny.png"
     }
   },
   {
@@ -7678,8 +7678,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Gaulet.jpg",
-      "shiny": "Gaulet_shiny.jpg"
+      "default": "Gaulet.png",
+      "shiny": "Gaulet_shiny.png"
     }
   },
   {
@@ -7691,8 +7691,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Viskuse.jpg",
-      "shiny": "Viskuse_shiny.jpg"
+      "default": "Viskuse.png",
+      "shiny": "Viskuse_shiny.png"
     }
   },
   {
@@ -7704,8 +7704,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Moyade.jpg",
-      "shiny": "Moyade_shiny.jpg"
+      "default": "Moyade.png",
+      "shiny": "Moyade_shiny.png"
     }
   },
   {
@@ -7717,8 +7717,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Mamanbo.jpg",
-      "shiny": "Mamanbo_shiny.jpg"
+      "default": "Mamanbo.png",
+      "shiny": "Mamanbo_shiny.png"
     }
   },
   {
@@ -7730,8 +7730,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Statitik.jpg",
-      "shiny": "Statitik_shiny.jpg"
+      "default": "Statitik.png",
+      "shiny": "Statitik_shiny.png"
     }
   },
   {
@@ -7743,8 +7743,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Mygavolt.jpg",
-      "shiny": "Mygavolt_shiny.jpg"
+      "default": "Mygavolt.png",
+      "shiny": "Mygavolt_shiny.png"
     }
   },
   {
@@ -7756,8 +7756,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Grindur.jpg",
-      "shiny": "Grindur_shiny.jpg"
+      "default": "Grindur.png",
+      "shiny": "Grindur_shiny.png"
     }
   },
   {
@@ -7769,8 +7769,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Noacier.jpg",
-      "shiny": "Noacier_shiny.jpg"
+      "default": "Noacier.png",
+      "shiny": "Noacier_shiny.png"
     }
   },
   {
@@ -7782,8 +7782,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Tic.jpg",
-      "shiny": "Tic_shiny.jpg"
+      "default": "Tic.png",
+      "shiny": "Tic_shiny.png"
     }
   },
   {
@@ -7795,8 +7795,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Clic.jpg",
-      "shiny": "Clic_shiny.jpg"
+      "default": "Clic.png",
+      "shiny": "Clic_shiny.png"
     }
   },
   {
@@ -7808,8 +7808,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Cliticlic.jpg",
-      "shiny": "Cliticlic_shiny.jpg"
+      "default": "Cliticlic.png",
+      "shiny": "Cliticlic_shiny.png"
     }
   },
   {
@@ -7821,8 +7821,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Anchwatt.jpg",
-      "shiny": "Anchwatt_shiny.jpg"
+      "default": "Anchwatt.png",
+      "shiny": "Anchwatt_shiny.png"
     }
   },
   {
@@ -7834,8 +7834,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Lampéroie.jpg",
-      "shiny": "Lampéroie_shiny.jpg"
+      "default": "Lampéroie.png",
+      "shiny": "Lampéroie_shiny.png"
     }
   },
   {
@@ -7847,8 +7847,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Ohmassacre.jpg",
-      "shiny": "Ohmassacre_shiny.jpg"
+      "default": "Ohmassacre.png",
+      "shiny": "Ohmassacre_shiny.png"
     }
   },
   {
@@ -7860,8 +7860,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Lewsor.jpg",
-      "shiny": "Lewsor_shiny.jpg"
+      "default": "Lewsor.png",
+      "shiny": "Lewsor_shiny.png"
     }
   },
   {
@@ -7873,8 +7873,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Neitram.jpg",
-      "shiny": "Neitram_shiny.jpg"
+      "default": "Neitram.png",
+      "shiny": "Neitram_shiny.png"
     }
   },
   {
@@ -7886,8 +7886,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Funécire.jpg",
-      "shiny": "Funécire_shiny.jpg"
+      "default": "Funécire.png",
+      "shiny": "Funécire_shiny.png"
     }
   },
   {
@@ -7899,8 +7899,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Mélancolux.jpg",
-      "shiny": "Mélancolux_shiny.jpg"
+      "default": "Mélancolux.png",
+      "shiny": "Mélancolux_shiny.png"
     }
   },
   {
@@ -7912,8 +7912,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Lugulabre.jpg",
-      "shiny": "Lugulabre_shiny.jpg"
+      "default": "Lugulabre.png",
+      "shiny": "Lugulabre_shiny.png"
     }
   },
   {
@@ -7925,8 +7925,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Coupenotte.jpg",
-      "shiny": "Coupenotte_shiny.jpg"
+      "default": "Coupenotte.png",
+      "shiny": "Coupenotte_shiny.png"
     }
   },
   {
@@ -7938,8 +7938,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Incisache.jpg",
-      "shiny": "Incisache_shiny.jpg"
+      "default": "Incisache.png",
+      "shiny": "Incisache_shiny.png"
     }
   },
   {
@@ -7951,8 +7951,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Tranchodon.jpg",
-      "shiny": "Tranchodon_shiny.jpg"
+      "default": "Tranchodon.png",
+      "shiny": "Tranchodon_shiny.png"
     }
   },
   {
@@ -7964,8 +7964,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Polarhume.jpg",
-      "shiny": "Polarhume_shiny.jpg"
+      "default": "Polarhume.png",
+      "shiny": "Polarhume_shiny.png"
     }
   },
   {
@@ -7977,8 +7977,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Polagriffe.jpg",
-      "shiny": "Polagriffe_shiny.jpg"
+      "default": "Polagriffe.png",
+      "shiny": "Polagriffe_shiny.png"
     }
   },
   {
@@ -7990,8 +7990,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Hexagel.jpg",
-      "shiny": "Hexagel_shiny.jpg"
+      "default": "Hexagel.png",
+      "shiny": "Hexagel_shiny.png"
     }
   },
   {
@@ -8003,8 +8003,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Escargaume.jpg",
-      "shiny": "Escargaume_shiny.jpg"
+      "default": "Escargaume.png",
+      "shiny": "Escargaume_shiny.png"
     }
   },
   {
@@ -8016,8 +8016,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Limaspeed.jpg",
-      "shiny": "Limaspeed_shiny.jpg"
+      "default": "Limaspeed.png",
+      "shiny": "Limaspeed_shiny.png"
     }
   },
   {
@@ -8029,8 +8029,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Limonde.jpg",
-      "shiny": "Limonde_shiny.jpg"
+      "default": "Limonde.png",
+      "shiny": "Limonde_shiny.png"
     }
   },
   {
@@ -8042,8 +8042,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Kungfouine.jpg",
-      "shiny": "Kungfouine_shiny.jpg"
+      "default": "Kungfouine.png",
+      "shiny": "Kungfouine_shiny.png"
     }
   },
   {
@@ -8055,8 +8055,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Shaofouine.jpg",
-      "shiny": "Shaofouine_shiny.jpg"
+      "default": "Shaofouine.png",
+      "shiny": "Shaofouine_shiny.png"
     }
   },
   {
@@ -8068,8 +8068,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Drakkarmin.jpg",
-      "shiny": "Drakkarmin_shiny.jpg"
+      "default": "Drakkarmin.png",
+      "shiny": "Drakkarmin_shiny.png"
     }
   },
   {
@@ -8081,8 +8081,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Gringolem.jpg",
-      "shiny": "Gringolem_shiny.jpg"
+      "default": "Gringolem.png",
+      "shiny": "Gringolem_shiny.png"
     }
   },
   {
@@ -8094,8 +8094,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Golemastoc.jpg",
-      "shiny": "Golemastoc_shiny.jpg"
+      "default": "Golemastoc.png",
+      "shiny": "Golemastoc_shiny.png"
     }
   },
   {
@@ -8107,8 +8107,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Scalpion.jpg",
-      "shiny": "Scalpion_shiny.jpg"
+      "default": "Scalpion.png",
+      "shiny": "Scalpion_shiny.png"
     }
   },
   {
@@ -8120,8 +8120,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Scalproie.jpg",
-      "shiny": "Scalproie_shiny.jpg"
+      "default": "Scalproie.png",
+      "shiny": "Scalproie_shiny.png"
     }
   },
   {
@@ -8133,8 +8133,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Frison.jpg",
-      "shiny": "Frison_shiny.jpg"
+      "default": "Frison.png",
+      "shiny": "Frison_shiny.png"
     }
   },
   {
@@ -8146,8 +8146,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Furaiglon.jpg",
-      "shiny": "Furaiglon_shiny.jpg"
+      "default": "Furaiglon.png",
+      "shiny": "Furaiglon_shiny.png"
     }
   },
   {
@@ -8159,8 +8159,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Gueriaigle.jpg",
-      "shiny": "Gueriaigle_shiny.jpg"
+      "default": "Gueriaigle.png",
+      "shiny": "Gueriaigle_shiny.png"
     }
   },
   {
@@ -8172,8 +8172,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Vostourno.jpg",
-      "shiny": "Vostourno_shiny.jpg"
+      "default": "Vostourno.png",
+      "shiny": "Vostourno_shiny.png"
     }
   },
   {
@@ -8185,8 +8185,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Vaututrice.jpg",
-      "shiny": "Vaututrice_shiny.jpg"
+      "default": "Vaututrice.png",
+      "shiny": "Vaututrice_shiny.png"
     }
   },
   {
@@ -8198,8 +8198,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Aflamanoir.jpg",
-      "shiny": "Aflamanoir_shiny.jpg"
+      "default": "Aflamanoir.png",
+      "shiny": "Aflamanoir_shiny.png"
     }
   },
   {
@@ -8211,8 +8211,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Fermite.jpg",
-      "shiny": "Fermite_shiny.jpg"
+      "default": "Fermite.png",
+      "shiny": "Fermite_shiny.png"
     }
   },
   {
@@ -8224,8 +8224,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Solochi.jpg",
-      "shiny": "Solochi_shiny.jpg"
+      "default": "Solochi.png",
+      "shiny": "Solochi_shiny.png"
     }
   },
   {
@@ -8237,8 +8237,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Diamat.jpg",
-      "shiny": "Diamat_shiny.jpg"
+      "default": "Diamat.png",
+      "shiny": "Diamat_shiny.png"
     }
   },
   {
@@ -8250,8 +8250,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Trioxhydre.jpg",
-      "shiny": "Trioxhydre_shiny.jpg"
+      "default": "Trioxhydre.png",
+      "shiny": "Trioxhydre_shiny.png"
     }
   },
   {
@@ -8263,8 +8263,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Pyronille.jpg",
-      "shiny": "Pyronille_shiny.jpg"
+      "default": "Pyronille.png",
+      "shiny": "Pyronille_shiny.png"
     }
   },
   {
@@ -8276,8 +8276,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Pyrax.jpg",
-      "shiny": "Pyrax_shiny.jpg"
+      "default": "Pyrax.png",
+      "shiny": "Pyrax_shiny.png"
     }
   },
   {
@@ -8289,8 +8289,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Cobaltium.jpg",
-      "shiny": "Cobaltium_shiny.jpg"
+      "default": "Cobaltium.png",
+      "shiny": "Cobaltium_shiny.png"
     }
   },
   {
@@ -8302,8 +8302,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Terrakium.jpg",
-      "shiny": "Terrakium_shiny.jpg"
+      "default": "Terrakium.png",
+      "shiny": "Terrakium_shiny.png"
     }
   },
   {
@@ -8315,8 +8315,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Viridium.jpg",
-      "shiny": "Viridium_shiny.jpg"
+      "default": "Viridium.png",
+      "shiny": "Viridium_shiny.png"
     }
   },
   {
@@ -8328,8 +8328,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Boréas.jpg",
-      "shiny": "Boréas_shiny.jpg"
+      "default": "Boréas.png",
+      "shiny": "Boréas_shiny.png"
     }
   },
   {
@@ -8341,8 +8341,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Fulguris.jpg",
-      "shiny": "Fulguris_shiny.jpg"
+      "default": "Fulguris.png",
+      "shiny": "Fulguris_shiny.png"
     }
   },
   {
@@ -8354,8 +8354,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Reshiram.jpg",
-      "shiny": "Reshiram_shiny.jpg"
+      "default": "Reshiram.png",
+      "shiny": "Reshiram_shiny.png"
     }
   },
   {
@@ -8367,8 +8367,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Zekrom.jpg",
-      "shiny": "Zekrom_shiny.jpg"
+      "default": "Zekrom.png",
+      "shiny": "Zekrom_shiny.png"
     }
   },
   {
@@ -8380,8 +8380,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Démétéros.jpg",
-      "shiny": "Démétéros_shiny.jpg"
+      "default": "Démétéros.png",
+      "shiny": "Démétéros_shiny.png"
     }
   },
   {
@@ -8393,8 +8393,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Kyurem.jpg",
-      "shiny": "Kyurem_shiny.jpg"
+      "default": "Kyurem.png",
+      "shiny": "Kyurem_shiny.png"
     }
   },
   {
@@ -8406,8 +8406,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Keldeo.jpg",
-      "shiny": "Keldeo_shiny.jpg"
+      "default": "Keldeo.png",
+      "shiny": "Keldeo_shiny.png"
     }
   },
   {
@@ -8419,8 +8419,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Meloetta.jpg",
-      "shiny": "Meloetta_shiny.jpg"
+      "default": "Meloetta.png",
+      "shiny": "Meloetta_shiny.png"
     }
   },
   {
@@ -8432,8 +8432,8 @@ export const pokedex = [
     },
     "generation": "5",
     "spriteFilenames": {
-      "default": "Genesect.jpg",
-      "shiny": "Genesect_shiny.jpg"
+      "default": "Genesect.png",
+      "shiny": "Genesect_shiny.png"
     }
   },
   {
@@ -8445,8 +8445,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Marisson.jpg",
-      "shiny": "Marisson_shiny.jpg"
+      "default": "Marisson.png",
+      "shiny": "Marisson_shiny.png"
     }
   },
   {
@@ -8458,8 +8458,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Boguérisse.jpg",
-      "shiny": "Boguérisse_shiny.jpg"
+      "default": "Boguérisse.png",
+      "shiny": "Boguérisse_shiny.png"
     }
   },
   {
@@ -8471,8 +8471,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Blindépique.jpg",
-      "shiny": "Blindépique_shiny.jpg"
+      "default": "Blindépique.png",
+      "shiny": "Blindépique_shiny.png"
     }
   },
   {
@@ -8484,8 +8484,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Feunnec.jpg",
-      "shiny": "Feunnec_shiny.jpg"
+      "default": "Feunnec.png",
+      "shiny": "Feunnec_shiny.png"
     }
   },
   {
@@ -8497,8 +8497,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Roussil.jpg",
-      "shiny": "Roussil_shiny.jpg"
+      "default": "Roussil.png",
+      "shiny": "Roussil_shiny.png"
     }
   },
   {
@@ -8510,8 +8510,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Goupelin.jpg",
-      "shiny": "Goupelin_shiny.jpg"
+      "default": "Goupelin.png",
+      "shiny": "Goupelin_shiny.png"
     }
   },
   {
@@ -8523,8 +8523,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Grenousse.jpg",
-      "shiny": "Grenousse_shiny.jpg"
+      "default": "Grenousse.png",
+      "shiny": "Grenousse_shiny.png"
     }
   },
   {
@@ -8536,8 +8536,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Croâporal.jpg",
-      "shiny": "Croâporal_shiny.jpg"
+      "default": "Croâporal.png",
+      "shiny": "Croâporal_shiny.png"
     }
   },
   {
@@ -8549,8 +8549,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Amphinobi.jpg",
-      "shiny": "Amphinobi_shiny.jpg"
+      "default": "Amphinobi.png",
+      "shiny": "Amphinobi_shiny.png"
     }
   },
   {
@@ -8562,8 +8562,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Sapereau.jpg",
-      "shiny": "Sapereau_shiny.jpg"
+      "default": "Sapereau.png",
+      "shiny": "Sapereau_shiny.png"
     }
   },
   {
@@ -8575,8 +8575,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Excavarenne.jpg",
-      "shiny": "Excavarenne_shiny.jpg"
+      "default": "Excavarenne.png",
+      "shiny": "Excavarenne_shiny.png"
     }
   },
   {
@@ -8588,8 +8588,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Passerouge.jpg",
-      "shiny": "Passerouge_shiny.jpg"
+      "default": "Passerouge.png",
+      "shiny": "Passerouge_shiny.png"
     }
   },
   {
@@ -8601,8 +8601,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Braisillon.jpg",
-      "shiny": "Braisillon_shiny.jpg"
+      "default": "Braisillon.png",
+      "shiny": "Braisillon_shiny.png"
     }
   },
   {
@@ -8614,8 +8614,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Flambusard.jpg",
-      "shiny": "Flambusard_shiny.jpg"
+      "default": "Flambusard.png",
+      "shiny": "Flambusard_shiny.png"
     }
   },
   {
@@ -8627,8 +8627,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Lépidonille.jpg",
-      "shiny": "Lépidonille_shiny.jpg"
+      "default": "Lépidonille.png",
+      "shiny": "Lépidonille_shiny.png"
     }
   },
   {
@@ -8640,8 +8640,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Pérégrain.jpg",
-      "shiny": "Pérégrain_shiny.jpg"
+      "default": "Pérégrain.png",
+      "shiny": "Pérégrain_shiny.png"
     }
   },
   {
@@ -8653,8 +8653,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Prismillon.jpg",
-      "shiny": "Prismillon_shiny.jpg"
+      "default": "Prismillon.png",
+      "shiny": "Prismillon_shiny.png"
     }
   },
   {
@@ -8666,8 +8666,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Hélionceau.jpg",
-      "shiny": "Hélionceau_shiny.jpg"
+      "default": "Hélionceau.png",
+      "shiny": "Hélionceau_shiny.png"
     }
   },
   {
@@ -8679,8 +8679,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Némélios.jpg",
-      "shiny": "Némélios_shiny.jpg"
+      "default": "Némélios.png",
+      "shiny": "Némélios_shiny.png"
     }
   },
   {
@@ -8692,8 +8692,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Flabébé.jpg",
-      "shiny": "Flabébé_shiny.jpg"
+      "default": "Flabébé.png",
+      "shiny": "Flabébé_shiny.png"
     }
   },
   {
@@ -8705,8 +8705,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Floette.jpg",
-      "shiny": "Floette_shiny.jpg"
+      "default": "Floette.png",
+      "shiny": "Floette_shiny.png"
     }
   },
   {
@@ -8718,8 +8718,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Florges.jpg",
-      "shiny": "Florges_shiny.jpg"
+      "default": "Florges.png",
+      "shiny": "Florges_shiny.png"
     }
   },
   {
@@ -8731,8 +8731,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Cabriolaine.jpg",
-      "shiny": "Cabriolaine_shiny.jpg"
+      "default": "Cabriolaine.png",
+      "shiny": "Cabriolaine_shiny.png"
     }
   },
   {
@@ -8744,8 +8744,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Chevroum.jpg",
-      "shiny": "Chevroum_shiny.jpg"
+      "default": "Chevroum.png",
+      "shiny": "Chevroum_shiny.png"
     }
   },
   {
@@ -8757,8 +8757,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Pandespiègle.jpg",
-      "shiny": "Pandespiègle_shiny.jpg"
+      "default": "Pandespiègle.png",
+      "shiny": "Pandespiègle_shiny.png"
     }
   },
   {
@@ -8770,8 +8770,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Pandarbare.jpg",
-      "shiny": "Pandarbare_shiny.jpg"
+      "default": "Pandarbare.png",
+      "shiny": "Pandarbare_shiny.png"
     }
   },
   {
@@ -8783,8 +8783,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Couafarel.jpg",
-      "shiny": "Couafarel_shiny.jpg"
+      "default": "Couafarel.png",
+      "shiny": "Couafarel_shiny.png"
     }
   },
   {
@@ -8796,8 +8796,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Psystigri.jpg",
-      "shiny": "Psystigri_shiny.jpg"
+      "default": "Psystigri.png",
+      "shiny": "Psystigri_shiny.png"
     }
   },
   {
@@ -8809,8 +8809,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Mistigrix.jpg",
-      "shiny": "Mistigrix_shiny.jpg"
+      "default": "Mistigrix.png",
+      "shiny": "Mistigrix_shiny.png"
     }
   },
   {
@@ -8822,8 +8822,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Monorpale.jpg",
-      "shiny": "Monorpale_shiny.jpg"
+      "default": "Monorpale.png",
+      "shiny": "Monorpale_shiny.png"
     }
   },
   {
@@ -8835,8 +8835,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Dimoclès.jpg",
-      "shiny": "Dimoclès_shiny.jpg"
+      "default": "Dimoclès.png",
+      "shiny": "Dimoclès_shiny.png"
     }
   },
   {
@@ -8848,8 +8848,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Exagide.jpg",
-      "shiny": "Exagide_shiny.jpg"
+      "default": "Exagide.png",
+      "shiny": "Exagide_shiny.png"
     }
   },
   {
@@ -8861,8 +8861,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Fluvetin.jpg",
-      "shiny": "Fluvetin_shiny.jpg"
+      "default": "Fluvetin.png",
+      "shiny": "Fluvetin_shiny.png"
     }
   },
   {
@@ -8874,8 +8874,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Cocotine.jpg",
-      "shiny": "Cocotine_shiny.jpg"
+      "default": "Cocotine.png",
+      "shiny": "Cocotine_shiny.png"
     }
   },
   {
@@ -8887,8 +8887,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Sucroquin.jpg",
-      "shiny": "Sucroquin_shiny.jpg"
+      "default": "Sucroquin.png",
+      "shiny": "Sucroquin_shiny.png"
     }
   },
   {
@@ -8900,8 +8900,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Cupcanaille.jpg",
-      "shiny": "Cupcanaille_shiny.jpg"
+      "default": "Cupcanaille.png",
+      "shiny": "Cupcanaille_shiny.png"
     }
   },
   {
@@ -8913,8 +8913,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Sepiatop.jpg",
-      "shiny": "Sepiatop_shiny.jpg"
+      "default": "Sepiatop.png",
+      "shiny": "Sepiatop_shiny.png"
     }
   },
   {
@@ -8926,8 +8926,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Sepiatroce.jpg",
-      "shiny": "Sepiatroce_shiny.jpg"
+      "default": "Sepiatroce.png",
+      "shiny": "Sepiatroce_shiny.png"
     }
   },
   {
@@ -8939,8 +8939,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Opermine.jpg",
-      "shiny": "Opermine_shiny.jpg"
+      "default": "Opermine.png",
+      "shiny": "Opermine_shiny.png"
     }
   },
   {
@@ -8952,8 +8952,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Golgopathe.jpg",
-      "shiny": "Golgopathe_shiny.jpg"
+      "default": "Golgopathe.png",
+      "shiny": "Golgopathe_shiny.png"
     }
   },
   {
@@ -8965,8 +8965,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Venalgue.jpg",
-      "shiny": "Venalgue_shiny.jpg"
+      "default": "Venalgue.png",
+      "shiny": "Venalgue_shiny.png"
     }
   },
   {
@@ -8978,8 +8978,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Kravarech.jpg",
-      "shiny": "Kravarech_shiny.jpg"
+      "default": "Kravarech.png",
+      "shiny": "Kravarech_shiny.png"
     }
   },
   {
@@ -8991,8 +8991,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Flingouste.jpg",
-      "shiny": "Flingouste_shiny.jpg"
+      "default": "Flingouste.png",
+      "shiny": "Flingouste_shiny.png"
     }
   },
   {
@@ -9004,8 +9004,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Gamblast.jpg",
-      "shiny": "Gamblast_shiny.jpg"
+      "default": "Gamblast.png",
+      "shiny": "Gamblast_shiny.png"
     }
   },
   {
@@ -9017,8 +9017,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Galvaran.jpg",
-      "shiny": "Galvaran_shiny.jpg"
+      "default": "Galvaran.png",
+      "shiny": "Galvaran_shiny.png"
     }
   },
   {
@@ -9030,8 +9030,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Iguolta.jpg",
-      "shiny": "Iguolta_shiny.jpg"
+      "default": "Iguolta.png",
+      "shiny": "Iguolta_shiny.png"
     }
   },
   {
@@ -9043,8 +9043,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Ptyranidur.jpg",
-      "shiny": "Ptyranidur_shiny.jpg"
+      "default": "Ptyranidur.png",
+      "shiny": "Ptyranidur_shiny.png"
     }
   },
   {
@@ -9056,8 +9056,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Rexillius.jpg",
-      "shiny": "Rexillius_shiny.jpg"
+      "default": "Rexillius.png",
+      "shiny": "Rexillius_shiny.png"
     }
   },
   {
@@ -9069,8 +9069,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Amagara.jpg",
-      "shiny": "Amagara_shiny.jpg"
+      "default": "Amagara.png",
+      "shiny": "Amagara_shiny.png"
     }
   },
   {
@@ -9082,8 +9082,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Dragmara.jpg",
-      "shiny": "Dragmara_shiny.jpg"
+      "default": "Dragmara.png",
+      "shiny": "Dragmara_shiny.png"
     }
   },
   {
@@ -9095,8 +9095,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Nymphali.jpg",
-      "shiny": "Nymphali_shiny.jpg"
+      "default": "Nymphali.png",
+      "shiny": "Nymphali_shiny.png"
     }
   },
   {
@@ -9108,8 +9108,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Brutalibré.jpg",
-      "shiny": "Brutalibré_shiny.jpg"
+      "default": "Brutalibré.png",
+      "shiny": "Brutalibré_shiny.png"
     }
   },
   {
@@ -9121,8 +9121,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Dedenne.jpg",
-      "shiny": "Dedenne_shiny.jpg"
+      "default": "Dedenne.png",
+      "shiny": "Dedenne_shiny.png"
     }
   },
   {
@@ -9134,8 +9134,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Strassie.jpg",
-      "shiny": "Strassie_shiny.jpg"
+      "default": "Strassie.png",
+      "shiny": "Strassie_shiny.png"
     }
   },
   {
@@ -9147,8 +9147,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Mucuscule.jpg",
-      "shiny": "Mucuscule_shiny.jpg"
+      "default": "Mucuscule.png",
+      "shiny": "Mucuscule_shiny.png"
     }
   },
   {
@@ -9160,8 +9160,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Colimucus.jpg",
-      "shiny": "Colimucus_shiny.jpg"
+      "default": "Colimucus.png",
+      "shiny": "Colimucus_shiny.png"
     }
   },
   {
@@ -9173,8 +9173,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Muplodocus.jpg",
-      "shiny": "Muplodocus_shiny.jpg"
+      "default": "Muplodocus.png",
+      "shiny": "Muplodocus_shiny.png"
     }
   },
   {
@@ -9186,8 +9186,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Trousselin.jpg",
-      "shiny": "Trousselin_shiny.jpg"
+      "default": "Trousselin.png",
+      "shiny": "Trousselin_shiny.png"
     }
   },
   {
@@ -9199,8 +9199,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Brocélôme.jpg",
-      "shiny": "Brocélôme_shiny.jpg"
+      "default": "Brocélôme.png",
+      "shiny": "Brocélôme_shiny.png"
     }
   },
   {
@@ -9212,8 +9212,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Desséliande.jpg",
-      "shiny": "Desséliande_shiny.jpg"
+      "default": "Desséliande.png",
+      "shiny": "Desséliande_shiny.png"
     }
   },
   {
@@ -9225,8 +9225,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Pitrouille.jpg",
-      "shiny": "Pitrouille_shiny.jpg"
+      "default": "Pitrouille.png",
+      "shiny": "Pitrouille_shiny.png"
     }
   },
   {
@@ -9238,8 +9238,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Banshitrouye.jpg",
-      "shiny": "Banshitrouye_shiny.jpg"
+      "default": "Banshitrouye.png",
+      "shiny": "Banshitrouye_shiny.png"
     }
   },
   {
@@ -9251,8 +9251,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Grelaçon.jpg",
-      "shiny": "Grelaçon_shiny.jpg"
+      "default": "Grelaçon.png",
+      "shiny": "Grelaçon_shiny.png"
     }
   },
   {
@@ -9264,8 +9264,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Séracrawl.jpg",
-      "shiny": "Séracrawl_shiny.jpg"
+      "default": "Séracrawl.png",
+      "shiny": "Séracrawl_shiny.png"
     }
   },
   {
@@ -9277,8 +9277,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Sonistrelle.jpg",
-      "shiny": "Sonistrelle_shiny.jpg"
+      "default": "Sonistrelle.png",
+      "shiny": "Sonistrelle_shiny.png"
     }
   },
   {
@@ -9290,8 +9290,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Bruyverne.jpg",
-      "shiny": "Bruyverne_shiny.jpg"
+      "default": "Bruyverne.png",
+      "shiny": "Bruyverne_shiny.png"
     }
   },
   {
@@ -9303,8 +9303,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Xerneas.jpg",
-      "shiny": "Xerneas_shiny.jpg"
+      "default": "Xerneas.png",
+      "shiny": "Xerneas_shiny.png"
     }
   },
   {
@@ -9316,8 +9316,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Yveltal.jpg",
-      "shiny": "Yveltal_shiny.jpg"
+      "default": "Yveltal.png",
+      "shiny": "Yveltal_shiny.png"
     }
   },
   {
@@ -9329,8 +9329,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Zygarde.jpg",
-      "shiny": "Zygarde_shiny.jpg"
+      "default": "Zygarde.png",
+      "shiny": "Zygarde_shiny.png"
     }
   },
   {
@@ -9342,8 +9342,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Diancie.jpg",
-      "shiny": "Diancie_shiny.jpg"
+      "default": "Diancie.png",
+      "shiny": "Diancie_shiny.png"
     }
   },
   {
@@ -9355,8 +9355,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Hoopa.jpg",
-      "shiny": "Hoopa_shiny.jpg"
+      "default": "Hoopa.png",
+      "shiny": "Hoopa_shiny.png"
     }
   },
   {
@@ -9368,8 +9368,8 @@ export const pokedex = [
     },
     "generation": "6",
     "spriteFilenames": {
-      "default": "Volcanion.jpg",
-      "shiny": "Volcanion_shiny.jpg"
+      "default": "Volcanion.png",
+      "shiny": "Volcanion_shiny.png"
     }
   },
   {
@@ -9381,8 +9381,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Brindibou.jpg",
-      "shiny": "Brindibou_shiny.jpg"
+      "default": "Brindibou.png",
+      "shiny": "Brindibou_shiny.png"
     }
   },
   {
@@ -9394,8 +9394,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Efflèche.jpg",
-      "shiny": "Efflèche_shiny.jpg"
+      "default": "Efflèche.png",
+      "shiny": "Efflèche_shiny.png"
     }
   },
   {
@@ -9407,8 +9407,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Archéduc.jpg",
-      "shiny": "Archéduc_shiny.jpg"
+      "default": "Archéduc.png",
+      "shiny": "Archéduc_shiny.png"
     }
   },
   {
@@ -9420,8 +9420,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Flamiaou.jpg",
-      "shiny": "Flamiaou_shiny.jpg"
+      "default": "Flamiaou.png",
+      "shiny": "Flamiaou_shiny.png"
     }
   },
   {
@@ -9433,8 +9433,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Matoufeu.jpg",
-      "shiny": "Matoufeu_shiny.jpg"
+      "default": "Matoufeu.png",
+      "shiny": "Matoufeu_shiny.png"
     }
   },
   {
@@ -9446,8 +9446,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Félinferno.jpg",
-      "shiny": "Félinferno_shiny.jpg"
+      "default": "Félinferno.png",
+      "shiny": "Félinferno_shiny.png"
     }
   },
   {
@@ -9459,8 +9459,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Otaquin.jpg",
-      "shiny": "Otaquin_shiny.jpg"
+      "default": "Otaquin.png",
+      "shiny": "Otaquin_shiny.png"
     }
   },
   {
@@ -9472,8 +9472,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Otarlette.jpg",
-      "shiny": "Otarlette_shiny.jpg"
+      "default": "Otarlette.png",
+      "shiny": "Otarlette_shiny.png"
     }
   },
   {
@@ -9485,8 +9485,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Oratoria.jpg",
-      "shiny": "Oratoria_shiny.jpg"
+      "default": "Oratoria.png",
+      "shiny": "Oratoria_shiny.png"
     }
   },
   {
@@ -9498,8 +9498,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Picassaut.jpg",
-      "shiny": "Picassaut_shiny.jpg"
+      "default": "Picassaut.png",
+      "shiny": "Picassaut_shiny.png"
     }
   },
   {
@@ -9511,8 +9511,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Piclairon.jpg",
-      "shiny": "Piclairon_shiny.jpg"
+      "default": "Piclairon.png",
+      "shiny": "Piclairon_shiny.png"
     }
   },
   {
@@ -9524,8 +9524,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Bazoucan.jpg",
-      "shiny": "Bazoucan_shiny.jpg"
+      "default": "Bazoucan.png",
+      "shiny": "Bazoucan_shiny.png"
     }
   },
   {
@@ -9537,8 +9537,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Manglouton.jpg",
-      "shiny": "Manglouton_shiny.jpg"
+      "default": "Manglouton.png",
+      "shiny": "Manglouton_shiny.png"
     }
   },
   {
@@ -9550,8 +9550,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Argouste.jpg",
-      "shiny": "Argouste_shiny.jpg"
+      "default": "Argouste.png",
+      "shiny": "Argouste_shiny.png"
     }
   },
   {
@@ -9563,8 +9563,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Larvibule.jpg",
-      "shiny": "Larvibule_shiny.jpg"
+      "default": "Larvibule.png",
+      "shiny": "Larvibule_shiny.png"
     }
   },
   {
@@ -9576,8 +9576,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Chrysapile.jpg",
-      "shiny": "Chrysapile_shiny.jpg"
+      "default": "Chrysapile.png",
+      "shiny": "Chrysapile_shiny.png"
     }
   },
   {
@@ -9589,8 +9589,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Lucanon.jpg",
-      "shiny": "Lucanon_shiny.jpg"
+      "default": "Lucanon.png",
+      "shiny": "Lucanon_shiny.png"
     }
   },
   {
@@ -9602,8 +9602,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Crabagarre.jpg",
-      "shiny": "Crabagarre_shiny.jpg"
+      "default": "Crabagarre.png",
+      "shiny": "Crabagarre_shiny.png"
     }
   },
   {
@@ -9615,8 +9615,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Crabominable.jpg",
-      "shiny": "Crabominable_shiny.jpg"
+      "default": "Crabominable.png",
+      "shiny": "Crabominable_shiny.png"
     }
   },
   {
@@ -9628,8 +9628,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Plumeline.jpg",
-      "shiny": "Plumeline_shiny.jpg"
+      "default": "Plumeline.png",
+      "shiny": "Plumeline_shiny.png"
     }
   },
   {
@@ -9641,8 +9641,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Bombydou.jpg",
-      "shiny": "Bombydou_shiny.jpg"
+      "default": "Bombydou.png",
+      "shiny": "Bombydou_shiny.png"
     }
   },
   {
@@ -9654,8 +9654,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Rubombelle.jpg",
-      "shiny": "Rubombelle_shiny.jpg"
+      "default": "Rubombelle.png",
+      "shiny": "Rubombelle_shiny.png"
     }
   },
   {
@@ -9667,8 +9667,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Rocabot.jpg",
-      "shiny": "Rocabot_shiny.jpg"
+      "default": "Rocabot.png",
+      "shiny": "Rocabot_shiny.png"
     }
   },
   {
@@ -9680,8 +9680,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Lougaroc.jpg",
-      "shiny": "Lougaroc_shiny.jpg"
+      "default": "Lougaroc.png",
+      "shiny": "Lougaroc_shiny.png"
     }
   },
   {
@@ -9693,8 +9693,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Froussardine.jpg",
-      "shiny": "Froussardine_shiny.jpg"
+      "default": "Froussardine.png",
+      "shiny": "Froussardine_shiny.png"
     }
   },
   {
@@ -9706,8 +9706,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Vorastérie.jpg",
-      "shiny": "Vorastérie_shiny.jpg"
+      "default": "Vorastérie.png",
+      "shiny": "Vorastérie_shiny.png"
     }
   },
   {
@@ -9719,8 +9719,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Prédastérie.jpg",
-      "shiny": "Prédastérie_shiny.jpg"
+      "default": "Prédastérie.png",
+      "shiny": "Prédastérie_shiny.png"
     }
   },
   {
@@ -9732,8 +9732,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Tiboudet.jpg",
-      "shiny": "Tiboudet_shiny.jpg"
+      "default": "Tiboudet.png",
+      "shiny": "Tiboudet_shiny.png"
     }
   },
   {
@@ -9745,8 +9745,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Bourrinos.jpg",
-      "shiny": "Bourrinos_shiny.jpg"
+      "default": "Bourrinos.png",
+      "shiny": "Bourrinos_shiny.png"
     }
   },
   {
@@ -9758,8 +9758,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Araqua.jpg",
-      "shiny": "Araqua_shiny.jpg"
+      "default": "Araqua.png",
+      "shiny": "Araqua_shiny.png"
     }
   },
   {
@@ -9771,8 +9771,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Tarenbulle.jpg",
-      "shiny": "Tarenbulle_shiny.jpg"
+      "default": "Tarenbulle.png",
+      "shiny": "Tarenbulle_shiny.png"
     }
   },
   {
@@ -9784,8 +9784,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Mimantis.jpg",
-      "shiny": "Mimantis_shiny.jpg"
+      "default": "Mimantis.png",
+      "shiny": "Mimantis_shiny.png"
     }
   },
   {
@@ -9797,8 +9797,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Floramantis.jpg",
-      "shiny": "Floramantis_shiny.jpg"
+      "default": "Floramantis.png",
+      "shiny": "Floramantis_shiny.png"
     }
   },
   {
@@ -9810,8 +9810,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Spododo.jpg",
-      "shiny": "Spododo_shiny.jpg"
+      "default": "Spododo.png",
+      "shiny": "Spododo_shiny.png"
     }
   },
   {
@@ -9823,8 +9823,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Lampignon.jpg",
-      "shiny": "Lampignon_shiny.jpg"
+      "default": "Lampignon.png",
+      "shiny": "Lampignon_shiny.png"
     }
   },
   {
@@ -9836,8 +9836,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Tritox.jpg",
-      "shiny": "Tritox_shiny.jpg"
+      "default": "Tritox.png",
+      "shiny": "Tritox_shiny.png"
     }
   },
   {
@@ -9849,8 +9849,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Malamandre.jpg",
-      "shiny": "Malamandre_shiny.jpg"
+      "default": "Malamandre.png",
+      "shiny": "Malamandre_shiny.png"
     }
   },
   {
@@ -9862,8 +9862,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Nounourson.jpg",
-      "shiny": "Nounourson_shiny.jpg"
+      "default": "Nounourson.png",
+      "shiny": "Nounourson_shiny.png"
     }
   },
   {
@@ -9875,8 +9875,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Chelours.jpg",
-      "shiny": "Chelours_shiny.jpg"
+      "default": "Chelours.png",
+      "shiny": "Chelours_shiny.png"
     }
   },
   {
@@ -9888,8 +9888,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Croquine.jpg",
-      "shiny": "Croquine_shiny.jpg"
+      "default": "Croquine.png",
+      "shiny": "Croquine_shiny.png"
     }
   },
   {
@@ -9901,8 +9901,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Candine.jpg",
-      "shiny": "Candine_shiny.jpg"
+      "default": "Candine.png",
+      "shiny": "Candine_shiny.png"
     }
   },
   {
@@ -9914,8 +9914,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Sucreine.jpg",
-      "shiny": "Sucreine_shiny.jpg"
+      "default": "Sucreine.png",
+      "shiny": "Sucreine_shiny.png"
     }
   },
   {
@@ -9927,8 +9927,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Guérilande.jpg",
-      "shiny": "Guérilande_shiny.jpg"
+      "default": "Guérilande.png",
+      "shiny": "Guérilande_shiny.png"
     }
   },
   {
@@ -9940,8 +9940,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Gouroutan.jpg",
-      "shiny": "Gouroutan_shiny.jpg"
+      "default": "Gouroutan.png",
+      "shiny": "Gouroutan_shiny.png"
     }
   },
   {
@@ -9953,8 +9953,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Quartermac.jpg",
-      "shiny": "Quartermac_shiny.jpg"
+      "default": "Quartermac.png",
+      "shiny": "Quartermac_shiny.png"
     }
   },
   {
@@ -9966,8 +9966,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Sovkipou.jpg",
-      "shiny": "Sovkipou_shiny.jpg"
+      "default": "Sovkipou.png",
+      "shiny": "Sovkipou_shiny.png"
     }
   },
   {
@@ -9979,8 +9979,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Sarmuraï.jpg",
-      "shiny": "Sarmuraï_shiny.jpg"
+      "default": "Sarmuraï.png",
+      "shiny": "Sarmuraï_shiny.png"
     }
   },
   {
@@ -9992,8 +9992,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Bacabouh.jpg",
-      "shiny": "Bacabouh_shiny.jpg"
+      "default": "Bacabouh.png",
+      "shiny": "Bacabouh_shiny.png"
     }
   },
   {
@@ -10005,8 +10005,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Trépassable.jpg",
-      "shiny": "Trépassable_shiny.jpg"
+      "default": "Trépassable.png",
+      "shiny": "Trépassable_shiny.png"
     }
   },
   {
@@ -10018,8 +10018,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Concombaffe.jpg",
-      "shiny": "Concombaffe_shiny.jpg"
+      "default": "Concombaffe.png",
+      "shiny": "Concombaffe_shiny.png"
     }
   },
   {
@@ -10031,8 +10031,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Type_0.jpg",
-      "shiny": "Type_0_shiny.jpg"
+      "default": "Type_0.png",
+      "shiny": "Type_0_shiny.png"
     }
   },
   {
@@ -10044,8 +10044,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Silvallié.jpg",
-      "shiny": "Silvallié_shiny.jpg"
+      "default": "Silvallié.png",
+      "shiny": "Silvallié_shiny.png"
     }
   },
   {
@@ -10057,8 +10057,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Météno.jpg",
-      "shiny": "Météno_shiny.jpg"
+      "default": "Météno.png",
+      "shiny": "Météno_shiny.png"
     }
   },
   {
@@ -10070,8 +10070,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Dodoala.jpg",
-      "shiny": "Dodoala_shiny.jpg"
+      "default": "Dodoala.png",
+      "shiny": "Dodoala_shiny.png"
     }
   },
   {
@@ -10083,8 +10083,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Boumata.jpg",
-      "shiny": "Boumata_shiny.jpg"
+      "default": "Boumata.png",
+      "shiny": "Boumata_shiny.png"
     }
   },
   {
@@ -10096,8 +10096,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Togedemaru.jpg",
-      "shiny": "Togedemaru_shiny.jpg"
+      "default": "Togedemaru.png",
+      "shiny": "Togedemaru_shiny.png"
     }
   },
   {
@@ -10109,8 +10109,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Mimiqui.jpg",
-      "shiny": "Mimiqui_shiny.jpg"
+      "default": "Mimiqui.png",
+      "shiny": "Mimiqui_shiny.png"
     }
   },
   {
@@ -10122,8 +10122,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Denticrisse.jpg",
-      "shiny": "Denticrisse_shiny.jpg"
+      "default": "Denticrisse.png",
+      "shiny": "Denticrisse_shiny.png"
     }
   },
   {
@@ -10135,8 +10135,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Draïeul.jpg",
-      "shiny": "Draïeul_shiny.jpg"
+      "default": "Draïeul.png",
+      "shiny": "Draïeul_shiny.png"
     }
   },
   {
@@ -10148,8 +10148,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Sinistrail.jpg",
-      "shiny": "Sinistrail_shiny.jpg"
+      "default": "Sinistrail.png",
+      "shiny": "Sinistrail_shiny.png"
     }
   },
   {
@@ -10161,8 +10161,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Bébécaille.jpg",
-      "shiny": "Bébécaille_shiny.jpg"
+      "default": "Bébécaille.png",
+      "shiny": "Bébécaille_shiny.png"
     }
   },
   {
@@ -10174,8 +10174,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Écaïd.jpg",
-      "shiny": "Écaïd_shiny.jpg"
+      "default": "Écaïd.png",
+      "shiny": "Écaïd_shiny.png"
     }
   },
   {
@@ -10187,8 +10187,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Ékaïser.jpg",
-      "shiny": "Ékaïser_shiny.jpg"
+      "default": "Ékaïser.png",
+      "shiny": "Ékaïser_shiny.png"
     }
   },
   {
@@ -10200,8 +10200,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Tokorico.jpg",
-      "shiny": "Tokorico_shiny.jpg"
+      "default": "Tokorico.png",
+      "shiny": "Tokorico_shiny.png"
     }
   },
   {
@@ -10213,8 +10213,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Tokopiyon.jpg",
-      "shiny": "Tokopiyon_shiny.jpg"
+      "default": "Tokopiyon.png",
+      "shiny": "Tokopiyon_shiny.png"
     }
   },
   {
@@ -10226,8 +10226,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Tokotoro.jpg",
-      "shiny": "Tokotoro_shiny.jpg"
+      "default": "Tokotoro.png",
+      "shiny": "Tokotoro_shiny.png"
     }
   },
   {
@@ -10239,8 +10239,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Tokopisco.jpg",
-      "shiny": "Tokopisco_shiny.jpg"
+      "default": "Tokopisco.png",
+      "shiny": "Tokopisco_shiny.png"
     }
   },
   {
@@ -10252,8 +10252,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Cosmog.jpg",
-      "shiny": "Cosmog_shiny.jpg"
+      "default": "Cosmog.png",
+      "shiny": "Cosmog_shiny.png"
     }
   },
   {
@@ -10265,8 +10265,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Cosmovum.jpg",
-      "shiny": "Cosmovum_shiny.jpg"
+      "default": "Cosmovum.png",
+      "shiny": "Cosmovum_shiny.png"
     }
   },
   {
@@ -10278,8 +10278,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Solgaleo.jpg",
-      "shiny": "Solgaleo_shiny.jpg"
+      "default": "Solgaleo.png",
+      "shiny": "Solgaleo_shiny.png"
     }
   },
   {
@@ -10291,8 +10291,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Lunala.jpg",
-      "shiny": "Lunala_shiny.jpg"
+      "default": "Lunala.png",
+      "shiny": "Lunala_shiny.png"
     }
   },
   {
@@ -10304,8 +10304,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Zéroïd.jpg",
-      "shiny": "Zéroïd_shiny.jpg"
+      "default": "Zéroïd.png",
+      "shiny": "Zéroïd_shiny.png"
     }
   },
   {
@@ -10317,8 +10317,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Mouscoto.jpg",
-      "shiny": "Mouscoto_shiny.jpg"
+      "default": "Mouscoto.png",
+      "shiny": "Mouscoto_shiny.png"
     }
   },
   {
@@ -10330,8 +10330,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Cancrelove.jpg",
-      "shiny": "Cancrelove_shiny.jpg"
+      "default": "Cancrelove.png",
+      "shiny": "Cancrelove_shiny.png"
     }
   },
   {
@@ -10343,8 +10343,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Câblifère.jpg",
-      "shiny": "Câblifère_shiny.jpg"
+      "default": "Câblifère.png",
+      "shiny": "Câblifère_shiny.png"
     }
   },
   {
@@ -10356,8 +10356,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Bamboiselle.jpg",
-      "shiny": "Bamboiselle_shiny.jpg"
+      "default": "Bamboiselle.png",
+      "shiny": "Bamboiselle_shiny.png"
     }
   },
   {
@@ -10369,8 +10369,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Katagami.jpg",
-      "shiny": "Katagami_shiny.jpg"
+      "default": "Katagami.png",
+      "shiny": "Katagami_shiny.png"
     }
   },
   {
@@ -10382,8 +10382,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Engloutyran.jpg",
-      "shiny": "Engloutyran_shiny.jpg"
+      "default": "Engloutyran.png",
+      "shiny": "Engloutyran_shiny.png"
     }
   },
   {
@@ -10395,8 +10395,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Necrozma.jpg",
-      "shiny": "Necrozma_shiny.jpg"
+      "default": "Necrozma.png",
+      "shiny": "Necrozma_shiny.png"
     }
   },
   {
@@ -10408,8 +10408,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Magearna.jpg",
-      "shiny": "Magearna_shiny.jpg"
+      "default": "Magearna.png",
+      "shiny": "Magearna_shiny.png"
     }
   },
   {
@@ -10421,8 +10421,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Marshadow.jpg",
-      "shiny": "Marshadow_shiny.jpg"
+      "default": "Marshadow.png",
+      "shiny": "Marshadow_shiny.png"
     }
   },
   {
@@ -10434,8 +10434,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Vémini.jpg",
-      "shiny": "Vémini_shiny.jpg"
+      "default": "Vémini.png",
+      "shiny": "Vémini_shiny.png"
     }
   },
   {
@@ -10447,8 +10447,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Mandrillon.jpg",
-      "shiny": "Mandrillon_shiny.jpg"
+      "default": "Mandrillon.png",
+      "shiny": "Mandrillon_shiny.png"
     }
   },
   {
@@ -10460,8 +10460,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Ama-Ama.jpg",
-      "shiny": "Ama-Ama_shiny.jpg"
+      "default": "Ama-Ama.png",
+      "shiny": "Ama-Ama_shiny.png"
     }
   },
   {
@@ -10473,8 +10473,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Pierroteknik.jpg",
-      "shiny": "Pierroteknik_shiny.jpg"
+      "default": "Pierroteknik.png",
+      "shiny": "Pierroteknik_shiny.png"
     }
   },
   {
@@ -10486,8 +10486,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Zeraora.jpg",
-      "shiny": "Zeraora_shiny.jpg"
+      "default": "Zeraora.png",
+      "shiny": "Zeraora_shiny.png"
     }
   },
   {
@@ -10499,8 +10499,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Meltan.jpg",
-      "shiny": "Meltan_shiny.jpg"
+      "default": "Meltan.png",
+      "shiny": "Meltan_shiny.png"
     }
   },
   {
@@ -10512,8 +10512,8 @@ export const pokedex = [
     },
     "generation": "7",
     "spriteFilenames": {
-      "default": "Melmetal.jpg",
-      "shiny": "Melmetal_shiny.jpg"
+      "default": "Melmetal.png",
+      "shiny": "Melmetal_shiny.png"
     }
   },
   {
@@ -10525,8 +10525,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Ouistempo.jpg",
-      "shiny": "Ouistempo_shiny.jpg"
+      "default": "Ouistempo.png",
+      "shiny": "Ouistempo_shiny.png"
     }
   },
   {
@@ -10538,8 +10538,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Badabouin.jpg",
-      "shiny": "Badabouin_shiny.jpg"
+      "default": "Badabouin.png",
+      "shiny": "Badabouin_shiny.png"
     }
   },
   {
@@ -10551,8 +10551,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Gorythmic.jpg",
-      "shiny": "Gorythmic_shiny.jpg"
+      "default": "Gorythmic.png",
+      "shiny": "Gorythmic_shiny.png"
     }
   },
   {
@@ -10564,8 +10564,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Flambino.jpg",
-      "shiny": "Flambino_shiny.jpg"
+      "default": "Flambino.png",
+      "shiny": "Flambino_shiny.png"
     }
   },
   {
@@ -10577,8 +10577,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Lapyro.jpg",
-      "shiny": "Lapyro_shiny.jpg"
+      "default": "Lapyro.png",
+      "shiny": "Lapyro_shiny.png"
     }
   },
   {
@@ -10590,8 +10590,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Pyrobut.jpg",
-      "shiny": "Pyrobut_shiny.jpg"
+      "default": "Pyrobut.png",
+      "shiny": "Pyrobut_shiny.png"
     }
   },
   {
@@ -10603,8 +10603,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Larméléon.jpg",
-      "shiny": "Larméléon_shiny.jpg"
+      "default": "Larméléon.png",
+      "shiny": "Larméléon_shiny.png"
     }
   },
   {
@@ -10616,8 +10616,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Arrozard.jpg",
-      "shiny": "Arrozard_shiny.jpg"
+      "default": "Arrozard.png",
+      "shiny": "Arrozard_shiny.png"
     }
   },
   {
@@ -10629,8 +10629,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Lézargus.jpg",
-      "shiny": "Lézargus_shiny.jpg"
+      "default": "Lézargus.png",
+      "shiny": "Lézargus_shiny.png"
     }
   },
   {
@@ -10642,8 +10642,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Rongourmand.jpg",
-      "shiny": "Rongourmand_shiny.jpg"
+      "default": "Rongourmand.png",
+      "shiny": "Rongourmand_shiny.png"
     }
   },
   {
@@ -10655,8 +10655,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Rongrigou.jpg",
-      "shiny": "Rongrigou_shiny.jpg"
+      "default": "Rongrigou.png",
+      "shiny": "Rongrigou_shiny.png"
     }
   },
   {
@@ -10668,8 +10668,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Minisange.jpg",
-      "shiny": "Minisange_shiny.jpg"
+      "default": "Minisange.png",
+      "shiny": "Minisange_shiny.png"
     }
   },
   {
@@ -10681,8 +10681,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Bleuseille.jpg",
-      "shiny": "Bleuseille_shiny.jpg"
+      "default": "Bleuseille.png",
+      "shiny": "Bleuseille_shiny.png"
     }
   },
   {
@@ -10694,8 +10694,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Corvaillus.jpg",
-      "shiny": "Corvaillus_shiny.jpg"
+      "default": "Corvaillus.png",
+      "shiny": "Corvaillus_shiny.png"
     }
   },
   {
@@ -10707,8 +10707,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Larvadar.jpg",
-      "shiny": "Larvadar_shiny.jpg"
+      "default": "Larvadar.png",
+      "shiny": "Larvadar_shiny.png"
     }
   },
   {
@@ -10720,8 +10720,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Coléodôme.jpg",
-      "shiny": "Coléodôme_shiny.jpg"
+      "default": "Coléodôme.png",
+      "shiny": "Coléodôme_shiny.png"
     }
   },
   {
@@ -10733,8 +10733,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Astronelle.jpg",
-      "shiny": "Astronelle_shiny.jpg"
+      "default": "Astronelle.png",
+      "shiny": "Astronelle_shiny.png"
     }
   },
   {
@@ -10746,8 +10746,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Goupilou.jpg",
-      "shiny": "Goupilou_shiny.jpg"
+      "default": "Goupilou.png",
+      "shiny": "Goupilou_shiny.png"
     }
   },
   {
@@ -10759,8 +10759,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Roublenard.jpg",
-      "shiny": "Roublenard_shiny.jpg"
+      "default": "Roublenard.png",
+      "shiny": "Roublenard_shiny.png"
     }
   },
   {
@@ -10772,8 +10772,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Tournicoton.jpg",
-      "shiny": "Tournicoton_shiny.jpg"
+      "default": "Tournicoton.png",
+      "shiny": "Tournicoton_shiny.png"
     }
   },
   {
@@ -10785,8 +10785,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Blancoton.jpg",
-      "shiny": "Blancoton_shiny.jpg"
+      "default": "Blancoton.png",
+      "shiny": "Blancoton_shiny.png"
     }
   },
   {
@@ -10798,8 +10798,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Moumouton.jpg",
-      "shiny": "Moumouton_shiny.jpg"
+      "default": "Moumouton.png",
+      "shiny": "Moumouton_shiny.png"
     }
   },
   {
@@ -10811,8 +10811,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Moumouflon.jpg",
-      "shiny": "Moumouflon_shiny.jpg"
+      "default": "Moumouflon.png",
+      "shiny": "Moumouflon_shiny.png"
     }
   },
   {
@@ -10824,8 +10824,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Khélocrok.jpg",
-      "shiny": "Khélocrok_shiny.jpg"
+      "default": "Khélocrok.png",
+      "shiny": "Khélocrok_shiny.png"
     }
   },
   {
@@ -10837,8 +10837,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Torgamord.jpg",
-      "shiny": "Torgamord_shiny.jpg"
+      "default": "Torgamord.png",
+      "shiny": "Torgamord_shiny.png"
     }
   },
   {
@@ -10850,8 +10850,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Voltoutou.jpg",
-      "shiny": "Voltoutou_shiny.jpg"
+      "default": "Voltoutou.png",
+      "shiny": "Voltoutou_shiny.png"
     }
   },
   {
@@ -10863,8 +10863,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Fulgudog.jpg",
-      "shiny": "Fulgudog_shiny.jpg"
+      "default": "Fulgudog.png",
+      "shiny": "Fulgudog_shiny.png"
     }
   },
   {
@@ -10876,8 +10876,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Charbi.jpg",
-      "shiny": "Charbi_shiny.jpg"
+      "default": "Charbi.png",
+      "shiny": "Charbi_shiny.png"
     }
   },
   {
@@ -10889,8 +10889,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Wagomine.jpg",
-      "shiny": "Wagomine_shiny.jpg"
+      "default": "Wagomine.png",
+      "shiny": "Wagomine_shiny.png"
     }
   },
   {
@@ -10902,8 +10902,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Monthracite.jpg",
-      "shiny": "Monthracite_shiny.jpg"
+      "default": "Monthracite.png",
+      "shiny": "Monthracite_shiny.png"
     }
   },
   {
@@ -10915,8 +10915,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Verpom.jpg",
-      "shiny": "Verpom_shiny.jpg"
+      "default": "Verpom.png",
+      "shiny": "Verpom_shiny.png"
     }
   },
   {
@@ -10928,8 +10928,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Pomdrapi.jpg",
-      "shiny": "Pomdrapi_shiny.jpg"
+      "default": "Pomdrapi.png",
+      "shiny": "Pomdrapi_shiny.png"
     }
   },
   {
@@ -10941,8 +10941,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Dratatin.jpg",
-      "shiny": "Dratatin_shiny.jpg"
+      "default": "Dratatin.png",
+      "shiny": "Dratatin_shiny.png"
     }
   },
   {
@@ -10954,8 +10954,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Dunaja.jpg",
-      "shiny": "Dunaja_shiny.jpg"
+      "default": "Dunaja.png",
+      "shiny": "Dunaja_shiny.png"
     }
   },
   {
@@ -10967,8 +10967,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Dunaconda.jpg",
-      "shiny": "Dunaconda_shiny.jpg"
+      "default": "Dunaconda.png",
+      "shiny": "Dunaconda_shiny.png"
     }
   },
   {
@@ -10980,8 +10980,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Nigosier.jpg",
-      "shiny": "Nigosier_shiny.jpg"
+      "default": "Nigosier.png",
+      "shiny": "Nigosier_shiny.png"
     }
   },
   {
@@ -10993,8 +10993,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Embrochet.jpg",
-      "shiny": "Embrochet_shiny.jpg"
+      "default": "Embrochet.png",
+      "shiny": "Embrochet_shiny.png"
     }
   },
   {
@@ -11006,8 +11006,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Hastacuda.jpg",
-      "shiny": "Hastacuda_shiny.jpg"
+      "default": "Hastacuda.png",
+      "shiny": "Hastacuda_shiny.png"
     }
   },
   {
@@ -11019,8 +11019,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Toxizap.jpg",
-      "shiny": "Toxizap_shiny.jpg"
+      "default": "Toxizap.png",
+      "shiny": "Toxizap_shiny.png"
     }
   },
   {
@@ -11032,8 +11032,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Salarsen.jpg",
-      "shiny": "Salarsen_shiny.jpg"
+      "default": "Salarsen.png",
+      "shiny": "Salarsen_shiny.png"
     }
   },
   {
@@ -11045,8 +11045,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Grillepattes.jpg",
-      "shiny": "Grillepattes_shiny.jpg"
+      "default": "Grillepattes.png",
+      "shiny": "Grillepattes_shiny.png"
     }
   },
   {
@@ -11058,8 +11058,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Scolocendre.jpg",
-      "shiny": "Scolocendre_shiny.jpg"
+      "default": "Scolocendre.png",
+      "shiny": "Scolocendre_shiny.png"
     }
   },
   {
@@ -11071,8 +11071,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Poulpaf.jpg",
-      "shiny": "Poulpaf_shiny.jpg"
+      "default": "Poulpaf.png",
+      "shiny": "Poulpaf_shiny.png"
     }
   },
   {
@@ -11084,8 +11084,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Krakos.jpg",
-      "shiny": "Krakos_shiny.jpg"
+      "default": "Krakos.png",
+      "shiny": "Krakos_shiny.png"
     }
   },
   {
@@ -11097,8 +11097,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Théffroi.jpg",
-      "shiny": "Théffroi_shiny.jpg"
+      "default": "Théffroi.png",
+      "shiny": "Théffroi_shiny.png"
     }
   },
   {
@@ -11110,8 +11110,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Polthégeist.jpg",
-      "shiny": "Polthégeist_shiny.jpg"
+      "default": "Polthégeist.png",
+      "shiny": "Polthégeist_shiny.png"
     }
   },
   {
@@ -11123,8 +11123,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Bibichut.jpg",
-      "shiny": "Bibichut_shiny.jpg"
+      "default": "Bibichut.png",
+      "shiny": "Bibichut_shiny.png"
     }
   },
   {
@@ -11136,8 +11136,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Chapotus.jpg",
-      "shiny": "Chapotus_shiny.jpg"
+      "default": "Chapotus.png",
+      "shiny": "Chapotus_shiny.png"
     }
   },
   {
@@ -11149,8 +11149,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Sorcilence.jpg",
-      "shiny": "Sorcilence_shiny.jpg"
+      "default": "Sorcilence.png",
+      "shiny": "Sorcilence_shiny.png"
     }
   },
   {
@@ -11162,8 +11162,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Grimalin.jpg",
-      "shiny": "Grimalin_shiny.jpg"
+      "default": "Grimalin.png",
+      "shiny": "Grimalin_shiny.png"
     }
   },
   {
@@ -11175,8 +11175,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Fourbelin.jpg",
-      "shiny": "Fourbelin_shiny.jpg"
+      "default": "Fourbelin.png",
+      "shiny": "Fourbelin_shiny.png"
     }
   },
   {
@@ -11188,8 +11188,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Angoliath.jpg",
-      "shiny": "Angoliath_shiny.jpg"
+      "default": "Angoliath.png",
+      "shiny": "Angoliath_shiny.png"
     }
   },
   {
@@ -11201,8 +11201,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Ixon.jpg",
-      "shiny": "Ixon_shiny.jpg"
+      "default": "Ixon.png",
+      "shiny": "Ixon_shiny.png"
     }
   },
   {
@@ -11214,8 +11214,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Berserkatt.jpg",
-      "shiny": "Berserkatt_shiny.jpg"
+      "default": "Berserkatt.png",
+      "shiny": "Berserkatt_shiny.png"
     }
   },
   {
@@ -11227,8 +11227,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Corayôme.jpg",
-      "shiny": "Corayôme_shiny.jpg"
+      "default": "Corayôme.png",
+      "shiny": "Corayôme_shiny.png"
     }
   },
   {
@@ -11240,8 +11240,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Palarticho.jpg",
-      "shiny": "Palarticho_shiny.jpg"
+      "default": "Palarticho.png",
+      "shiny": "Palarticho_shiny.png"
     }
   },
   {
@@ -11253,8 +11253,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "M. Glaquette.jpg",
-      "shiny": "M. Glaquette_shiny.jpg"
+      "default": "M. Glaquette.png",
+      "shiny": "M. Glaquette_shiny.png"
     }
   },
   {
@@ -11266,8 +11266,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Tutétékri.jpg",
-      "shiny": "Tutétékri_shiny.jpg"
+      "default": "Tutétékri.png",
+      "shiny": "Tutétékri_shiny.png"
     }
   },
   {
@@ -11279,8 +11279,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Crèmy.jpg",
-      "shiny": "Crèmy_shiny.jpg"
+      "default": "Crèmy.png",
+      "shiny": "Crèmy_shiny.png"
     }
   },
   {
@@ -11292,8 +11292,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Charmilly.jpg",
-      "shiny": "Charmilly_shiny.jpg"
+      "default": "Charmilly.png",
+      "shiny": "Charmilly_shiny.png"
     }
   },
   {
@@ -11305,8 +11305,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Hexadron.jpg",
-      "shiny": "Hexadron_shiny.jpg"
+      "default": "Hexadron.png",
+      "shiny": "Hexadron_shiny.png"
     }
   },
   {
@@ -11318,8 +11318,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Wattapik.jpg",
-      "shiny": "Wattapik_shiny.jpg"
+      "default": "Wattapik.png",
+      "shiny": "Wattapik_shiny.png"
     }
   },
   {
@@ -11331,8 +11331,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Frissonille.jpg",
-      "shiny": "Frissonille_shiny.jpg"
+      "default": "Frissonille.png",
+      "shiny": "Frissonille_shiny.png"
     }
   },
   {
@@ -11344,8 +11344,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Beldeneige.jpg",
-      "shiny": "Beldeneige_shiny.jpg"
+      "default": "Beldeneige.png",
+      "shiny": "Beldeneige_shiny.png"
     }
   },
   {
@@ -11357,8 +11357,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Dolman.jpg",
-      "shiny": "Dolman_shiny.jpg"
+      "default": "Dolman.png",
+      "shiny": "Dolman_shiny.png"
     }
   },
   {
@@ -11370,8 +11370,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Bekaglaçon.jpg",
-      "shiny": "Bekaglaçon_shiny.jpg"
+      "default": "Bekaglaçon.png",
+      "shiny": "Bekaglaçon_shiny.png"
     }
   },
   {
@@ -11383,8 +11383,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Wimessir.jpg",
-      "shiny": "Wimessir_shiny.jpg"
+      "default": "Wimessir.png",
+      "shiny": "Wimessir_shiny.png"
     }
   },
   {
@@ -11396,8 +11396,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Morpeko.jpg",
-      "shiny": "Morpeko_shiny.jpg"
+      "default": "Morpeko.png",
+      "shiny": "Morpeko_shiny.png"
     }
   },
   {
@@ -11409,8 +11409,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Charibari.jpg",
-      "shiny": "Charibari_shiny.jpg"
+      "default": "Charibari.png",
+      "shiny": "Charibari_shiny.png"
     }
   },
   {
@@ -11422,8 +11422,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Pachyradjah.jpg",
-      "shiny": "Pachyradjah_shiny.jpg"
+      "default": "Pachyradjah.png",
+      "shiny": "Pachyradjah_shiny.png"
     }
   },
   {
@@ -11435,8 +11435,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Galvagon.jpg",
-      "shiny": "Galvagon_shiny.jpg"
+      "default": "Galvagon.png",
+      "shiny": "Galvagon_shiny.png"
     }
   },
   {
@@ -11448,8 +11448,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Galvagla.jpg",
-      "shiny": "Galvagla_shiny.jpg"
+      "default": "Galvagla.png",
+      "shiny": "Galvagla_shiny.png"
     }
   },
   {
@@ -11461,8 +11461,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Hydragon.jpg",
-      "shiny": "Hydragon_shiny.jpg"
+      "default": "Hydragon.png",
+      "shiny": "Hydragon_shiny.png"
     }
   },
   {
@@ -11474,8 +11474,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Hydragla.jpg",
-      "shiny": "Hydragla_shiny.jpg"
+      "default": "Hydragla.png",
+      "shiny": "Hydragla_shiny.png"
     }
   },
   {
@@ -11487,8 +11487,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Duralugon.jpg",
-      "shiny": "Duralugon_shiny.jpg"
+      "default": "Duralugon.png",
+      "shiny": "Duralugon_shiny.png"
     }
   },
   {
@@ -11500,8 +11500,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Fantyrm.jpg",
-      "shiny": "Fantyrm_shiny.jpg"
+      "default": "Fantyrm.png",
+      "shiny": "Fantyrm_shiny.png"
     }
   },
   {
@@ -11513,8 +11513,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Dispareptil.jpg",
-      "shiny": "Dispareptil_shiny.jpg"
+      "default": "Dispareptil.png",
+      "shiny": "Dispareptil_shiny.png"
     }
   },
   {
@@ -11526,8 +11526,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Lanssorien.jpg",
-      "shiny": "Lanssorien_shiny.jpg"
+      "default": "Lanssorien.png",
+      "shiny": "Lanssorien_shiny.png"
     }
   },
   {
@@ -11539,8 +11539,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Zacian.jpg",
-      "shiny": "Zacian_shiny.jpg"
+      "default": "Zacian.png",
+      "shiny": "Zacian_shiny.png"
     }
   },
   {
@@ -11552,8 +11552,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Zamazenta.jpg",
-      "shiny": "Zamazenta_shiny.jpg"
+      "default": "Zamazenta.png",
+      "shiny": "Zamazenta_shiny.png"
     }
   },
   {
@@ -11565,8 +11565,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Éthernatos.jpg",
-      "shiny": "Éthernatos_shiny.jpg"
+      "default": "Éthernatos.png",
+      "shiny": "Éthernatos_shiny.png"
     }
   },
   {
@@ -11578,8 +11578,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Wushours.jpg",
-      "shiny": "Wushours_shiny.jpg"
+      "default": "Wushours.png",
+      "shiny": "Wushours_shiny.png"
     }
   },
   {
@@ -11591,8 +11591,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Shifours.jpg",
-      "shiny": "Shifours_shiny.jpg"
+      "default": "Shifours.png",
+      "shiny": "Shifours_shiny.png"
     }
   },
   {
@@ -11604,8 +11604,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Zarude.jpg",
-      "shiny": "Zarude_shiny.jpg"
+      "default": "Zarude.png",
+      "shiny": "Zarude_shiny.png"
     }
   },
   {
@@ -11617,8 +11617,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Regieleki.jpg",
-      "shiny": "Regieleki_shiny.jpg"
+      "default": "Regieleki.png",
+      "shiny": "Regieleki_shiny.png"
     }
   },
   {
@@ -11630,8 +11630,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Regidrago.jpg",
-      "shiny": "Regidrago_shiny.jpg"
+      "default": "Regidrago.png",
+      "shiny": "Regidrago_shiny.png"
     }
   },
   {
@@ -11643,8 +11643,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Blizzeval.jpg",
-      "shiny": "Blizzeval_shiny.jpg"
+      "default": "Blizzeval.png",
+      "shiny": "Blizzeval_shiny.png"
     }
   },
   {
@@ -11656,8 +11656,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Spectreval.jpg",
-      "shiny": "Spectreval_shiny.jpg"
+      "default": "Spectreval.png",
+      "shiny": "Spectreval_shiny.png"
     }
   },
   {
@@ -11669,8 +11669,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Sylveroy.jpg",
-      "shiny": "Sylveroy_shiny.jpg"
+      "default": "Sylveroy.png",
+      "shiny": "Sylveroy_shiny.png"
     }
   },
   {
@@ -11682,8 +11682,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Cerbyllin.jpg",
-      "shiny": "Cerbyllin_shiny.jpg"
+      "default": "Cerbyllin.png",
+      "shiny": "Cerbyllin_shiny.png"
     }
   },
   {
@@ -11695,8 +11695,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Hachécateur.jpg",
-      "shiny": "Hachécateur_shiny.jpg"
+      "default": "Hachécateur.png",
+      "shiny": "Hachécateur_shiny.png"
     }
   },
   {
@@ -11708,8 +11708,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Ursaking.jpg",
-      "shiny": "Ursaking_shiny.jpg"
+      "default": "Ursaking.png",
+      "shiny": "Ursaking_shiny.png"
     }
   },
   {
@@ -11721,8 +11721,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Paragruel.jpg",
-      "shiny": "Paragruel_shiny.jpg"
+      "default": "Paragruel.png",
+      "shiny": "Paragruel_shiny.png"
     }
   },
   {
@@ -11734,8 +11734,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Farfurex.jpg",
-      "shiny": "Farfurex_shiny.jpg"
+      "default": "Farfurex.png",
+      "shiny": "Farfurex_shiny.png"
     }
   },
   {
@@ -11747,8 +11747,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Qwilpik.jpg",
-      "shiny": "Qwilpik_shiny.jpg"
+      "default": "Qwilpik.png",
+      "shiny": "Qwilpik_shiny.png"
     }
   },
   {
@@ -11760,8 +11760,8 @@ export const pokedex = [
     },
     "generation": "8",
     "spriteFilenames": {
-      "default": "Amovénus.jpg",
-      "shiny": "Amovénus_shiny.jpg"
+      "default": "Amovénus.png",
+      "shiny": "Amovénus_shiny.png"
     }
   },
   {
@@ -11773,8 +11773,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Poussacha.jpg",
-      "shiny": "Poussacha_shiny.jpg"
+      "default": "Poussacha.png",
+      "shiny": "Poussacha_shiny.png"
     }
   },
   {
@@ -11786,8 +11786,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Matourgeon.jpg",
-      "shiny": "Matourgeon_shiny.jpg"
+      "default": "Matourgeon.png",
+      "shiny": "Matourgeon_shiny.png"
     }
   },
   {
@@ -11799,8 +11799,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Miascarade.jpg",
-      "shiny": "Miascarade_shiny.jpg"
+      "default": "Miascarade.png",
+      "shiny": "Miascarade_shiny.png"
     }
   },
   {
@@ -11812,8 +11812,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Chochodile.jpg",
-      "shiny": "Chochodile_shiny.jpg"
+      "default": "Chochodile.png",
+      "shiny": "Chochodile_shiny.png"
     }
   },
   {
@@ -11825,8 +11825,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Crocogril.jpg",
-      "shiny": "Crocogril_shiny.jpg"
+      "default": "Crocogril.png",
+      "shiny": "Crocogril_shiny.png"
     }
   },
   {
@@ -11838,8 +11838,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Flâmigator.jpg",
-      "shiny": "Flâmigator_shiny.jpg"
+      "default": "Flâmigator.png",
+      "shiny": "Flâmigator_shiny.png"
     }
   },
   {
@@ -11851,8 +11851,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Coiffeton.jpg",
-      "shiny": "Coiffeton_shiny.jpg"
+      "default": "Coiffeton.png",
+      "shiny": "Coiffeton_shiny.png"
     }
   },
   {
@@ -11864,8 +11864,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Canarbello.jpg",
-      "shiny": "Canarbello_shiny.jpg"
+      "default": "Canarbello.png",
+      "shiny": "Canarbello_shiny.png"
     }
   },
   {
@@ -11877,8 +11877,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Palmaval.jpg",
-      "shiny": "Palmaval_shiny.jpg"
+      "default": "Palmaval.png",
+      "shiny": "Palmaval_shiny.png"
     }
   },
   {
@@ -11890,8 +11890,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Gourmelet.jpg",
-      "shiny": "Gourmelet_shiny.jpg"
+      "default": "Gourmelet.png",
+      "shiny": "Gourmelet_shiny.png"
     }
   },
   {
@@ -11903,8 +11903,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Fragroin.jpg",
-      "shiny": "Fragroin_shiny.jpg"
+      "default": "Fragroin.png",
+      "shiny": "Fragroin_shiny.png"
     }
   },
   {
@@ -11916,8 +11916,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Tissenboule.jpg",
-      "shiny": "Tissenboule_shiny.jpg"
+      "default": "Tissenboule.png",
+      "shiny": "Tissenboule_shiny.png"
     }
   },
   {
@@ -11929,8 +11929,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Filentrappe.jpg",
-      "shiny": "Filentrappe_shiny.jpg"
+      "default": "Filentrappe.png",
+      "shiny": "Filentrappe_shiny.png"
     }
   },
   {
@@ -11942,8 +11942,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Lilliterelle.jpg",
-      "shiny": "Lilliterelle_shiny.jpg"
+      "default": "Lilliterelle.png",
+      "shiny": "Lilliterelle_shiny.png"
     }
   },
   {
@@ -11955,8 +11955,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Gambex.jpg",
-      "shiny": "Gambex_shiny.jpg"
+      "default": "Gambex.png",
+      "shiny": "Gambex_shiny.png"
     }
   },
   {
@@ -11968,8 +11968,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pohm.jpg",
-      "shiny": "Pohm_shiny.jpg"
+      "default": "Pohm.png",
+      "shiny": "Pohm_shiny.png"
     }
   },
   {
@@ -11981,8 +11981,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pohmotte.jpg",
-      "shiny": "Pohmotte_shiny.jpg"
+      "default": "Pohmotte.png",
+      "shiny": "Pohmotte_shiny.png"
     }
   },
   {
@@ -11994,8 +11994,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pohmarmotte.jpg",
-      "shiny": "Pohmarmotte_shiny.jpg"
+      "default": "Pohmarmotte.png",
+      "shiny": "Pohmarmotte_shiny.png"
     }
   },
   {
@@ -12007,8 +12007,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Compagnol.jpg",
-      "shiny": "Compagnol_shiny.jpg"
+      "default": "Compagnol.png",
+      "shiny": "Compagnol_shiny.png"
     }
   },
   {
@@ -12020,8 +12020,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Famignol.jpg",
-      "shiny": "Famignol_shiny.jpg"
+      "default": "Famignol.png",
+      "shiny": "Famignol_shiny.png"
     }
   },
   {
@@ -12033,8 +12033,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pâtachiot.jpg",
-      "shiny": "Pâtachiot_shiny.jpg"
+      "default": "Pâtachiot.png",
+      "shiny": "Pâtachiot_shiny.png"
     }
   },
   {
@@ -12046,8 +12046,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Briochien.jpg",
-      "shiny": "Briochien_shiny.jpg"
+      "default": "Briochien.png",
+      "shiny": "Briochien_shiny.png"
     }
   },
   {
@@ -12059,8 +12059,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Olivini.jpg",
-      "shiny": "Olivini_shiny.jpg"
+      "default": "Olivini.png",
+      "shiny": "Olivini_shiny.png"
     }
   },
   {
@@ -12072,8 +12072,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Olivado.jpg",
-      "shiny": "Olivado_shiny.jpg"
+      "default": "Olivado.png",
+      "shiny": "Olivado_shiny.png"
     }
   },
   {
@@ -12085,8 +12085,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Arboliva.jpg",
-      "shiny": "Arboliva_shiny.jpg"
+      "default": "Arboliva.png",
+      "shiny": "Arboliva_shiny.png"
     }
   },
   {
@@ -12098,8 +12098,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Tapatoès.jpg",
-      "shiny": "Tapatoès_shiny.jpg"
+      "default": "Tapatoès.png",
+      "shiny": "Tapatoès_shiny.png"
     }
   },
   {
@@ -12111,8 +12111,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Selutin.jpg",
-      "shiny": "Selutin_shiny.jpg"
+      "default": "Selutin.png",
+      "shiny": "Selutin_shiny.png"
     }
   },
   {
@@ -12124,8 +12124,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Amassel.jpg",
-      "shiny": "Amassel_shiny.jpg"
+      "default": "Amassel.png",
+      "shiny": "Amassel_shiny.png"
     }
   },
   {
@@ -12137,8 +12137,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Gigansel.jpg",
-      "shiny": "Gigansel_shiny.jpg"
+      "default": "Gigansel.png",
+      "shiny": "Gigansel_shiny.png"
     }
   },
   {
@@ -12150,8 +12150,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Charbambin.jpg",
-      "shiny": "Charbambin_shiny.jpg"
+      "default": "Charbambin.png",
+      "shiny": "Charbambin_shiny.png"
     }
   },
   {
@@ -12163,8 +12163,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Carmadura.jpg",
-      "shiny": "Carmadura_shiny.jpg"
+      "default": "Carmadura.png",
+      "shiny": "Carmadura_shiny.png"
     }
   },
   {
@@ -12176,8 +12176,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Malvalame.jpg",
-      "shiny": "Malvalame_shiny.jpg"
+      "default": "Malvalame.png",
+      "shiny": "Malvalame_shiny.png"
     }
   },
   {
@@ -12189,8 +12189,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Têtampoule.jpg",
-      "shiny": "Têtampoule_shiny.jpg"
+      "default": "Têtampoule.png",
+      "shiny": "Têtampoule_shiny.png"
     }
   },
   {
@@ -12202,8 +12202,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Ampibidou.jpg",
-      "shiny": "Ampibidou_shiny.jpg"
+      "default": "Ampibidou.png",
+      "shiny": "Ampibidou_shiny.png"
     }
   },
   {
@@ -12215,8 +12215,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Zapétrel.jpg",
-      "shiny": "Zapétrel_shiny.jpg"
+      "default": "Zapétrel.png",
+      "shiny": "Zapétrel_shiny.png"
     }
   },
   {
@@ -12228,8 +12228,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Fulgulairo.jpg",
-      "shiny": "Fulgulairo_shiny.jpg"
+      "default": "Fulgulairo.png",
+      "shiny": "Fulgulairo_shiny.png"
     }
   },
   {
@@ -12241,8 +12241,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Grondogue.jpg",
-      "shiny": "Grondogue_shiny.jpg"
+      "default": "Grondogue.png",
+      "shiny": "Grondogue_shiny.png"
     }
   },
   {
@@ -12254,8 +12254,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Dogrino.jpg",
-      "shiny": "Dogrino_shiny.jpg"
+      "default": "Dogrino.png",
+      "shiny": "Dogrino_shiny.png"
     }
   },
   {
@@ -12267,8 +12267,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Gribouraigne.jpg",
-      "shiny": "Gribouraigne_shiny.jpg"
+      "default": "Gribouraigne.png",
+      "shiny": "Gribouraigne_shiny.png"
     }
   },
   {
@@ -12280,8 +12280,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Tag-Tag.jpg",
-      "shiny": "Tag-Tag_shiny.jpg"
+      "default": "Tag-Tag.png",
+      "shiny": "Tag-Tag_shiny.png"
     }
   },
   {
@@ -12293,8 +12293,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Virovent.jpg",
-      "shiny": "Virovent_shiny.jpg"
+      "default": "Virovent.png",
+      "shiny": "Virovent_shiny.png"
     }
   },
   {
@@ -12306,8 +12306,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Virevorreur.jpg",
-      "shiny": "Virevorreur_shiny.jpg"
+      "default": "Virevorreur.png",
+      "shiny": "Virevorreur_shiny.png"
     }
   },
   {
@@ -12319,8 +12319,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Terracool.jpg",
-      "shiny": "Terracool_shiny.jpg"
+      "default": "Terracool.png",
+      "shiny": "Terracool_shiny.png"
     }
   },
   {
@@ -12332,8 +12332,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Terracruel.jpg",
-      "shiny": "Terracruel_shiny.jpg"
+      "default": "Terracruel.png",
+      "shiny": "Terracruel_shiny.png"
     }
   },
   {
@@ -12345,8 +12345,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Craparoi.jpg",
-      "shiny": "Craparoi_shiny.jpg"
+      "default": "Craparoi.png",
+      "shiny": "Craparoi_shiny.png"
     }
   },
   {
@@ -12358,8 +12358,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pimito.jpg",
-      "shiny": "Pimito_shiny.jpg"
+      "default": "Pimito.png",
+      "shiny": "Pimito_shiny.png"
     }
   },
   {
@@ -12371,8 +12371,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Scovilain.jpg",
-      "shiny": "Scovilain_shiny.jpg"
+      "default": "Scovilain.png",
+      "shiny": "Scovilain_shiny.png"
     }
   },
   {
@@ -12384,8 +12384,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Léboulérou.jpg",
-      "shiny": "Léboulérou_shiny.jpg"
+      "default": "Léboulérou.png",
+      "shiny": "Léboulérou_shiny.png"
     }
   },
   {
@@ -12397,8 +12397,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Bérasca.jpg",
-      "shiny": "Bérasca_shiny.jpg"
+      "default": "Bérasca.png",
+      "shiny": "Bérasca_shiny.png"
     }
   },
   {
@@ -12410,8 +12410,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Flotillon.jpg",
-      "shiny": "Flotillon_shiny.jpg"
+      "default": "Flotillon.png",
+      "shiny": "Flotillon_shiny.png"
     }
   },
   {
@@ -12423,8 +12423,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Cléopsytra.jpg",
-      "shiny": "Cléopsytra_shiny.jpg"
+      "default": "Cléopsytra.png",
+      "shiny": "Cléopsytra_shiny.png"
     }
   },
   {
@@ -12436,8 +12436,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Forgerette.jpg",
-      "shiny": "Forgerette_shiny.jpg"
+      "default": "Forgerette.png",
+      "shiny": "Forgerette_shiny.png"
     }
   },
   {
@@ -12449,8 +12449,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Forgella.jpg",
-      "shiny": "Forgella_shiny.jpg"
+      "default": "Forgella.png",
+      "shiny": "Forgella_shiny.png"
     }
   },
   {
@@ -12462,8 +12462,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Forgelina.jpg",
-      "shiny": "Forgelina_shiny.jpg"
+      "default": "Forgelina.png",
+      "shiny": "Forgelina_shiny.png"
     }
   },
   {
@@ -12475,8 +12475,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Taupikeau.jpg",
-      "shiny": "Taupikeau_shiny.jpg"
+      "default": "Taupikeau.png",
+      "shiny": "Taupikeau_shiny.png"
     }
   },
   {
@@ -12488,8 +12488,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Triopikeau.jpg",
-      "shiny": "Triopikeau_shiny.jpg"
+      "default": "Triopikeau.png",
+      "shiny": "Triopikeau_shiny.png"
     }
   },
   {
@@ -12501,8 +12501,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Lestombaile.jpg",
-      "shiny": "Lestombaile_shiny.jpg"
+      "default": "Lestombaile.png",
+      "shiny": "Lestombaile_shiny.png"
     }
   },
   {
@@ -12514,8 +12514,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Dofin.jpg",
-      "shiny": "Dofin_shiny.jpg"
+      "default": "Dofin.png",
+      "shiny": "Dofin_shiny.png"
     }
   },
   {
@@ -12527,8 +12527,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Superdofin.jpg",
-      "shiny": "Superdofin_shiny.jpg"
+      "default": "Superdofin.png",
+      "shiny": "Superdofin_shiny.png"
     }
   },
   {
@@ -12540,8 +12540,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Vrombi.jpg",
-      "shiny": "Vrombi_shiny.jpg"
+      "default": "Vrombi.png",
+      "shiny": "Vrombi_shiny.png"
     }
   },
   {
@@ -12553,8 +12553,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Vrombotor.jpg",
-      "shiny": "Vrombotor_shiny.jpg"
+      "default": "Vrombotor.png",
+      "shiny": "Vrombotor_shiny.png"
     }
   },
   {
@@ -12566,8 +12566,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Motorizard.jpg",
-      "shiny": "Motorizard_shiny.jpg"
+      "default": "Motorizard.png",
+      "shiny": "Motorizard_shiny.png"
     }
   },
   {
@@ -12579,8 +12579,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Ferdeter.jpg",
-      "shiny": "Ferdeter_shiny.jpg"
+      "default": "Ferdeter.png",
+      "shiny": "Ferdeter_shiny.png"
     }
   },
   {
@@ -12592,8 +12592,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Germéclat.jpg",
-      "shiny": "Germéclat_shiny.jpg"
+      "default": "Germéclat.png",
+      "shiny": "Germéclat_shiny.png"
     }
   },
   {
@@ -12605,8 +12605,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Floréclat.jpg",
-      "shiny": "Floréclat_shiny.jpg"
+      "default": "Floréclat.png",
+      "shiny": "Floréclat_shiny.png"
     }
   },
   {
@@ -12618,8 +12618,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Toutombe.jpg",
-      "shiny": "Toutombe_shiny.jpg"
+      "default": "Toutombe.png",
+      "shiny": "Toutombe_shiny.png"
     }
   },
   {
@@ -12631,8 +12631,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Tomberro.jpg",
-      "shiny": "Tomberro_shiny.jpg"
+      "default": "Tomberro.png",
+      "shiny": "Tomberro_shiny.png"
     }
   },
   {
@@ -12644,8 +12644,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Flamenroule.jpg",
-      "shiny": "Flamenroule_shiny.jpg"
+      "default": "Flamenroule.png",
+      "shiny": "Flamenroule_shiny.png"
     }
   },
   {
@@ -12657,8 +12657,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Piétacé.jpg",
-      "shiny": "Piétacé_shiny.jpg"
+      "default": "Piétacé.png",
+      "shiny": "Piétacé_shiny.png"
     }
   },
   {
@@ -12670,8 +12670,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Balbalèze.jpg",
-      "shiny": "Balbalèze_shiny.jpg"
+      "default": "Balbalèze.png",
+      "shiny": "Balbalèze_shiny.png"
     }
   },
   {
@@ -12683,8 +12683,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Délestin.jpg",
-      "shiny": "Délestin_shiny.jpg"
+      "default": "Délestin.png",
+      "shiny": "Délestin_shiny.png"
     }
   },
   {
@@ -12696,8 +12696,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Oyacata.jpg",
-      "shiny": "Oyacata_shiny.jpg"
+      "default": "Oyacata.png",
+      "shiny": "Oyacata_shiny.png"
     }
   },
   {
@@ -12709,8 +12709,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Nigirigon.jpg",
-      "shiny": "Nigirigon_shiny.jpg"
+      "default": "Nigirigon.png",
+      "shiny": "Nigirigon_shiny.png"
     }
   },
   {
@@ -12722,8 +12722,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Courrousinge.jpg",
-      "shiny": "Courrousinge_shiny.jpg"
+      "default": "Courrousinge.png",
+      "shiny": "Courrousinge_shiny.png"
     }
   },
   {
@@ -12735,8 +12735,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Terraiste.jpg",
-      "shiny": "Terraiste_shiny.jpg"
+      "default": "Terraiste.png",
+      "shiny": "Terraiste_shiny.png"
     }
   },
   {
@@ -12748,8 +12748,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Farigiraf.jpg",
-      "shiny": "Farigiraf_shiny.jpg"
+      "default": "Farigiraf.png",
+      "shiny": "Farigiraf_shiny.png"
     }
   },
   {
@@ -12761,8 +12761,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Deusolourdo.jpg",
-      "shiny": "Deusolourdo_shiny.jpg"
+      "default": "Deusolourdo.png",
+      "shiny": "Deusolourdo_shiny.png"
     }
   },
   {
@@ -12774,8 +12774,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Scalpereur.jpg",
-      "shiny": "Scalpereur_shiny.jpg"
+      "default": "Scalpereur.png",
+      "shiny": "Scalpereur_shiny.png"
     }
   },
   {
@@ -12787,8 +12787,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Fort-Ivoire.jpg",
-      "shiny": "Fort-Ivoire_shiny.jpg"
+      "default": "Fort-Ivoire.png",
+      "shiny": "Fort-Ivoire_shiny.png"
     }
   },
   {
@@ -12800,8 +12800,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Hurle-Queue.jpg",
-      "shiny": "Hurle-Queue_shiny.jpg"
+      "default": "Hurle-Queue.png",
+      "shiny": "Hurle-Queue_shiny.png"
     }
   },
   {
@@ -12813,8 +12813,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Fongus-Furie.jpg",
-      "shiny": "Fongus-Furie_shiny.jpg"
+      "default": "Fongus-Furie.png",
+      "shiny": "Fongus-Furie_shiny.png"
     }
   },
   {
@@ -12826,8 +12826,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Flotte-Mèche.jpg",
-      "shiny": "Flotte-Mèche_shiny.jpg"
+      "default": "Flotte-Mèche.png",
+      "shiny": "Flotte-Mèche_shiny.png"
     }
   },
   {
@@ -12839,8 +12839,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Rampe-Ailes.jpg",
-      "shiny": "Rampe-Ailes_shiny.jpg"
+      "default": "Rampe-Ailes.png",
+      "shiny": "Rampe-Ailes_shiny.png"
     }
   },
   {
@@ -12852,8 +12852,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pelage-Sablé.jpg",
-      "shiny": "Pelage-Sablé_shiny.jpg"
+      "default": "Pelage-Sablé.png",
+      "shiny": "Pelage-Sablé_shiny.png"
     }
   },
   {
@@ -12865,8 +12865,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Roue-de-Fer.jpg",
-      "shiny": "Roue-de-Fer_shiny.jpg"
+      "default": "Roue-de-Fer.png",
+      "shiny": "Roue-de-Fer_shiny.png"
     }
   },
   {
@@ -12878,8 +12878,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Hotte-de-Fer.jpg",
-      "shiny": "Hotte-de-Fer_shiny.jpg"
+      "default": "Hotte-de-Fer.png",
+      "shiny": "Hotte-de-Fer_shiny.png"
     }
   },
   {
@@ -12891,8 +12891,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Paume-de-Fer.jpg",
-      "shiny": "Paume-de-Fer_shiny.jpg"
+      "default": "Paume-de-Fer.png",
+      "shiny": "Paume-de-Fer_shiny.png"
     }
   },
   {
@@ -12904,8 +12904,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Têtes-de-Fer.jpg",
-      "shiny": "Têtes-de-Fer_shiny.jpg"
+      "default": "Têtes-de-Fer.png",
+      "shiny": "Têtes-de-Fer_shiny.png"
     }
   },
   {
@@ -12917,8 +12917,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Mite-de-Fer.jpg",
-      "shiny": "Mite-de-Fer_shiny.jpg"
+      "default": "Mite-de-Fer.png",
+      "shiny": "Mite-de-Fer_shiny.png"
     }
   },
   {
@@ -12930,8 +12930,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Épine-de-Fer.jpg",
-      "shiny": "Épine-de-Fer_shiny.jpg"
+      "default": "Épine-de-Fer.png",
+      "shiny": "Épine-de-Fer_shiny.png"
     }
   },
   {
@@ -12943,8 +12943,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Frigodo.jpg",
-      "shiny": "Frigodo_shiny.jpg"
+      "default": "Frigodo.png",
+      "shiny": "Frigodo_shiny.png"
     }
   },
   {
@@ -12956,8 +12956,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Cryodo.jpg",
-      "shiny": "Cryodo_shiny.jpg"
+      "default": "Cryodo.png",
+      "shiny": "Cryodo_shiny.png"
     }
   },
   {
@@ -12969,8 +12969,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Glaivodo.jpg",
-      "shiny": "Glaivodo_shiny.jpg"
+      "default": "Glaivodo.png",
+      "shiny": "Glaivodo_shiny.png"
     }
   },
   {
@@ -12982,8 +12982,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Mordudor.jpg",
-      "shiny": "Mordudor_shiny.jpg"
+      "default": "Mordudor.png",
+      "shiny": "Mordudor_shiny.png"
     }
   },
   {
@@ -12995,8 +12995,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Gromago.jpg",
-      "shiny": "Gromago_shiny.jpg"
+      "default": "Gromago.png",
+      "shiny": "Gromago_shiny.png"
     }
   },
   {
@@ -13008,8 +13008,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Chongjian.jpg",
-      "shiny": "Chongjian_shiny.jpg"
+      "default": "Chongjian.png",
+      "shiny": "Chongjian_shiny.png"
     }
   },
   {
@@ -13021,8 +13021,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Baojian.jpg",
-      "shiny": "Baojian_shiny.jpg"
+      "default": "Baojian.png",
+      "shiny": "Baojian_shiny.png"
     }
   },
   {
@@ -13034,8 +13034,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Dinglu.jpg",
-      "shiny": "Dinglu_shiny.jpg"
+      "default": "Dinglu.png",
+      "shiny": "Dinglu_shiny.png"
     }
   },
   {
@@ -13047,8 +13047,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Yuyu.jpg",
-      "shiny": "Yuyu_shiny.jpg"
+      "default": "Yuyu.png",
+      "shiny": "Yuyu_shiny.png"
     }
   },
   {
@@ -13060,8 +13060,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Rugit-Lune.jpg",
-      "shiny": "Rugit-Lune_shiny.jpg"
+      "default": "Rugit-Lune.png",
+      "shiny": "Rugit-Lune_shiny.png"
     }
   },
   {
@@ -13073,8 +13073,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Garde-de-Fer.jpg",
-      "shiny": "Garde-de-Fer_shiny.jpg"
+      "default": "Garde-de-Fer.png",
+      "shiny": "Garde-de-Fer_shiny.png"
     }
   },
   {
@@ -13086,8 +13086,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Koraidon.jpg",
-      "shiny": "Koraidon_shiny.jpg"
+      "default": "Koraidon.png",
+      "shiny": "Koraidon_shiny.png"
     }
   },
   {
@@ -13099,8 +13099,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Miraidon.jpg",
-      "shiny": "Miraidon_shiny.jpg"
+      "default": "Miraidon.png",
+      "shiny": "Miraidon_shiny.png"
     }
   },
   {
@@ -13112,8 +13112,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Serpente-Eau.jpg",
-      "shiny": "Serpente-Eau_shiny.jpg"
+      "default": "Serpente-Eau.png",
+      "shiny": "Serpente-Eau_shiny.png"
     }
   },
   {
@@ -13125,8 +13125,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Vert-de-Fer.jpg",
-      "shiny": "Vert-de-Fer_shiny.jpg"
+      "default": "Vert-de-Fer.png",
+      "shiny": "Vert-de-Fer_shiny.png"
     }
   },
   {
@@ -13138,8 +13138,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pomdramour.jpg",
-      "shiny": "Pomdramour_shiny.jpg"
+      "default": "Pomdramour.png",
+      "shiny": "Pomdramour_shiny.png"
     }
   },
   {
@@ -13151,8 +13151,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Poltchageist.jpg",
-      "shiny": "Poltchageist_shiny.jpg"
+      "default": "Poltchageist.png",
+      "shiny": "Poltchageist_shiny.png"
     }
   },
   {
@@ -13164,8 +13164,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Théffroyable.jpg",
-      "shiny": "Théffroyable_shiny.jpg"
+      "default": "Théffroyable.png",
+      "shiny": "Théffroyable_shiny.png"
     }
   },
   {
@@ -13177,8 +13177,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Félicanis.jpg",
-      "shiny": "Félicanis_shiny.jpg"
+      "default": "Félicanis.png",
+      "shiny": "Félicanis_shiny.png"
     }
   },
   {
@@ -13190,8 +13190,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Fortusimia.jpg",
-      "shiny": "Fortusimia_shiny.jpg"
+      "default": "Fortusimia.png",
+      "shiny": "Fortusimia_shiny.png"
     }
   },
   {
@@ -13203,8 +13203,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Favianos.jpg",
-      "shiny": "Favianos_shiny.jpg"
+      "default": "Favianos.png",
+      "shiny": "Favianos_shiny.png"
     }
   },
   {
@@ -13216,8 +13216,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Ogerpon.jpg",
-      "shiny": "Ogerpon_shiny.jpg"
+      "default": "Ogerpon.png",
+      "shiny": "Ogerpon_shiny.png"
     }
   },
   {
@@ -13229,8 +13229,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pondralugon.jpg",
-      "shiny": "Pondralugon_shiny.jpg"
+      "default": "Pondralugon.png",
+      "shiny": "Pondralugon_shiny.png"
     }
   },
   {
@@ -13242,8 +13242,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pomdorochi.jpg",
-      "shiny": "Pomdorochi_shiny.jpg"
+      "default": "Pomdorochi.png",
+      "shiny": "Pomdorochi_shiny.png"
     }
   },
   {
@@ -13255,8 +13255,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Feu-Perçant.jpg",
-      "shiny": "Feu-Perçant_shiny.jpg"
+      "default": "Feu-Perçant.png",
+      "shiny": "Feu-Perçant_shiny.png"
     }
   },
   {
@@ -13268,8 +13268,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Ire-Foudre.jpg",
-      "shiny": "Ire-Foudre_shiny.jpg"
+      "default": "Ire-Foudre.png",
+      "shiny": "Ire-Foudre_shiny.png"
     }
   },
   {
@@ -13281,8 +13281,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Roc-de-Fer.jpg",
-      "shiny": "Roc-de-Fer_shiny.jpg"
+      "default": "Roc-de-Fer.png",
+      "shiny": "Roc-de-Fer_shiny.png"
     }
   },
   {
@@ -13294,8 +13294,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Chef-de-Fer.jpg",
-      "shiny": "Chef-de-Fer_shiny.jpg"
+      "default": "Chef-de-Fer.png",
+      "shiny": "Chef-de-Fer_shiny.png"
     }
   },
   {
@@ -13307,8 +13307,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Terapagos.jpg",
-      "shiny": "Terapagos_shiny.jpg"
+      "default": "Terapagos.png",
+      "shiny": "Terapagos_shiny.png"
     }
   },
   {
@@ -13320,8 +13320,8 @@ export const pokedex = [
     },
     "generation": "9",
     "spriteFilenames": {
-      "default": "Pêchaminus.jpg",
-      "shiny": "Pêchaminus_shiny.jpg"
+      "default": "Pêchaminus.png",
+      "shiny": "Pêchaminus_shiny.png"
     }
   }
 ];
