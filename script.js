@@ -163,12 +163,12 @@ async function fetchData(number, pokedexData) {
 
 			if (frontDefaultUrl) {
 				const defaultFilename = getSpriteFilename(nameFr, number);
-				await saveSpriteImage(frontDefaultUrl, defaultFilename, "default"); // Pass only the filename
+				await saveSpriteImage(frontDefaultUrl, defaultFilename, "default");
 			}
 
 			if (frontShinyUrl) {
 				const shinyFilename = getSpriteFilename(nameFr, number, "shiny");
-				await saveSpriteImage(frontShinyUrl, shinyFilename, "shiny"); // Pass only the filename
+				await saveSpriteImage(frontShinyUrl, shinyFilename, "shiny");
 			}
 		} catch (error) {
 			handleError(
