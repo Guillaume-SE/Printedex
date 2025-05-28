@@ -63,7 +63,7 @@ function formatGeneration(generationName) {
 function getSpriteFilename(name, id, variant = "") {
 	// Sanitize ":" to avoid errors with Pokémon "Type:0".
 	const sanitizedName = name ? name.replace(/:/g, "_") : `Pokemon_${id}`;
-	return variant ? `${sanitizedName}_${variant}.jpg` : `${sanitizedName}.jpg`;
+	return variant ? `${sanitizedName}_${variant}.png` : `${sanitizedName}.png`;
 }
 
 function getImagePath(filename, type) {
