@@ -4,9 +4,9 @@ import path from "path";
 import readline from "readline";
 
 const dataFile = path.join(process.cwd(), "pokedex.js");
-// const imagesFolder = path.join(process.cwd(), "public/sprites");
-const defaultSpritesFolder = path.join(process.cwd(), "public/sprites/default");
-const shinySpritesFolder = path.join(process.cwd(), "public/sprites/shiny");
+const imagesFolder = path.join(process.cwd(), "public/sprites");
+const defaultSpritesFolder = path.join(imagesFolder, "/default");
+const shinySpritesFolder = path.join(imagesFolder, "/shiny");
 
 if (!fs.existsSync(defaultSpritesFolder)) {
 	fs.mkdirSync(defaultSpritesFolder);
