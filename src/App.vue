@@ -24,7 +24,7 @@ function generate() {
 		.map((pokemon) => ({
 			id: pokemon.id,
 			name: pokemon.name[selectedLanguage.value],
-			imageUrl: `Printedex/sprites/default/${pokemon.spriteFilenames.default}`,
+			imageUrl: `./sprites/default/${pokemon.spriteFilenames.default}`,
 			generation: pokemon.generation,
 		}));
 	canPrint.value = true;
@@ -73,7 +73,7 @@ function showPrintDialog() {
 						<span>
 							<img
 								class="flag-icon"
-								:src="`Printedex/icons/${lang}-flag.svg`"
+								:src="`./icons/${lang}-flag.svg`"
 								alt=""
 							/>
 						</span>
