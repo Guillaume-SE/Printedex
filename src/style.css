@@ -65,10 +65,12 @@ input[type="checkbox"] {
 
 @page {
 	size: landscape;
+	margin: 0 0 0 1mm;
 }
 /* for portrait mode*/
 /* @page {
 	size: portrait;
+	margin: 0 0 0 1mm;
 } */
 
 @media print {
