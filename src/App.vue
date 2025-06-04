@@ -4,11 +4,12 @@ import { pokedex } from "/pokedex.js";
 
 const selectedGens = ref([]);
 const selectedLanguage = ref("fr");
+const selectedVersion = ref("default");
 
 const gensList = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
 const languageList = ["fr", "eng", "jp"];
 const pokemonList = ref([]);
-const canPrint = ref(false);
+const isGenerated = ref(false);
 
 onMounted(() => {
 	selectedGens.value = gensList;
@@ -24,15 +25,22 @@ function generate() {
 		.map((pokemon) => ({
 			id: pokemon.id,
 			name: pokemon.name[selectedLanguage.value],
-			imageUrl: `./sprites/default/${pokemon.spriteFilenames.default}`,
+			imageUrl: getSpriteUrl(pokemon, selectedVersion.value),
 			generation: pokemon.generation,
 		}));
-	canPrint.value = true;
+	isGenerated.value = true;
 }
 
 // Show print dialog
 function showPrintDialog() {
 	window.print();
+}
+
+function getSpriteUrl(pokemon, type = "default") {
+	if (type === "shiny") {
+		return `./sprites/shiny/${pokemon.spriteFilenames.shiny}`;
+	}
+	return `./sprites/default/${pokemon.spriteFilenames.default}`;
 }
 </script>
 
@@ -40,6 +48,7 @@ function showPrintDialog() {
 	<div class="generate">
 		<!-- User selection controls -->
 		<div id="filters">
+			<!-- gens choice -->
 			<div>
 				<fieldset>
 					<legend>Choisissez une ou plusieurs générations</legend>
@@ -56,7 +65,7 @@ function showPrintDialog() {
 					</label>
 				</fieldset>
 			</div>
-
+			<!-- language choice -->
 			<div>
 				<fieldset>
 					<legend>Choisissez une langue pour les noms</legend>
@@ -80,10 +89,32 @@ function showPrintDialog() {
 					</label>
 				</fieldset>
 			</div>
+			<!-- sprite choice -->
+			<div>
+				<fieldset>
+					<legend>Choisissez la version</legend>
+					<label>
+						Normal
+						<input
+							type="radio"
+							value="default"
+							v-model="selectedVersion"
+						/>
+					</label>
+					<label>
+						Shiny
+						<input
+							type="radio"
+							value="shiny"
+							v-model="selectedVersion"
+						/>
+					</label>
+				</fieldset>
+			</div>
 		</div>
 		<button @click="generate">Generate List</button>
 		<button
-			:disabled="!canPrint"
+			:disabled="!isGenerated"
 			@click="showPrintDialog"
 		>
 			Impression
