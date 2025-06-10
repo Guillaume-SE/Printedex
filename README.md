@@ -14,6 +14,6 @@ Then run:
 - npm run dev
 ```
 
-`script.js` : will fetch required data to run everything in local in accord to the PokéApi rules. Images will go to newly created `sprites` folder and data will be writen inside `pokedox.js`.
+`script.js` : will fetch required data to run everything in local in accord to the PokéApi rules. Images will go to newly created `sprites` folder and data will be writen inside `pokedex.js`.
 
 `scan.js` : the function of the "scan.js" script is to examine the "pokedex.js" to verify that each individual Pokémon has all the specified data.
